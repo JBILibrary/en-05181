@@ -1,0 +1,3781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx v1.1.0//EN" "ncx110.dtd">
+<ncx version="1.1.0">
+	<head>
+		<meta name="dtb:uid" content="us-JBI-EN-05181"/>
+		<meta name="dtb:generator" content="LCM 1.0.0.1"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:maxPageNormal" content="48"/>
+		<meta name="dtb:pageFront" content="0"/>
+		<meta name="dtb:pageNormal" content="48"/>
+		<meta name="dtb:pageSpecial" content="0"/>
+		<smilCustomTest id="pagenum" defaultState="true" override="visible"/>
+	</head>
+	<docTitle>
+		<text>Sephardim in 20th Century America</text>
+		<audio src="EN-05181hdgs.3gp" clipBegin="0:00:00.000" clipEnd="0:00:04.064"/>
+	</docTitle>
+	<docAuthor>
+		<text>Joseph M. Papo</text>
+		<audio src="EN-05181hdgs.3gp" clipBegin="0:00:04.064" clipEnd="0:00:05.740"/>
+	</docAuthor>
+	<navMap>
+		<navPoint class="open" id="P14_1">
+			<navLabel>
+				<text>Property of JBI</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:05.740" clipEnd="0:00:14.245"/>
+			</navLabel>
+			<content src="EN-05181.smil#P14_1"/>
+		</navPoint>
+		<navPoint class="dedication" id="P30_1">
+			<navLabel>
+				<text>Dedication</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:14.245" clipEnd="0:00:15.370"/>
+			</navLabel>
+			<content src="EN-05181.smil#P30_1"/>
+		</navPoint>
+		<navPoint class="foreword" id="P22_1">
+			<navLabel>
+				<text>Foreword and Acknoledgements</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:15.370" clipEnd="0:00:17.693"/>
+			</navLabel>
+			<content src="EN-05181.smil#P22_1"/>
+		</navPoint>
+		<navPoint class="introduction" id="P20_1">
+			<navLabel>
+				<text>Introduction</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:17.693" clipEnd="0:00:18.797"/>
+			</navLabel>
+			<content src="EN-05181.smil#P20_1"/>
+		</navPoint>
+		<navPoint class="contents" id="P17_1">
+			<navLabel>
+				<text>ToC</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:18.797" clipEnd="0:00:20.304"/>
+			</navLabel>
+			<content src="EN-05181.smil#P17_1"/>
+		</navPoint>
+		<navPoint class="part" id="P2_1">
+			<navLabel>
+				<text>1: Transplanted Roots</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:20.304" clipEnd="0:00:23.294"/>
+			</navLabel>
+			<content src="EN-05181.smil#P2_1"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_1" pageRef="pagenum_1">
+			<navLabel>
+				<text>1: Judeo-Spanish Culture in the Ottoman Empire</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:23.294" clipEnd="0:00:27.822"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_1"/>
+		</navPoint>
+		<navPoint class="section" id="P4_1" pageRef="pagenum_1">
+			<navLabel>
+				<text>Who are the Sephardim?</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:27.822" clipEnd="0:00:29.774"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_1"/>
+		</navPoint>
+		<navPoint class="section" id="P4_2" pageRef="pagenum_2">
+			<navLabel>
+				<text>Life on the Iberian Peninsula</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:29.774" clipEnd="0:00:32.219"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_2"/>
+		</navPoint>
+		<navPoint class="section" id="P4_3" pageRef="pagenum_8">
+			<navLabel>
+				<text>Onset and Decline of the Ottoman Empire</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:32.219" clipEnd="0:00:35.061"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_3"/>
+		</navPoint>
+		<navPoint class="section" id="P4_4" pageRef="pagenum_9">
+			<navLabel>
+				<text>Rebirth of Religious Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:35.061" clipEnd="0:00:36.909"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_4"/>
+		</navPoint>
+		<navPoint class="section" id="P4_5" pageRef="pagenum_11">
+			<navLabel>
+				<text>Family Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:36.909" clipEnd="0:00:38.070"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_5"/>
+		</navPoint>
+		<navPoint class="section" id="P4_6" pageRef="pagenum_15">
+			<navLabel>
+				<text>Life in the Early 20th Century</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:38.070" clipEnd="0:00:40.439"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_6"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_2" pageRef="pagenum_18">
+			<navLabel>
+				<text>2: Arrival and Adaptation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:40.439" clipEnd="0:00:43.382"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_2"/>
+		</navPoint>
+		<navPoint class="section" id="P4_7" pageRef="pagenum_18">
+			<navLabel>
+				<text>Rason for Immigration</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:43.382" clipEnd="0:00:45.180"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_7"/>
+		</navPoint>
+		<navPoint class="part" id="P2_2" pageRef="pagenum_18">
+			<navLabel>
+				<text>2: Early Years and the Emerging Sephardi Identity</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:45.180" clipEnd="0:00:50.508"/>
+			</navLabel>
+			<content src="EN-05181.smil#P2_2"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_3" pageRef="pagenum_19">
+			<navLabel>
+				<text>3: Distant Relations, Encounters with the Ashkenazi Masses, and the Earliest Sephardi Community</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:50.508" clipEnd="0:00:57.821"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_19"/>
+		</navPoint>
+		<navPoint class="section" id="P4_8" pageRef="pagenum_19">
+			<navLabel>
+				<text>Ashkenazi Bewilderment</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:57.821" clipEnd="0:00:59.929"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_8"/>
+		</navPoint>
+		<navPoint class="section" id="P4_9" pageRef="pagenum_19">
+			<navLabel>
+				<text>Steps Towards Mutual Understanding</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:00:59.929" clipEnd="0:01:00.647"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_9"/>
+		</navPoint>
+		<navPoint class="section" id="P4_10" pageRef="pagenum_19">
+			<navLabel>
+				<text>Stumbling Block the the Road to Rapprochment</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:00.647" clipEnd="0:01:03.894"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_10"/>
+		</navPoint>
+		<navPoint class="section" id="P4_11" pageRef="pagenum_19">
+			<navLabel>
+				<text>Beginning Participation in National Jewish Affairs</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:03.894" clipEnd="0:01:07.633"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_11"/>
+		</navPoint>
+		<navPoint class="section" id="P4_12" pageRef="pagenum_19">
+			<navLabel>
+				<text>Social Gulf and Ensuing Tension</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:07.633" clipEnd="0:01:10.433"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_12"/>
+		</navPoint>
+		<navPoint class="section" id="P4_13" pageRef="pagenum_19">
+			<navLabel>
+				<text>Growing Cooperation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:10.433" clipEnd="0:01:12.119"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_13"/>
+		</navPoint>
+		<navPoint class="section" id="P4_14" pageRef="pagenum_19">
+			<navLabel>
+				<text>Congregation's Sisterhood Crucial Role</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:12.119" clipEnd="0:01:14.851"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_14"/>
+		</navPoint>
+		<navPoint class="section" id="P4_15" pageRef="pagenum_19">
+			<navLabel>
+				<text>Sisterhood Broadens its Scope</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:14.851" clipEnd="0:01:16.987"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_15"/>
+		</navPoint>
+		<navPoint class="section" id="P4_16" pageRef="pagenum_19">
+			<navLabel>
+				<text>Union of Sephardic Congregations</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:16.987" clipEnd="0:01:19.529"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_16"/>
+		</navPoint>
+		<navPoint class="section" id="P4_17" pageRef="pagenum_19">
+			<navLabel>
+				<text>Union and the Central Community</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:19.529" clipEnd="0:01:21.862"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_17"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_4" pageRef="pagenum_20">
+			<navLabel>
+				<text>4: Forming Public Policy</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:21.862" clipEnd="0:01:24.969"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_4"/>
+		</navPoint>
+		<navPoint class="section" id="P4_18" pageRef="pagenum_20">
+			<navLabel>
+				<text>The Judeo-Spanish Press and American Politics</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:24.969" clipEnd="0:01:28.765"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_18"/>
+		</navPoint>
+		<navPoint class="section" id="P4_19" pageRef="pagenum_20">
+			<navLabel>
+				<text>Campaign for Naturalization</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:28.765" clipEnd="0:01:31.052"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_19"/>
+		</navPoint>
+		<navPoint class="section" id="P4_20" pageRef="pagenum_20">
+			<navLabel>
+				<text>Problems of Military Service</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:31.052" clipEnd="0:01:33.235"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_20"/>
+		</navPoint>
+		<navPoint class="section" id="P4_21" pageRef="pagenum_20">
+			<navLabel>
+				<text>Literacy as Criterium for Admission to USA [sic]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:33.235" clipEnd="0:01:36.980"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_21"/>
+		</navPoint>
+		<navPoint class="section" id="P4_22" pageRef="pagenum_20">
+			<navLabel>
+				<text>Drive to Increase Involvement in Politics</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:36.980" clipEnd="0:01:40.156"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_22"/>
+		</navPoint>
+		<navPoint class="section" id="P4_23" pageRef="pagenum_20">
+			<navLabel>
+				<text>La America: Struggle for Survival</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:40.156" clipEnd="0:01:43.084"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_23"/>
+		</navPoint>
+		<navPoint class="section" id="P4_24" pageRef="pagenum_20">
+			<navLabel>
+				<text>Emergence of New Publications</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:43.084" clipEnd="0:01:45.673"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_24"/>
+		</navPoint>
+		<navPoint class="section" id="P4_25" pageRef="pagenum_20">
+			<navLabel>
+				<text>La Vara</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:45.673" clipEnd="0:01:46.484"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_25"/>
+		</navPoint>
+		<navPoint class="section" id="P4_26" pageRef="pagenum_21">
+			<navLabel>
+				<text>Press Controversy</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:46.484" clipEnd="0:01:48.002"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_26"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_5" pageRef="pagenum_22">
+			<navLabel>
+				<text>5: Jewish Values</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:48.002" clipEnd="0:01:50.462"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_22"/>
+		</navPoint>
+		<navPoint class="section" id="P4_27" pageRef="pagenum_22">
+			<navLabel>
+				<text>Sephardi Rituals and Observances</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:50.462" clipEnd="0:01:53.155"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_27"/>
+		</navPoint>
+		<navPoint class="section" id="P4_28" pageRef="pagenum_22">
+			<navLabel>
+				<text>Formation of Societal Synagogues</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:53.155" clipEnd="0:01:55.711"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_28"/>
+		</navPoint>
+		<navPoint class="section" id="P4_29" pageRef="pagenum_22">
+			<navLabel>
+				<text>Establishment of a "Bet Din" [sic]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:55.711" clipEnd="0:01:57.665"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_29"/>
+		</navPoint>
+		<navPoint class="section" id="P4_30" pageRef="pagenum_22">
+			<navLabel>
+				<text>Search for a Chief Rabbi</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:57.665" clipEnd="0:01:59.530"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_30"/>
+		</navPoint>
+		<navPoint class="section" id="P4_31" pageRef="pagenum_23">
+			<navLabel>
+				<text>Central Community Takes Up Struggle to Unify Religious Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:01:59.530" clipEnd="0:02:04.242"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_31"/>
+		</navPoint>
+		<navPoint class="section" id="P4_32" pageRef="pagenum_23">
+			<navLabel>
+				<text>Issues of Jewish Life: Talmud Torah Come into Being</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:04.242" clipEnd="0:02:08.309"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_32"/>
+		</navPoint>
+		<navPoint class="section" id="P4_33" pageRef="pagenum_24">
+			<navLabel>
+				<text>Communal Leadership Tackles [the] Problems of Jewish Education</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:08.309" clipEnd="0:02:11.906"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_33"/>
+		</navPoint>
+		<navPoint class="section" id="P4_34" pageRef="pagenum_24">
+			<navLabel>
+				<text>Zionism: An Integral Part of Sefardi Culture</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:11.906" clipEnd="0:02:15.782"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_34"/>
+		</navPoint>
+		<navPoint class="section" id="P4_35" pageRef="pagenum_25">
+			<navLabel>
+				<text>Sephardi Immigrants Learn it is OK to be Active Zionists in America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:15.782" clipEnd="0:02:20.525"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_35"/>
+		</navPoint>
+		<navPoint class="section" id="P4_36" pageRef="pagenum_25">
+			<navLabel>
+				<text>Mutual Assistance through Lansanshaft(?) Societal Groups</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:20.525" clipEnd="0:02:24.495"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_36"/>
+		</navPoint>
+		<navPoint class="section" id="P4_37" pageRef="pagenum_25">
+			<navLabel>
+				<text>Integrated Sephardi Social Service and Cooperation with Ashkenazi Institutions</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:24.495" clipEnd="0:02:29.733"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_37"/>
+		</navPoint>
+		<navPoint class="section" id="P4_38" pageRef="pagenum_25">
+			<navLabel>
+				<text>Immigrant Involvement in the Plight of their Native Communities</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:29.733" clipEnd="0:02:33.332"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_38"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_6" pageRef="pagenum_27">
+			<navLabel>
+				<text>6: Efforts at Community Organization</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:33.332" clipEnd="0:02:36.914"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_27"/>
+		</navPoint>
+		<navPoint class="section" id="P4_39" pageRef="pagenum_27">
+			<navLabel>
+				<text>First Steps towards Concerted Action</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:36.914" clipEnd="0:02:39.503"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_39"/>
+		</navPoint>
+		<navPoint class="section" id="P4_40" pageRef="pagenum_27">
+			<navLabel>
+				<text>Federation of Oriental Jews in America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:39.503" clipEnd="0:02:42.003"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_40"/>
+		</navPoint>
+		<navPoint class="section" id="P4_41" pageRef="pagenum_27">
+			<navLabel>
+				<text>In Search of a Chief Rabbi</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:42.003" clipEnd="0:02:43.924"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_41"/>
+		</navPoint>
+		<navPoint class="section" id="P4_42" pageRef="pagenum_27">
+			<navLabel>
+				<text>Sefardi Press Supports Need of Communal Unity</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:43.924" clipEnd="0:02:47.695"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_42"/>
+		</navPoint>
+		<navPoint class="section" id="P4_43" pageRef="pagenum_27">
+			<navLabel>
+				<text>Federation Suspends Activities</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:47.695" clipEnd="0:02:50.224"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_43"/>
+		</navPoint>
+		<navPoint class="section" id="P4_44" pageRef="pagenum_27">
+			<navLabel>
+				<text>Post Mortem</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:50.224" clipEnd="0:02:51.159"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_44"/>
+		</navPoint>
+		<navPoint class="section" id="P4_45" pageRef="pagenum_27">
+			<navLabel>
+				<text>Continuing Attempts toward Community Organization</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:51.159" clipEnd="0:02:54.575"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_45"/>
+		</navPoint>
+		<navPoint class="section" id="P4_46" pageRef="pagenum_27">
+			<navLabel>
+				<text>Criticisms Leveled Against Community</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:54.575" clipEnd="0:02:57.224"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_46"/>
+		</navPoint>
+		<navPoint class="section" id="P4_47" pageRef="pagenum_27">
+			<navLabel>
+				<text>Demise of the Sephardic Community of New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:02:57.224" clipEnd="0:03:00.083"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_47"/>
+		</navPoint>
+		<navPoint class="section" id="P4_48" pageRef="pagenum_27">
+			<navLabel>
+				<text>Formation of the Sephardic Jewish Community of New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:00.083" clipEnd="0:03:03.397"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_48"/>
+		</navPoint>
+		<navPoint class="section" id="P4_49" pageRef="pagenum_27">
+			<navLabel>
+				<text>Sephardi Press Urges Affiliation of All Societies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:03.397" clipEnd="0:03:07.144"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_49"/>
+		</navPoint>
+		<navPoint class="section" id="P4_50" pageRef="pagenum_28">
+			<navLabel>
+				<text>Purchase of a Center Building</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:07.144" clipEnd="0:03:09.192"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_50"/>
+		</navPoint>
+		<navPoint class="section" id="P4_51" pageRef="pagenum_28">
+			<navLabel>
+				<text>Congregation [Shiara(?)] Israel Joins Community</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:09.192" clipEnd="0:03:12.458"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_51"/>
+		</navPoint>
+		<navPoint class="section" id="P4_52" pageRef="pagenum_28">
+			<navLabel>
+				<text>Plan to Purchase Center Building Downtown</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:12.458" clipEnd="0:03:15.144"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_52"/>
+		</navPoint>
+		<navPoint class="section" id="P4_53" pageRef="pagenum_28">
+			<navLabel>
+				<text>Appointment of Unity Committee</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:15.144" clipEnd="0:03:17.090"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_53"/>
+		</navPoint>
+		<navPoint class="section" id="P4_54" pageRef="pagenum_28">
+			<navLabel>
+				<text>Financial Problems Continue; The Beginning of the End</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:17.090" clipEnd="0:03:20.484"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_54"/>
+		</navPoint>
+		<navPoint class="section" id="P4_55" pageRef="pagenum_29">
+			<navLabel>
+				<text>Post-Mortem</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:20.484" clipEnd="0:03:21.298"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_29"/>
+		</navPoint>
+		<navPoint class="section" id="P4_56" pageRef="pagenum_29">
+			<navLabel>
+				<text>Aftermath and New Stirrings</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:21.298" clipEnd="0:03:23.336"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_56"/>
+		</navPoint>
+		<navPoint class="part" id="P2_3" pageRef="pagenum_29">
+			<navLabel>
+				<text>3: The Second Generation and Beyond</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:23.336" clipEnd="0:03:27.098"/>
+			</navLabel>
+			<content src="EN-05181.smil#P2_3"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_7" pageRef="pagenum_30">
+			<navLabel>
+				<text>7: Aspects of Sephardi Economic, Civic, Religious, and Cultural Life Post World War II</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:27.098" clipEnd="0:03:34.539"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_30"/>
+		</navPoint>
+		<navPoint class="section" id="P4_57" pageRef="pagenum_30">
+			<navLabel>
+				<text>Economic Growth and Development</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:34.539" clipEnd="0:03:36.684"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_57"/>
+		</navPoint>
+		<navPoint class="section" id="P4_58" pageRef="pagenum_30">
+			<navLabel>
+				<text>Changing Relationships with the Ashkenazim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:36.684" clipEnd="0:03:39.630"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_58"/>
+		</navPoint>
+		<navPoint class="section" id="P4_59" pageRef="pagenum_30">
+			<navLabel>
+				<text>Interaction with the Earlier Sephardi</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:39.630" clipEnd="0:03:42.083"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_59"/>
+		</navPoint>
+		<navPoint class="section" id="P4_60" pageRef="pagenum_30">
+			<navLabel>
+				<text>Growing Integration into American Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:42.083" clipEnd="0:03:44.738"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_60"/>
+		</navPoint>
+		<navPoint class="section" id="P4_61" pageRef="pagenum_30">
+			<navLabel>
+				<text>Participation in Political Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:44.738" clipEnd="0:03:46.954"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_61"/>
+		</navPoint>
+		<navPoint class="section" id="P4_62" pageRef="pagenum_30">
+			<navLabel>
+				<text>Candidates of Sephardi Extracion Run on General Party Lines and Win or Lose on Issues and on Their Appeal to Their Total Constituency</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:46.954" clipEnd="0:03:56.484"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_62"/>
+		</navPoint>
+		<navPoint class="section" id="P4_63" pageRef="pagenum_30">
+			<navLabel>
+				<text>Efforts to Strengthen Religious Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:56.484" clipEnd="0:03:58.779"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_63"/>
+		</navPoint>
+		<navPoint class="section" id="P4_64" pageRef="pagenum_30">
+			<navLabel>
+				<text>Population Shift Imposes Congregational Changes</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:03:58.779" clipEnd="0:04:02.192"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_64"/>
+		</navPoint>
+		<navPoint class="section" id="P4_65" pageRef="pagenum_30">
+			<navLabel>
+				<text>Recognition of Need for American-Trained Religious Leaders</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:02.192" clipEnd="0:04:06.109"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_65"/>
+		</navPoint>
+		<navPoint class="section" id="P4_66" pageRef="pagenum_30">
+			<navLabel>
+				<text>The Plight of Jewish Education</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:06.109" clipEnd="0:04:08.568"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_66"/>
+		</navPoint>
+		<navPoint class="section" id="P4_67" pageRef="pagenum_31">
+			<navLabel>
+				<text>The Needs of the Aged</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:08.568" clipEnd="0:04:10.002"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_67"/>
+		</navPoint>
+		<navPoint class="section" id="P4_68" pageRef="pagenum_31">
+			<navLabel>
+				<text>Establishment of the Sephardic Home for the Aged</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:10.002" clipEnd="0:04:12.801"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_68"/>
+		</navPoint>
+		<navPoint class="section" id="P4_69" pageRef="pagenum_31">
+			<navLabel>
+				<text>The [Homes'(?)] Tie to Central Community Ensuing Controversy</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:12.801" clipEnd="0:04:17.343"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_69"/>
+		</navPoint>
+		<navPoint class="section" id="P4_70" pageRef="pagenum_31">
+			<navLabel>
+				<text>Overseas Philanthrompies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:17.343" clipEnd="0:04:19.305"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_70"/>
+		</navPoint>
+		<navPoint class="section" id="P4_71" pageRef="pagenum_31">
+			<navLabel>
+				<text>Manifestations of [the Longing(?)] to Rekindle Sephardi Cultural Life</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:19.305" clipEnd="0:04:23.891"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_71"/>
+		</navPoint>
+		<navPoint class="section" id="P4_72" pageRef="pagenum_32">
+			<navLabel>
+				<text>Sephardic House</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:23.891" clipEnd="0:04:25.211"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_72"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_8" pageRef="pagenum_33">
+			<navLabel>
+				<text>8: The Continued Striving for Community Organization</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:25.211" clipEnd="0:04:30.204"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_33"/>
+		</navPoint>
+		<navPoint class="section" id="P4_73" pageRef="pagenum_33">
+			<navLabel>
+				<text>Central Sephardic Jewish Community of America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:30.204" clipEnd="0:04:33.538"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_73"/>
+		</navPoint>
+		<navPoint class="section" id="P4_74" pageRef="pagenum_33">
+			<navLabel>
+				<text>Incorporation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:33.538" clipEnd="0:04:34.730"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_74"/>
+		</navPoint>
+		<navPoint class="section" id="P4_75" pageRef="pagenum_33">
+			<navLabel>
+				<text>Death and Mourning</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:34.730" clipEnd="0:04:35.966"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_75"/>
+		</navPoint>
+		<navPoint class="section" id="P4_76" pageRef="pagenum_33">
+			<navLabel>
+				<text>Under New Directorship</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:35.966" clipEnd="0:04:37.620"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_76"/>
+		</navPoint>
+		<navPoint class="section" id="P4_77" pageRef="pagenum_33">
+			<navLabel>
+				<text>The Sephardi: A Community Organ</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:37.620" clipEnd="0:04:39.755"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_77"/>
+		</navPoint>
+		<navPoint class="section" id="P4_78" pageRef="pagenum_33">
+			<navLabel>
+				<text>Engagement of a Professionally-Trained Social Worker</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:39.755" clipEnd="0:04:42.976"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_78"/>
+		</navPoint>
+		<navPoint class="section" id="P4_79" pageRef="pagenum_33">
+			<navLabel>
+				<text>Reevaluation of Community's Aim and Function</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:42.976" clipEnd="0:04:46.465"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_79"/>
+		</navPoint>
+		<navPoint class="section" id="P4_80" pageRef="pagenum_33">
+			<navLabel>
+				<text>Structural Reoganization</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:46.465" clipEnd="0:04:48.648"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_80"/>
+		</navPoint>
+		<navPoint class="section" id="P4_81" pageRef="pagenum_33">
+			<navLabel>
+				<text>[Constituant|Constituyent] Societies in Conflict</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:48.648" clipEnd="0:04:51.081"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_81"/>
+		</navPoint>
+		<navPoint class="section" id="P4_82" pageRef="pagenum_33">
+			<navLabel>
+				<text>Retrospective Analysis</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:51.081" clipEnd="0:04:53.240"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_82"/>
+		</navPoint>
+		<navPoint class="section" id="P4_83" pageRef="pagenum_33">
+			<navLabel>
+				<text>New Stirrings</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:53.240" clipEnd="0:04:54.377"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_83"/>
+		</navPoint>
+		<navPoint class="section" id="P4_84" pageRef="pagenum_33">
+			<navLabel>
+				<text>Role of the [Women's|Womens'] Division</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:54.377" clipEnd="0:04:56.217"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_84"/>
+		</navPoint>
+		<navPoint class="section" id="P4_85" pageRef="pagenum_33">
+			<navLabel>
+				<text>[Community's|Communities] Work with Young People</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:56.217" clipEnd="0:04:58.213"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_85"/>
+		</navPoint>
+		<navPoint class="section" id="P4_86" pageRef="pagenum_33">
+			<navLabel>
+				<text>American-Sephardi Federation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:04:58.213" clipEnd="0:05:00.290"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_86"/>
+		</navPoint>
+		<navPoint class="section" id="P4_87" pageRef="pagenum_33">
+			<navLabel>
+				<text>Work [with(?)] Young People</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:00.290" clipEnd="0:05:01.659"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_87"/>
+		</navPoint>
+		<navPoint class="section" id="P4_88" pageRef="pagenum_33">
+			<navLabel>
+				<text>Criticism and Concern</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:01.659" clipEnd="0:05:03.393"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_88"/>
+		</navPoint>
+		<navPoint class="afterword" id="P23_1" pageRef="pagenum_34">
+			<navLabel>
+				<text>Afterword??</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:03.393" clipEnd="0:05:04.088"/>
+			</navLabel>
+			<content src="EN-05181.smil#P23_1"/>
+		</navPoint>
+		<navPoint class="part" id="P2_4" pageRef="pagenum_34">
+			<navLabel>
+				<text>Part 4: Appendecies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:04.088" clipEnd="0:05:06.329"/>
+			</navLabel>
+			<content src="EN-05181.smil#P2_4"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_1" pageRef="pagenum_34">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:06.329" clipEnd="0:05:12.430"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_1"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_9" pageRef="pagenum_34">
+			<navLabel>
+				<text>The East</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:12.430" clipEnd="0:05:13.211"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_9"/>
+		</navPoint>
+		<navPoint class="section" id="P4_89" pageRef="pagenum_34">
+			<navLabel>
+				<text>New Jersey: Raritan, New Brunswick, Highland Park, [Deal?]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:13.211" clipEnd="0:05:17.422"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_89"/>
+		</navPoint>
+		<navPoint class="section" id="P4_90" pageRef="pagenum_34">
+			<navLabel>
+				<text>Atlantic City, NJ</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:17.422" clipEnd="0:05:19.582"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_90"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_1" pageRef="pagenum_34">
+			<navLabel>
+				<text>Rochester, NY</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:19.582" clipEnd="0:05:20.806"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_1"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_2" pageRef="pagenum_34">
+			<navLabel>
+				<text>Washington, DC</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:20.806" clipEnd="0:05:22.115"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_2"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_3" pageRef="pagenum_34">
+			<navLabel>
+				<text>Small Eastern Sephardi Communities and Newly Emerging Ones</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:22.115" clipEnd="0:05:27.272"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_3"/>
+		</navPoint>
+		<navPoint class="section" id="P4_91" pageRef="pagenum_34">
+			<navLabel>
+				<text>The Midwest</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:27.272" clipEnd="0:05:28.230"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_91"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_4" pageRef="pagenum_34">
+			<navLabel>
+				<text>Indanapolis, ID</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:28.230" clipEnd="0:05:29.836"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_4"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_5" pageRef="pagenum_34">
+			<navLabel>
+				<text>Detroit, MI</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:29.836" clipEnd="0:05:31.030"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_5"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_6" pageRef="pagenum_34">
+			<navLabel>
+				<text>Cincinati, OH</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:31.030" clipEnd="0:05:32.636"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_6"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_7" pageRef="pagenum_34">
+			<navLabel>
+				<text>Chicago, IL</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:32.636" clipEnd="0:05:33.999"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_7"/>
+		</navPoint>
+		<navPoint class="section" id="P4_92" pageRef="pagenum_34">
+			<navLabel>
+				<text>The South</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:33.999" clipEnd="0:05:34.596"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_92"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_8" pageRef="pagenum_34">
+			<navLabel>
+				<text>Atlanta, GA</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:34.596" clipEnd="0:05:35.797"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_8"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_9" pageRef="pagenum_35">
+			<navLabel>
+				<text>Montgomery, AL</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:35.797" clipEnd="0:05:37.346"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_9"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_10" pageRef="pagenum_35">
+			<navLabel>
+				<text>Miami, FL</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:37.346" clipEnd="0:05:38.547"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_10"/>
+		</navPoint>
+		<navPoint class="section" id="P4_93" pageRef="pagenum_35">
+			<navLabel>
+				<text>The West</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:38.547" clipEnd="0:05:39.279"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_93"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_11" pageRef="pagenum_35">
+			<navLabel>
+				<text>Seattle, WA</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:39.279" clipEnd="0:05:40.735"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_11"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_12" pageRef="pagenum_35">
+			<navLabel>
+				<text>Portland, OR</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:40.735" clipEnd="0:05:42.145"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_12"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_13" pageRef="pagenum_35">
+			<navLabel>
+				<text>Sephardi Community of Los Angeles</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:42.145" clipEnd="0:05:44.561"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_13"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_14" pageRef="pagenum_35">
+			<navLabel>
+				<text>San Franciso, CA</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:44.561" clipEnd="0:05:46.500"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_14"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_2" pageRef="pagenum_37">
+			<navLabel>
+				<text>2: Societies in Metropolitan New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:46.500" clipEnd="0:05:50.770"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_37"/>
+		</navPoint>
+		<navPoint class="section" id="P4_94" pageRef="pagenum_37">
+			<navLabel>
+				<text>The Judeo-Spanish Societies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:50.770" clipEnd="0:05:52.628"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_94"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_15" pageRef="pagenum_37">
+			<navLabel>
+				<text>&gt;The Immigrants from Rhodes...</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:52.628" clipEnd="0:05:54.063"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_15"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_16" pageRef="pagenum_38">
+			<navLabel>
+				<text>Sources of Income</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:54.063" clipEnd="0:05:55.466"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_16"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_17" pageRef="pagenum_38">
+			<navLabel>
+				<text>&gt;Hayim ve Jessed di Galipoli...</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:55.466" clipEnd="0:05:59.981"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_17"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_18" pageRef="pagenum_39">
+			<navLabel>
+				<text>&gt;Bulgarian Jews...</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:05:59.981" clipEnd="0:06:01.037"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_18"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_19" pageRef="pagenum_39">
+			<navLabel>
+				<text>Greek-Speaking Societies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:01.037" clipEnd="0:06:02.910"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_19"/>
+		</navPoint>
+		<navPoint class="section" id="P4_95" pageRef="pagenum_39">
+			<navLabel>
+				<text>Arabic-Speaking Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:02.910" clipEnd="0:06:04.781"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_95"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_20" pageRef="pagenum_39">
+			<navLabel>
+				<text>The Syrian Sephardi Community</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:04.781" clipEnd="0:06:06.770"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_20"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_21" pageRef="pagenum_39">
+			<navLabel>
+				<text>The Yemenite Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:06.770" clipEnd="0:06:08.416"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_21"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_22" pageRef="pagenum_39">
+			<navLabel>
+				<text>Refugees from Arab Lands</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:08.416" clipEnd="0:06:10.605"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_22"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_23" pageRef="pagenum_39">
+			<navLabel>
+				<text>Egyptian Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:10.605" clipEnd="0:06:12.189"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_23"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_24" pageRef="pagenum_39">
+			<navLabel>
+				<text>Lebanese Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:12.189" clipEnd="0:06:13.667"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_24"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_25" pageRef="pagenum_39">
+			<navLabel>
+				<text>Morrocan Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:13.667" clipEnd="0:06:15.223"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_25"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_26" pageRef="pagenum_39">
+			<navLabel>
+				<text>Parsi-speaking [sic?] Iranian Sephardim</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:15.223" clipEnd="0:06:17.883"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_26"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_3" pageRef="pagenum_40">
+			<navLabel>
+				<text>3: Roster of Presidents of Sephardi Communal Organizations</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:17.883" clipEnd="0:06:23.581"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_40"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_27" pageRef="pagenum_40">
+			<navLabel>
+				<text>Federation of Oriental Jews of America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:23.581" clipEnd="0:06:25.999"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_27"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_28" pageRef="pagenum_40">
+			<navLabel>
+				<text>Sephardic Community of New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:25.999" clipEnd="0:06:27.891"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_28"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_29" pageRef="pagenum_40">
+			<navLabel>
+				<text>Sephardic Jewish Community of New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:27.891" clipEnd="0:06:30.234"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_29"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_30" pageRef="pagenum_40">
+			<navLabel>
+				<text>Central Sephardic Jewish Community of America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:30.234" clipEnd="0:06:33.075"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_30"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_31" pageRef="pagenum_41">
+			<navLabel>
+				<text>American Section World Sephardi Federation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:33.075" clipEnd="0:06:36.024"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_31"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_32" pageRef="pagenum_41">
+			<navLabel>
+				<text>American Sephadi Gederation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:36.024" clipEnd="0:06:38.014"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_32"/>
+		</navPoint>
+		<navPoint class="section" id="P4_96" pageRef="pagenum_41">
+			<navLabel>
+				<text>Roster of Presidents of Women's Divisions of Sephardi Communal Organizations</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:38.014" clipEnd="0:06:42.718"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_96"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_33" pageRef="pagenum_41">
+			<navLabel>
+				<text>Sephardi Jewish Community of New York</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:42.718" clipEnd="0:06:44.889"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_33"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_34" pageRef="pagenum_41">
+			<navLabel>
+				<text>Central Sephardic Jewish Community of America</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:44.889" clipEnd="0:06:47.747"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_34"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_35" pageRef="pagenum_41">
+			<navLabel>
+				<text>American Sephardi Federation</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:47.747" clipEnd="0:06:49.755"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_35"/>
+		</navPoint>
+		<navPoint class="section" id="P4_97" pageRef="pagenum_41">
+			<navLabel>
+				<text>Sephardic Jewish Community of New York Dues Paid by Affiliated Societies</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:49.755" clipEnd="0:06:55.265"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_97"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_36" pageRef="pagenum_41">
+			<navLabel>
+				<text>Mikor Hayim (Source of Life)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:55.265" clipEnd="0:06:57.326"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_36"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_37" pageRef="pagenum_41">
+			<navLabel>
+				<text>Etz Ha Hayim (Brotherhood of Rhodes)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:06:57.326" clipEnd="0:07:00.047"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_37"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_38" pageRef="pagenum_41">
+			<navLabel>
+				<text>Siror(?) Hayim (Chain of Life)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:00.047" clipEnd="0:07:02.249"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_38"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_39" pageRef="pagenum_41">
+			<navLabel>
+				<text>Chios Brotherhood</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:02.249" clipEnd="0:07:03.677"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_39"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_40" pageRef="pagenum_41">
+			<navLabel>
+				<text>Brit Shalom</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:03.677" clipEnd="0:07:04.726"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_40"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_41" pageRef="pagenum_41">
+			<navLabel>
+				<text>Life and Brotherhood of Adriannople</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:04.726" clipEnd="0:07:07.834"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_41"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_42" pageRef="pagenum_41">
+			<navLabel>
+				<text>Brotherhood of Adriannople</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:07.834" clipEnd="0:07:09.462"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_42"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_43" pageRef="pagenum_41">
+			<navLabel>
+				<text>Afika Yehuda</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:09.462" clipEnd="0:07:10.710"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_43"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_44" pageRef="pagenum_41">
+			<navLabel>
+				<text>Hessed Ve Emet De Castoralis</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:10.710" clipEnd="0:07:15.158"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_44"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_45" pageRef="pagenum_41">
+			<navLabel>
+				<text>[Neyo(?)] Club</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:15.158" clipEnd="0:07:16.297"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_45"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_46" pageRef="pagenum_41">
+			<navLabel>
+				<text>Union and Peace Key to Zion (?)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:16.297" clipEnd="0:07:19.027"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_46"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_47" pageRef="pagenum_41">
+			<navLabel>
+				<text>Shiarat Israel</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:19.027" clipEnd="0:07:20.528"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_47"/>
+		</navPoint>
+		<navPoint class="subsection" id="P5_48" pageRef="pagenum_41">
+			<navLabel>
+				<text>Sigma Kappa Phi</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:20.528" clipEnd="0:07:22.083"/>
+			</navLabel>
+			<content src="EN-05181.smil#P5_48"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_4" pageRef="pagenum_42">
+			<navLabel>
+				<text>4: Youth Activities and Social Clubs</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:22.083" clipEnd="0:07:25.755"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_42"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_5" pageRef="pagenum_43">
+			<navLabel>
+				<text>5: Biographical Sketches</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:25.755" clipEnd="0:07:29.093"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_5"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_1" pageRef="pagenum_43">
+			<navLabel>
+				<text>Dr. Issac Alkalay</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:29.093" clipEnd="0:07:30.857"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_1"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_2" pageRef="pagenum_44">
+			<navLabel>
+				<text>Albert J. Amato</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:30.857" clipEnd="0:07:32.530"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_2"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_3" pageRef="pagenum_44">
+			<navLabel>
+				<text>Nissim Behar</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:32.530" clipEnd="0:07:33.868"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_3"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_4" pageRef="pagenum_46">
+			<navLabel>
+				<text>Henry [B|V] Beso(?)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:33.868" clipEnd="0:07:35.315"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_4"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_5" pageRef="pagenum_47">
+			<navLabel>
+				<text>Albert J. [Coho|Cobo|Covo]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:35.315" clipEnd="0:07:36.931"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_5"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_6" pageRef="pagenum_47">
+			<navLabel>
+				<text>Daniel J. [Eliza?]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:36.931" clipEnd="0:07:38.809"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_6"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_7" pageRef="pagenum_47">
+			<navLabel>
+				<text>Jose [For?]...</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:38.809" clipEnd="0:07:40.035"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_7"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_8" pageRef="pagenum_47">
+			<navLabel>
+				<text>Robert Franco</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:40.035" clipEnd="0:07:41.236"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_8"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_9" pageRef="pagenum_47">
+			<navLabel>
+				<text>Moise S. Gadol</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:41.236" clipEnd="0:07:42.923"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_9"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_10" pageRef="pagenum_47">
+			<navLabel>
+				<text>Joseph Gedalicia</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:42.923" clipEnd="0:07:44.479"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_10"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_11" pageRef="pagenum_47">
+			<navLabel>
+				<text>Albert J. Levy</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:44.479" clipEnd="0:07:45.637"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_11"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_12" pageRef="pagenum_47">
+			<navLabel>
+				<text>Emily Levy (nee Davidis?)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:45.637" clipEnd="0:07:46.969"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_12"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_13" pageRef="pagenum_47">
+			<navLabel>
+				<text>Jon Hezekaia Levy</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:46.969" clipEnd="0:07:48.366"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_13"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_14" pageRef="pagenum_47">
+			<navLabel>
+				<text>Simon S. Messi</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:48.366" clipEnd="0:07:50.057"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_14"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_15" pageRef="pagenum_47">
+			<navLabel>
+				<text>Dr. Nissim J. Ovadia</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:50.057" clipEnd="0:07:52.190"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_15"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_16" pageRef="pagenum_47">
+			<navLabel>
+				<text>Henry J. Perahia(?)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:52.190" clipEnd="0:07:54.317"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_16"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_17" pageRef="pagenum_47">
+			<navLabel>
+				<text>Moises Sulam</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:54.317" clipEnd="0:07:55.637"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_17"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_18" pageRef="pagenum_47">
+			<navLabel>
+				<text>Victor [Tari?]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:55.637" clipEnd="0:07:56.977"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_18"/>
+		</navPoint>
+		<navPoint class="bionotes" id="P32_19" pageRef="pagenum_48">
+			<navLabel>
+				<text>Albert J. [Torres?]</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:56.977" clipEnd="0:07:58.606"/>
+			</navLabel>
+			<content src="EN-05181.smil#P32_19"/>
+		</navPoint>
+		<navPoint class="glossary" id="P19_1" pageRef="pagenum_48">
+			<navLabel>
+				<text>Glossary</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:58.606" clipEnd="0:07:59.491"/>
+			</navLabel>
+			<content src="EN-05181.smil#P19_1"/>
+		</navPoint>
+		<navPoint class="glossary" id="P19_2" pageRef="pagenum_48">
+			<navLabel>
+				<text>"Abbreviations Used in the Notes"</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:07:59.491" clipEnd="0:08:01.983"/>
+			</navLabel>
+			<content src="EN-05181.smil#P19_2"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_1" pageRef="pagenum_48">
+			<navLabel>
+				<text>Notes</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:01.983" clipEnd="0:08:02.625"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_1"/>
+		</navPoint>
+		<navPoint class="introduction" id="P20_2" pageRef="pagenum_48">
+			<navLabel>
+				<text>Introduction</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:02.625" clipEnd="0:08:03.584"/>
+			</navLabel>
+			<content src="EN-05181.smil#P20_2"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_2" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:03.584" clipEnd="0:08:04.597"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_2"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_3" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:04.597" clipEnd="0:08:05.448"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_3"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_4" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:05.448" clipEnd="0:08:06.335"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_4"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_5" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:06.335" clipEnd="0:08:07.077"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_5"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_6" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:07.077" clipEnd="0:08:07.945"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_6"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_7" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:07.945" clipEnd="0:08:08.569"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_7"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_8" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:08.569" clipEnd="0:08:09.447"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_8"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_9" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:09.447" clipEnd="0:08:10.198"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_9"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_10" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:10.198" clipEnd="0:08:11.240"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_10"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_10" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:11.240" clipEnd="0:08:12.036"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_10"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_11" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:12.036" clipEnd="0:08:13.068"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_11"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_12" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:13.068" clipEnd="0:08:13.375"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_12"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_13" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:13.375" clipEnd="0:08:13.764"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_13"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_14" pageRef="pagenum_48">
+			<navLabel>
+				<text>4+</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:13.764" clipEnd="0:08:14.669"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_14"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_15" pageRef="pagenum_48">
+			<navLabel>
+				<text>5+</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:14.669" clipEnd="0:08:15.682"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_15"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_16" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:15.682" clipEnd="0:08:16.659"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_16"/>
+		</navPoint>
+		<navPoint class="authnote/c" id="P29_1" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:16.659" clipEnd="0:08:17.708"/>
+			</navLabel>
+			<content src="EN-05181.smil#P29_1"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_17" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:17.708" clipEnd="0:08:18.468"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_17"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_18" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:18.468" clipEnd="0:08:19.590"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_18"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_19" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:19.590" clipEnd="0:08:20.640"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_19"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_20" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:20.640" clipEnd="0:08:21.654"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_20"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_21" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:21.654" clipEnd="0:08:22.686"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_21"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_22" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:22.686" clipEnd="0:08:23.655"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_22"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_11" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:23.655" clipEnd="0:08:24.469"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_11"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_23" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:24.469" clipEnd="0:08:25.338"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_23"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_24" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:25.338" clipEnd="0:08:26.262"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_24"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_25" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:26.262" clipEnd="0:08:27.005"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_25"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_26" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:27.005" clipEnd="0:08:27.691"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_26"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_27" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:27.691" clipEnd="0:08:28.412"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_27"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_28" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:28.412" clipEnd="0:08:29.168"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_28"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_29" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:29.168" clipEnd="0:08:29.973"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_29"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_30" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:29.973" clipEnd="0:08:30.660"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_30"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_31" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:30.660" clipEnd="0:08:31.375"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_31"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_32" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:31.375" clipEnd="0:08:32.047"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_32"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_33" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:32.047" clipEnd="0:08:32.909"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_33"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_34" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:32.909" clipEnd="0:08:33.707"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_34"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_35" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:33.707" clipEnd="0:08:34.281"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_35"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_36" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:34.281" clipEnd="0:08:34.912"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_36"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_12" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:34.912" clipEnd="0:08:35.829"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_12"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_37" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:35.829" clipEnd="0:08:36.550"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_37"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_38" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:36.550" clipEnd="0:08:37.236"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_38"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_39" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:37.236" clipEnd="0:08:37.930"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_39"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_40" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:37.930" clipEnd="0:08:38.693"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_40"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_41" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:38.693" clipEnd="0:08:39.407"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_41"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_42" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:39.407" clipEnd="0:08:40.191"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_42"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_43" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:40.191" clipEnd="0:08:40.975"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_43"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_44" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:40.975" clipEnd="0:08:41.676"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_44"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_45" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:41.676" clipEnd="0:08:42.246"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_45"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_46" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:42.246" clipEnd="0:08:43.051"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_46"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_47" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:43.051" clipEnd="0:08:43.725"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_47"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_48" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:43.725" clipEnd="0:08:44.503"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_48"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_49" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:44.503" clipEnd="0:08:45.489"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_49"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_50" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:45.489" clipEnd="0:08:46.475"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_50"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_51" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:46.475" clipEnd="0:08:47.397"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_51"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_52" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:47.397" clipEnd="0:08:48.501"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_52"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_53" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:48.501" clipEnd="0:08:49.533"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_53"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_54" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:49.533" clipEnd="0:08:50.420"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_54"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_55" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:50.420" clipEnd="0:08:51.560"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_55"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_56" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:51.560" clipEnd="0:08:52.392"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_56"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_13" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:52.392" clipEnd="0:08:53.388"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_13"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_57" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:53.388" clipEnd="0:08:54.139"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_57"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_58" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:54.139" clipEnd="0:08:54.872"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_58"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_59" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:54.872" clipEnd="0:08:55.596"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_59"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_60" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:55.596" clipEnd="0:08:56.320"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_60"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_61" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:56.320" clipEnd="0:08:57.053"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_61"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_62" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:57.053" clipEnd="0:08:57.858"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_62"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_63" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:57.858" clipEnd="0:08:58.681"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_63"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_64" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:58.681" clipEnd="0:08:59.432"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_64"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_65" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:59.432" clipEnd="0:08:59.998"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_65"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_66" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:08:59.998" clipEnd="0:09:01.156"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_66"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_67" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:01.156" clipEnd="0:09:01.952"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_67"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_68" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:01.952" clipEnd="0:09:02.730"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_68"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_69" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:02.730" clipEnd="0:09:03.744"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_69"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_70" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:03.744" clipEnd="0:09:04.739"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_70"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_71" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:04.739" clipEnd="0:09:05.611"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_71"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_14" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:05.611" clipEnd="0:09:06.507"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_14"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_72" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:06.507" clipEnd="0:09:07.285"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_72"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_73" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:07.285" clipEnd="0:09:08.018"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_73"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_74" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:08.018" clipEnd="0:09:08.837"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_74"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_75" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:08.837" clipEnd="0:09:09.443"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_75"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_76" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:09.443" clipEnd="0:09:10.225"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_76"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_77" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:10.225" clipEnd="0:09:10.932"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_77"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_78" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:10.932" clipEnd="0:09:11.677"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_78"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_79" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:11.677" clipEnd="0:09:12.201"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_79"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_80" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:12.201" clipEnd="0:09:12.808"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_80"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_81" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:12.808" clipEnd="0:09:13.518"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_81"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_82" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:13.518" clipEnd="0:09:14.323"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_82"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_83" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:14.323" clipEnd="0:09:15.074"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_83"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_84" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:15.074" clipEnd="0:09:16.042"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_84"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_85" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:16.042" clipEnd="0:09:17.087"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_85"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_86" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:17.087" clipEnd="0:09:17.991"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_86"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_87" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:17.991" clipEnd="0:09:18.905"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_87"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_88" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:18.905" clipEnd="0:09:19.955"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_88"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_89" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:19.955" clipEnd="0:09:20.751"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_89"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_90" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:20.751" clipEnd="0:09:21.719"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_90"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_91" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:21.719" clipEnd="0:09:22.318"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_91"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_92" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:22.318" clipEnd="0:09:23.161"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_92"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_93" pageRef="pagenum_48">
+			<navLabel>
+				<text>22</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:23.161" clipEnd="0:09:23.932"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_93"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_94" pageRef="pagenum_48">
+			<navLabel>
+				<text>23</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:23.932" clipEnd="0:09:24.903"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_94"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_95" pageRef="pagenum_48">
+			<navLabel>
+				<text>24</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:24.903" clipEnd="0:09:25.853"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_95"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_96" pageRef="pagenum_48">
+			<navLabel>
+				<text>25</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:25.853" clipEnd="0:09:26.753"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_96"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_97" pageRef="pagenum_48">
+			<navLabel>
+				<text>26</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:26.753" clipEnd="0:09:27.811"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_97"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_98" pageRef="pagenum_48">
+			<navLabel>
+				<text>27</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:27.811" clipEnd="0:09:28.723"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_98"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_99" pageRef="pagenum_48">
+			<navLabel>
+				<text>28</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:28.723" clipEnd="0:09:29.541"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_99"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_100" pageRef="pagenum_48">
+			<navLabel>
+				<text>29</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:29.541" clipEnd="0:09:30.345"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_100"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_101" pageRef="pagenum_48">
+			<navLabel>
+				<text>30</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:30.345" clipEnd="0:09:31.186"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_101"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_102" pageRef="pagenum_48">
+			<navLabel>
+				<text>31</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:31.186" clipEnd="0:09:32.325"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_102"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_103" pageRef="pagenum_48">
+			<navLabel>
+				<text>32</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:32.325" clipEnd="0:09:33.347"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_103"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_104" pageRef="pagenum_48">
+			<navLabel>
+				<text>33</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:33.347" clipEnd="0:09:34.450"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_104"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_105" pageRef="pagenum_48">
+			<navLabel>
+				<text>34</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:34.450" clipEnd="0:09:35.422"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_105"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_15" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:35.422" clipEnd="0:09:36.398"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_15"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_106" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:36.398" clipEnd="0:09:37.189"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_106"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_107" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:37.189" clipEnd="0:09:37.828"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_107"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_108" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:37.828" clipEnd="0:09:38.542"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_108"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_109" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:38.542" clipEnd="0:09:39.142"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_109"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_110" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:39.142" clipEnd="0:09:39.852"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_110"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_111" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:39.852" clipEnd="0:09:40.521"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_111"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_112" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:40.521" clipEnd="0:09:41.244"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_112"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_113" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:41.244" clipEnd="0:09:41.827"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_113"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_114" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:41.827" clipEnd="0:09:42.605"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_114"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_115" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:42.605" clipEnd="0:09:43.311"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_115"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_116" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:43.311" clipEnd="0:09:44.102"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_116"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_117" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:44.102" clipEnd="0:09:44.825"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_117"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_118" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:44.825" clipEnd="0:09:45.829"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_118"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_119" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:45.829" clipEnd="0:09:46.804"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_119"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_120" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:46.804" clipEnd="0:09:47.736"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_120"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_121" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:47.736" clipEnd="0:09:48.676"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_121"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_122" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:48.676" clipEnd="0:09:49.693"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_122"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_123" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:49.693" clipEnd="0:09:50.615"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_123"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_124" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:50.615" clipEnd="0:09:51.551"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_124"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_125" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:51.551" clipEnd="0:09:52.169"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_125"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_126" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:52.169" clipEnd="0:09:52.947"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_126"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_127" pageRef="pagenum_48">
+			<navLabel>
+				<text>22</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:52.947" clipEnd="0:09:53.942"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_127"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_128" pageRef="pagenum_48">
+			<navLabel>
+				<text>23</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:53.942" clipEnd="0:09:54.864"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_128"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_129" pageRef="pagenum_48">
+			<navLabel>
+				<text>24</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:54.864" clipEnd="0:09:55.827"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_129"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_130" pageRef="pagenum_48">
+			<navLabel>
+				<text>25</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:55.827" clipEnd="0:09:56.984"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_130"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_131" pageRef="pagenum_48">
+			<navLabel>
+				<text>26</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:56.984" clipEnd="0:09:58.076"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_131"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_132" pageRef="pagenum_48">
+			<navLabel>
+				<text>27</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:58.076" clipEnd="0:09:59.151"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_132"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_133" pageRef="pagenum_48">
+			<navLabel>
+				<text>28</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:09:59.151" clipEnd="0:10:00.158"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_133"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_134" pageRef="pagenum_48">
+			<navLabel>
+				<text>29</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:00.158" clipEnd="0:10:01.197"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_134"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_135" pageRef="pagenum_48">
+			<navLabel>
+				<text>30</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:01.197" clipEnd="0:10:01.997"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_135"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_136" pageRef="pagenum_48">
+			<navLabel>
+				<text>31</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:01.997" clipEnd="0:10:02.763"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_136"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_137" pageRef="pagenum_48">
+			<navLabel>
+				<text>32</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:02.763" clipEnd="0:10:03.829"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_137"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_138" pageRef="pagenum_48">
+			<navLabel>
+				<text>33</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:03.829" clipEnd="0:10:04.873"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_138"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_139" pageRef="pagenum_48">
+			<navLabel>
+				<text>34</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:04.873" clipEnd="0:10:05.893"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_139"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_140" pageRef="pagenum_48">
+			<navLabel>
+				<text>35</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:05.893" clipEnd="0:10:06.967"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_140"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_141" pageRef="pagenum_48">
+			<navLabel>
+				<text>36</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:06.967" clipEnd="0:10:08.115"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_141"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_142" pageRef="pagenum_48">
+			<navLabel>
+				<text>37</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:08.115" clipEnd="0:10:09.224"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_142"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_143" pageRef="pagenum_48">
+			<navLabel>
+				<text>38</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:09.224" clipEnd="0:10:10.212"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_143"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_144" pageRef="pagenum_48">
+			<navLabel>
+				<text>39</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:10.212" clipEnd="0:10:11.293"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_144"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_145" pageRef="pagenum_48">
+			<navLabel>
+				<text>40</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:11.293" clipEnd="0:10:12.030"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_145"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_146" pageRef="pagenum_48">
+			<navLabel>
+				<text>41</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:12.030" clipEnd="0:10:12.706"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_146"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_147" pageRef="pagenum_48">
+			<navLabel>
+				<text>42</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:12.706" clipEnd="0:10:13.936"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_147"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_148" pageRef="pagenum_48">
+			<navLabel>
+				<text>43</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:13.936" clipEnd="0:10:15.102"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_148"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_149" pageRef="pagenum_48">
+			<navLabel>
+				<text>44</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:15.102" clipEnd="0:10:16.133"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_149"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_150" pageRef="pagenum_48">
+			<navLabel>
+				<text>45</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:16.133" clipEnd="0:10:17.318"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_150"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_16" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:17.318" clipEnd="0:10:18.372"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_16"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_151" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:18.372" clipEnd="0:10:19.222"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_151"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_152" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:19.222" clipEnd="0:10:20.022"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_152"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_153" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:20.022" clipEnd="0:10:20.719"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_153"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_154" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:20.719" clipEnd="0:10:21.466"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_154"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_155" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:21.466" clipEnd="0:10:22.294"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_155"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_156" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:22.294" clipEnd="0:10:23.185"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_156"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_157" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:23.185" clipEnd="0:10:23.980"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_157"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_158" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:23.980" clipEnd="0:10:24.749"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_158"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_159" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:24.749" clipEnd="0:10:25.577"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_159"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_160" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:25.577" clipEnd="0:10:26.328"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_160"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_161" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:26.328" clipEnd="0:10:27.310"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_161"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_162" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:27.310" clipEnd="0:10:28.287"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_162"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_163" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:28.287" clipEnd="0:10:29.404"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_163"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_164" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:29.404" clipEnd="0:10:30.303"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_164"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_165" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:30.303" clipEnd="0:10:31.326"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_165"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_166" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:31.326" clipEnd="0:10:32.353"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_166"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_167" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:32.353" clipEnd="0:10:33.429"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_167"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_168" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:33.429" clipEnd="0:10:34.428"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_168"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_169" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:34.428" clipEnd="0:10:35.550"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_169"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_170" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:35.550" clipEnd="0:10:36.473"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_170"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_171" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:36.473" clipEnd="0:10:37.445"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_171"/>
+		</navPoint>
+		<navPoint class="chapter" id="P3_17" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:37.445" clipEnd="0:10:38.345"/>
+			</navLabel>
+			<content src="EN-05181.smil#P3_17"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_172" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:38.345" clipEnd="0:10:39.155"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_172"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_173" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:39.155" clipEnd="0:10:39.829"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_173"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_174" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:39.829" clipEnd="0:10:40.666"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_174"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_175" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:40.666" clipEnd="0:10:41.407"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_175"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_176" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:41.407" clipEnd="0:10:42.198"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_176"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_177" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:42.198" clipEnd="0:10:42.991"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_177"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_178" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:42.991" clipEnd="0:10:43.882"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_178"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_179" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:43.882" clipEnd="0:10:44.592"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_179"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_180" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:44.592" clipEnd="0:10:45.403"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_180"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_181" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:45.403" clipEnd="0:10:46.167"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_181"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_182" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:46.167" clipEnd="0:10:46.985"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_182"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_183" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:46.985" clipEnd="0:10:47.789"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_183"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_184" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:47.789" clipEnd="0:10:48.824"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_184"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_185" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:48.824" clipEnd="0:10:49.804"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_185"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_186" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:49.804" clipEnd="0:10:50.785"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_186"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_187" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:50.785" clipEnd="0:10:51.897"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_187"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_188" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:51.897" clipEnd="0:10:53.018"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_188"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_189" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:53.018" clipEnd="0:10:53.922"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_189"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_190" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:53.922" clipEnd="0:10:54.940"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_190"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_191" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:54.940" clipEnd="0:10:55.808"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_191"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_192" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:55.808" clipEnd="0:10:56.776"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_192"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_193" pageRef="pagenum_48">
+			<navLabel>
+				<text>22</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:56.776" clipEnd="0:10:57.853"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_193"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_194" pageRef="pagenum_48">
+			<navLabel>
+				<text>23</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:57.853" clipEnd="0:10:58.863"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_194"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_195" pageRef="pagenum_48">
+			<navLabel>
+				<text>24</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:58.863" clipEnd="0:10:59.894"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_195"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_196" pageRef="pagenum_48">
+			<navLabel>
+				<text>25</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:10:59.894" clipEnd="0:11:00.980"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_196"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_6" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:00.980" clipEnd="0:11:02.060"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_6"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_197" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:02.060" clipEnd="0:11:02.719"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_197"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_198" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:02.719" clipEnd="0:11:03.321"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_198"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_199" pageRef="pagenum_48">
+			<navLabel>
+				<text>3 (Missing "Note")</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:03.321" clipEnd="0:11:03.728"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_199"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_200" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:03.728" clipEnd="0:11:04.422"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_200"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_201" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:04.422" clipEnd="0:11:05.089"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_201"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_202" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:05.089" clipEnd="0:11:05.857"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_202"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_203" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:05.857" clipEnd="0:11:06.615"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_203"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_204" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:06.615" clipEnd="0:11:07.321"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_204"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_205" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:07.321" clipEnd="0:11:08.090"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_205"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_206" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:08.090" clipEnd="0:11:09.067"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_206"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_207" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:09.067" clipEnd="0:11:09.890"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_207"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_208" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:09.890" clipEnd="0:11:10.695"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_208"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_209" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:10.695" clipEnd="0:11:11.676"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_209"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_210" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:11.676" clipEnd="0:11:12.689"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_210"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_211" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:12.689" clipEnd="0:11:13.616"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_211"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_212" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:13.616" clipEnd="0:11:14.710"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_212"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_7" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:14.710" clipEnd="0:11:15.795"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_7"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_213" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:15.795" clipEnd="0:11:16.514"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_213"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_214" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:16.514" clipEnd="0:11:17.140"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_214"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_215" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:17.140" clipEnd="0:11:17.899"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_215"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_216" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:17.899" clipEnd="0:11:18.670"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_216"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_217" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:18.670" clipEnd="0:11:19.484"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_217"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_218" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:19.484" clipEnd="0:11:20.239"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_218"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_219" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:20.239" clipEnd="0:11:20.999"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_219"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_220" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:20.999" clipEnd="0:11:21.815"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_220"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_221" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:21.815" clipEnd="0:11:22.600"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_221"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_222" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:22.600" clipEnd="0:11:23.296"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_222"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_223" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:23.296" clipEnd="0:11:24.153"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_223"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_224" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:24.153" clipEnd="0:11:25.113"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_224"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_225" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:25.113" clipEnd="0:11:26.080"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_225"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_226" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:26.080" clipEnd="0:11:27.147"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_226"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_227" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:27.147" clipEnd="0:11:28.093"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_227"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_228" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:28.093" clipEnd="0:11:28.649"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_228"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_229" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:28.649" clipEnd="0:11:29.657"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_229"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_230" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:29.657" clipEnd="0:11:30.530"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_230"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_8" pageRef="pagenum_48">
+			<navLabel>
+				<text>4 (No notes for appendix 3)</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:30.530" clipEnd="0:11:31.785"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_8"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_231" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:31.785" clipEnd="0:11:32.431"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_231"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_232" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:32.431" clipEnd="0:11:32.995"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_232"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_233" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:32.995" clipEnd="0:11:33.619"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_233"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_234" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:33.619" clipEnd="0:11:34.291"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_234"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_235" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:34.291" clipEnd="0:11:34.960"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_235"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_236" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:34.960" clipEnd="0:11:35.686"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_236"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_237" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:35.686" clipEnd="0:11:36.301"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_237"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_238" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:36.301" clipEnd="0:11:36.871"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_238"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_239" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:36.871" clipEnd="0:11:37.674"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_239"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_240" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:37.674" clipEnd="0:11:38.508"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_240"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_241" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:38.508" clipEnd="0:11:39.243"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_241"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_242" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:39.243" clipEnd="0:11:40.125"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_242"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_243" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:40.125" clipEnd="0:11:41.106"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_243"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_244" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:41.106" clipEnd="0:11:42.010"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_244"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_245" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:42.010" clipEnd="0:11:42.940"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_245"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_246" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:42.940" clipEnd="0:11:43.931"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_246"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_247" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:43.931" clipEnd="0:11:44.937"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_247"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_248" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:44.937" clipEnd="0:11:45.806"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_248"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_249" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:45.806" clipEnd="0:11:46.764"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_249"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_250" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:46.764" clipEnd="0:11:47.694"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_250"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_251" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:47.694" clipEnd="0:11:48.582"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_251"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_252" pageRef="pagenum_48">
+			<navLabel>
+				<text>22</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:48.582" clipEnd="0:11:49.524"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_252"/>
+		</navPoint>
+		<navPoint class="appendix" id="P31_9" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:49.524" clipEnd="0:11:50.604"/>
+			</navLabel>
+			<content src="EN-05181.smil#P31_9"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_253" pageRef="pagenum_48">
+			<navLabel>
+				<text>1</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:50.604" clipEnd="0:11:51.297"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_253"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_254" pageRef="pagenum_48">
+			<navLabel>
+				<text>2</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:51.297" clipEnd="0:11:51.941"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_254"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_255" pageRef="pagenum_48">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:51.941" clipEnd="0:11:52.596"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_255"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_256" pageRef="pagenum_48">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:52.596" clipEnd="0:11:53.264"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_256"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_257" pageRef="pagenum_48">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:53.264" clipEnd="0:11:53.958"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_257"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_258" pageRef="pagenum_48">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:53.958" clipEnd="0:11:54.798"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_258"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_259" pageRef="pagenum_48">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:54.798" clipEnd="0:11:55.527"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_259"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_260" pageRef="pagenum_48">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:55.527" clipEnd="0:11:56.323"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_260"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_261" pageRef="pagenum_48">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:56.323" clipEnd="0:11:57.285"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_261"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_262" pageRef="pagenum_48">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:57.285" clipEnd="0:11:58.036"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_262"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_263" pageRef="pagenum_48">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:58.036" clipEnd="0:11:58.941"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_263"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_264" pageRef="pagenum_48">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:58.941" clipEnd="0:11:59.603"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_264"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_265" pageRef="pagenum_48">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:11:59.603" clipEnd="0:12:00.601"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_265"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_266" pageRef="pagenum_48">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:00.601" clipEnd="0:12:01.476"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_266"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_267" pageRef="pagenum_48">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:01.476" clipEnd="0:12:02.326"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_267"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_268" pageRef="pagenum_48">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:02.326" clipEnd="0:12:03.215"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_268"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_269" pageRef="pagenum_48">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:03.215" clipEnd="0:12:04.210"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_269"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_270" pageRef="pagenum_48">
+			<navLabel>
+				<text>18</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:04.210" clipEnd="0:12:05.020"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_270"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_271" pageRef="pagenum_48">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:05.020" clipEnd="0:12:06.034"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_271"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_272" pageRef="pagenum_48">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:06.034" clipEnd="0:12:06.635"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_272"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_273" pageRef="pagenum_48">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:06.635" clipEnd="0:12:07.454"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_273"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_274" pageRef="pagenum_48">
+			<navLabel>
+				<text>22</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:07.454" clipEnd="0:12:08.521"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_274"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_275" pageRef="pagenum_48">
+			<navLabel>
+				<text>23</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:08.521" clipEnd="0:12:09.579"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_275"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_276" pageRef="pagenum_48">
+			<navLabel>
+				<text>24</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:09.579" clipEnd="0:12:10.660"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_276"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_277" pageRef="pagenum_48">
+			<navLabel>
+				<text>25</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:10.660" clipEnd="0:12:11.628"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_277"/>
+		</navPoint>
+		<navPoint class="endnotes" id="P35_278" pageRef="pagenum_48">
+			<navLabel>
+				<text>26</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:11.628" clipEnd="0:12:12.682"/>
+			</navLabel>
+			<content src="EN-05181.smil#P35_278"/>
+		</navPoint>
+		<navPoint class="bibliography" id="P34_1" pageRef="pagenum_48">
+			<navLabel>
+				<text>Bibliography</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:12.682" clipEnd="0:12:13.905"/>
+			</navLabel>
+			<content src="EN-05181.smil#P34_1"/>
+		</navPoint>
+		<navPoint class="section" id="P4_98" pageRef="pagenum_48">
+			<navLabel>
+				<text>1: Books</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:13.905" clipEnd="0:12:14.997"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_98"/>
+		</navPoint>
+		<navPoint class="section" id="P4_99" pageRef="pagenum_48">
+			<navLabel>
+				<text>2: Articles and Other Sources</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:14.997" clipEnd="0:12:17.169"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_99"/>
+		</navPoint>
+		<navPoint class="section" id="P4_100" pageRef="pagenum_48">
+			<navLabel>
+				<text>3" Public Documents</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:17.169" clipEnd="0:12:19.283"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_100"/>
+		</navPoint>
+		<navPoint class="section" id="P4_101" pageRef="pagenum_48">
+			<navLabel>
+				<text>4: Interviews</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:19.283" clipEnd="0:12:20.340"/>
+			</navLabel>
+			<content src="EN-05181.smil#P4_101"/>
+		</navPoint>
+		<navPoint class="close" id="P15_1" pageRef="pagenum_48">
+			<navLabel>
+				<text>The End</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:20.340" clipEnd="0:12:21.060"/>
+			</navLabel>
+			<content src="EN-05181.smil#P15_1"/>
+		</navPoint>
+	</navMap>
+	<navList class="pagenum">
+		<navLabel>
+			<text>pagenum</text>
+		</navLabel>
+		<navTarget id="pagenum_1" value="3" class="pagenum" mapRef="P2_1">
+			<navLabel>
+				<text>3</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:21.060" clipEnd="0:12:21.799"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_1"/>
+		</navTarget>
+		<navTarget id="pagenum_2" value="4" class="pagenum" mapRef="P4_1">
+			<navLabel>
+				<text>4</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:21.799" clipEnd="0:12:22.766"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_2"/>
+		</navTarget>
+		<navTarget id="pagenum_3" value="5" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>5</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:22.766" clipEnd="0:12:23.541"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_3"/>
+		</navTarget>
+		<navTarget id="pagenum_4" value="6" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>6</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:23.541" clipEnd="0:12:24.337"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_4"/>
+		</navTarget>
+		<navTarget id="pagenum_5" value="7" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>7</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:24.337" clipEnd="0:12:25.171"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_5"/>
+		</navTarget>
+		<navTarget id="pagenum_6" value="8" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>8</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:25.171" clipEnd="0:12:25.939"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_6"/>
+		</navTarget>
+		<navTarget id="pagenum_7" value="9" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>9</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:25.939" clipEnd="0:12:26.963"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_7"/>
+		</navTarget>
+		<navTarget id="pagenum_8" value="10" class="pagenum" mapRef="P4_2">
+			<navLabel>
+				<text>10</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:26.963" clipEnd="0:12:27.745"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_8"/>
+		</navTarget>
+		<navTarget id="pagenum_9" value="11" class="pagenum" mapRef="P4_3">
+			<navLabel>
+				<text>11</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:27.745" clipEnd="0:12:28.450"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_9"/>
+		</navTarget>
+		<navTarget id="pagenum_10" value="12" class="pagenum" mapRef="P4_4">
+			<navLabel>
+				<text>12</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:28.450" clipEnd="0:12:29.274"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_10"/>
+		</navTarget>
+		<navTarget id="pagenum_11" value="13" class="pagenum" mapRef="P4_4">
+			<navLabel>
+				<text>13</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:29.274" clipEnd="0:12:30.238"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_11"/>
+		</navTarget>
+		<navTarget id="pagenum_12" value="14" class="pagenum" mapRef="P4_5">
+			<navLabel>
+				<text>14</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:30.238" clipEnd="0:12:31.259"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_12"/>
+		</navTarget>
+		<navTarget id="pagenum_13" value="15" class="pagenum" mapRef="P4_5">
+			<navLabel>
+				<text>15</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:31.259" clipEnd="0:12:32.106"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_13"/>
+		</navTarget>
+		<navTarget id="pagenum_14" value="16" class="pagenum" mapRef="P4_5">
+			<navLabel>
+				<text>16</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:32.106" clipEnd="0:12:33.104"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_14"/>
+		</navTarget>
+		<navTarget id="pagenum_15" value="17" class="pagenum" mapRef="P4_5">
+			<navLabel>
+				<text>17</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:33.104" clipEnd="0:12:34.349"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_15"/>
+		</navTarget>
+		<navTarget id="pagenum_16" value="19" class="pagenum" mapRef="P4_6">
+			<navLabel>
+				<text>19</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:34.349" clipEnd="0:12:35.364"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_16"/>
+		</navTarget>
+		<navTarget id="pagenum_17" value="20" class="pagenum" mapRef="P4_6">
+			<navLabel>
+				<text>20</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:35.364" clipEnd="0:12:36.373"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_17"/>
+		</navTarget>
+		<navTarget id="pagenum_18" value="21" class="pagenum" mapRef="P4_6">
+			<navLabel>
+				<text>21</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:36.373" clipEnd="0:12:37.487"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_18"/>
+		</navTarget>
+		<navTarget id="pagenum_19" value="43" class="pagenum" mapRef="P2_2">
+			<navLabel>
+				<text>43</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:37.487" clipEnd="0:12:38.731"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_19"/>
+		</navTarget>
+		<navTarget id="pagenum_20" value="67" class="pagenum" mapRef="P4_17">
+			<navLabel>
+				<text>67</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:38.731" clipEnd="0:12:40.032"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_20"/>
+		</navTarget>
+		<navTarget id="pagenum_21" value="89" class="pagenum" mapRef="P4_25">
+			<navLabel>
+				<text>89</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:40.032" clipEnd="0:12:41.102"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_21"/>
+		</navTarget>
+		<navTarget id="pagenum_22" value="91" class="pagenum" mapRef="P4_26">
+			<navLabel>
+				<text>91</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:41.102" clipEnd="0:12:42.293"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_22"/>
+		</navTarget>
+		<navTarget id="pagenum_23" value="100" class="pagenum" mapRef="P4_30">
+			<navLabel>
+				<text>100</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:42.293" clipEnd="0:12:43.220"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_23"/>
+		</navTarget>
+		<navTarget id="pagenum_24" value="107" class="pagenum" mapRef="P4_32">
+			<navLabel>
+				<text>107</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:43.220" clipEnd="0:12:44.419"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_24"/>
+		</navTarget>
+		<navTarget id="pagenum_25" value="111" class="pagenum" mapRef="P4_34">
+			<navLabel>
+				<text>111</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:44.419" clipEnd="0:12:45.515"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_25"/>
+		</navTarget>
+		<navTarget id="pagenum_26" value="125" class="pagenum" mapRef="P4_38">
+			<navLabel>
+				<text>125</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:45.515" clipEnd="0:12:46.764"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_26"/>
+		</navTarget>
+		<navTarget id="pagenum_27" value="129" class="pagenum" mapRef="P4_38">
+			<navLabel>
+				<text>129</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:46.764" clipEnd="0:12:48.358"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_27"/>
+		</navTarget>
+		<navTarget id="pagenum_28" value="160" class="pagenum" mapRef="P4_49">
+			<navLabel>
+				<text>160</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:48.358" clipEnd="0:12:49.771"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_28"/>
+		</navTarget>
+		<navTarget id="pagenum_29" value="168" class="pagenum" mapRef="P4_54">
+			<navLabel>
+				<text>168</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:49.771" clipEnd="0:12:50.894"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_29"/>
+		</navTarget>
+		<navTarget id="pagenum_30" value="179" class="pagenum" mapRef="P2_3">
+			<navLabel>
+				<text>179</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:50.894" clipEnd="0:12:52.197"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_30"/>
+		</navTarget>
+		<navTarget id="pagenum_31" value="195" class="pagenum" mapRef="P4_66">
+			<navLabel>
+				<text>195</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:52.197" clipEnd="0:12:53.411"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_31"/>
+		</navTarget>
+		<navTarget id="pagenum_32" value="215" class="pagenum" mapRef="P4_71">
+			<navLabel>
+				<text>215</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:53.411" clipEnd="0:12:54.555"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_32"/>
+		</navTarget>
+		<navTarget id="pagenum_33" value="217" class="pagenum" mapRef="P4_72">
+			<navLabel>
+				<text>217</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:54.555" clipEnd="0:12:56.050"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_33"/>
+		</navTarget>
+		<navTarget id="pagenum_34" value="263" class="pagenum" mapRef="P4_88">
+			<navLabel>
+				<text>263</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:56.050" clipEnd="0:12:57.745"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_34"/>
+		</navTarget>
+		<navTarget id="pagenum_35" value="282" class="pagenum" mapRef="P5_8">
+			<navLabel>
+				<text>282</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:57.745" clipEnd="0:12:58.941"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_35"/>
+		</navTarget>
+		<navTarget id="pagenum_36" value="300" class="pagenum" mapRef="P5_14">
+			<navLabel>
+				<text>300</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:58.941" clipEnd="0:12:59.954"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_36"/>
+		</navTarget>
+		<navTarget id="pagenum_37" value="301" class="pagenum" mapRef="P5_14">
+			<navLabel>
+				<text>301</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:12:59.954" clipEnd="0:13:01.302"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_37"/>
+		</navTarget>
+		<navTarget id="pagenum_38" value="311" class="pagenum" mapRef="P5_15">
+			<navLabel>
+				<text>311</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:01.302" clipEnd="0:13:02.999"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_38"/>
+		</navTarget>
+		<navTarget id="pagenum_39" value="319" class="pagenum" mapRef="P5_17">
+			<navLabel>
+				<text>319</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:02.999" clipEnd="0:13:03.972"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_39"/>
+		</navTarget>
+		<navTarget id="pagenum_40" value="320" class="pagenum" mapRef="P5_26">
+			<navLabel>
+				<text>320</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:03.972" clipEnd="0:13:05.221"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_40"/>
+		</navTarget>
+		<navTarget id="pagenum_41" value="323" class="pagenum" mapRef="P5_30">
+			<navLabel>
+				<text>323</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:05.221" clipEnd="0:13:06.325"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_41"/>
+		</navTarget>
+		<navTarget id="pagenum_42" value="304" class="pagenum" mapRef="P5_48">
+			<navLabel>
+				<text>304</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:06.325" clipEnd="0:13:08.081"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_42"/>
+		</navTarget>
+		<navTarget id="pagenum_43" value="330" class="pagenum" mapRef="P31_4">
+			<navLabel>
+				<text>330</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:08.081" clipEnd="0:13:09.310"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_43"/>
+		</navTarget>
+		<navTarget id="pagenum_44" value="333" class="pagenum" mapRef="P32_1">
+			<navLabel>
+				<text>333</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:09.310" clipEnd="0:13:10.711"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_44"/>
+		</navTarget>
+		<navTarget id="pagenum_45" value="349" class="pagenum" mapRef="P32_3">
+			<navLabel>
+				<text>349</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:10.711" clipEnd="0:13:12.120"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_45"/>
+		</navTarget>
+		<navTarget id="pagenum_46" value="336" class="pagenum" mapRef="P32_3">
+			<navLabel>
+				<text>336</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:12.120" clipEnd="0:13:13.567"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_46"/>
+		</navTarget>
+		<navTarget id="pagenum_47" value="350" class="pagenum" mapRef="P32_4">
+			<navLabel>
+				<text>350</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:13.567" clipEnd="0:13:14.742"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_47"/>
+		</navTarget>
+		<navTarget id="pagenum_48" value="376" class="pagenum" mapRef="P32_18">
+			<navLabel>
+				<text>376</text>
+				<audio src="EN-05181hdgs.3gp" clipBegin="0:13:14.742" clipEnd="0:13:16.682"/>
+			</navLabel>
+			<content src="EN-05181.smil#pagenum_48"/>
+		</navTarget>
+	</navList>
+</ncx>

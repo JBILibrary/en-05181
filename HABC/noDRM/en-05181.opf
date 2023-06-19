@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/">
+			<dc:Title>Sephardim in Tewntieth Century America: In search of unity</dc:Title>
+			<dc:Creator>Papo, Joseph M.</dc:Creator>
+			<dc:Subject>Sephardim--United States--History--20th century</dc:Subject>
+			<dc:Subject>Jews--United States--History--20th century</dc:Subject>
+			<dc:Subject>United States--Ethnic relations.</dc:Subject>
+			<dc:Publisher>JBI International</dc:Publisher>
+			<dc:Format>ANSI/NISO Z39.86-2002</dc:Format>
+			<dc:Language>EN</dc:Language>
+			<dc:Rights>This book is recorded exclusively for the blind,visually impaired, and reading disabled. Any reproduction in other than a specialized format is strictly prohibited by Act of Congress.</dc:Rights>
+			<dc:Identifier id="uid" scheme="DTB">us-jbi-en-05181</dc:Identifier>
+			<dc:Date>2021-12</dc:Date>
+		</dc-metadata>
+		<x-metadata>
+			<meta name="dtb:sourceDate" content="1987"/>
+			<meta name="dtb:sourcePublisher" content="Pelé Yoetz Books, San José CA"/>
+			<meta name="dtb:sourceRights" content="1987 Pelé Yoetz Books"/>
+			<meta name="dtb:multimediaType" content="audioNCX"/>
+			<meta name="dtb:producer" content="xio.nyc"/>
+			<meta name="dtb:producedDate" content="2012-01-04"/>
+			<meta name="dtb:revision" content="1"/>
+			<meta name="dtb:revisionDate" content="2021-12-16"/>
+			<meta name="dtb:revisionDescription" content="Refactored from LCM"/>
+			<meta name="dtb:narrator" content="Schiering, Nancy"/>
+			<meta name="dtb:audioFormat" content="3gpp"/>
+			<meta name="nls:recordingAgency" content="JBI International"/>
+			<meta name="nls:labelPrintLargeTitle" content=""/>
+			<meta name="nls:labelPrintTitle" content=""/>
+			<meta name="nls:labelPrintLargeAuthor" content=""/>
+			<meta name="nls:labelPrintAuthor" content=""/>
+			<meta name="nls:labelPrintCopyright" content=""/>
+			<meta name="nls:labelBookNumber" content=""/>
+			<meta name="nls:labelPrintSequence" content=""/>
+			<meta name="nls:labelBrailleTitle" content=""/>
+			<meta name="nls:labelBrailleAuthor" content=""/>
+			<meta name="nls:labelBrailleSequence" content=""/>
+			<meta name="nls:containerLabelLanguage" content=""/>
+			<meta name="nls:containerLabelTitle" content=""/>
+			<meta name="nls:containerLabelAuthor" content=""/>
+			<meta name="nls:containerLabelDewey" content=""/>
+			<meta name="nls:containerLabelBrailleTitle" content=""/>
+			<meta name="nls:containerLabelBrailleAuthor" content=""/>
+			<meta name="dtb:totalTime" content="21:07:13.474"/>
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="en-05181.ncx" media-type="text/xml"/>
+		<item id="opf" href="en-05181.opf" media-type="text/xml"/>
+		<item id="smil000" href="en-05181-0001.smil" media-type="application/smil"/>
+		<item id="smil001" href="en-05181-0002.smil" media-type="application/smil"/>
+		<item id="smil002" href="en-05181-0003.smil" media-type="application/smil"/>
+		<item id="hdgs" href="en-05181hdgs.3gp" media-type="audio/3gpp"/>
+		<item id="aud1" href="en-05181-0001.3gp" media-type="audio/3gpp"/>
+		<item id="aud2" href="en-05181-0002.3gp" media-type="audio/3gpp"/>
+		<item id="aud3" href="en-05181-0003.3gp" media-type="audio/3gpp"/>
+		<item id="aud4" href="en-05181-0004.3gp" media-type="audio/3gpp"/>
+		<item id="aud5" href="en-05181-0005.3gp" media-type="audio/3gpp"/>
+		<item id="aud6" href="en-05181-0006.3gp" media-type="audio/3gpp"/>
+		<item id="aud7" href="en-05181-0007.3gp" media-type="audio/3gpp"/>
+		<item id="aud8" href="en-05181-0008.3gp" media-type="audio/3gpp"/>
+		<item id="aud9" href="en-05181-0009.3gp" media-type="audio/3gpp"/>
+		<item id="aud10" href="en-05181-0010.3gp" media-type="audio/3gpp"/>
+		<item id="aud11" href="en-05181-0011.3gp" media-type="audio/3gpp"/>
+		<item id="aud12" href="en-05181-0012.3gp" media-type="audio/3gpp"/>
+		<item id="aud13" href="en-05181-0013.3gp" media-type="audio/3gpp"/>
+		<item id="aud14" href="en-05181-0014.3gp" media-type="audio/3gpp"/>
+		<item id="aud15" href="en-05181-0015.3gp" media-type="audio/3gpp"/>
+		<item id="aud16" href="en-05181-0016.3gp" media-type="audio/3gpp"/>
+		<item id="aud17" href="en-05181-0017.3gp" media-type="audio/3gpp"/>
+		<item id="aud18" href="en-05181-0018.3gp" media-type="audio/3gpp"/>
+		<item id="aud19" href="en-05181-0019.3gp" media-type="audio/3gpp"/>
+		<item id="aud20" href="en-05181-0020.3gp" media-type="audio/3gpp"/>
+		<item id="aud21" href="en-05181-0021.3gp" media-type="audio/3gpp"/>
+		<item id="aud22" href="en-05181-0022.3gp" media-type="audio/3gpp"/>
+		<item id="aud23" href="en-05181-0023.3gp" media-type="audio/3gpp"/>
+		<item id="aud24" href="en-05181-0024.3gp" media-type="audio/3gpp"/>
+		<item id="aud25" href="en-05181-0025.3gp" media-type="audio/3gpp"/>
+		<item id="aud26" href="en-05181-0026.3gp" media-type="audio/3gpp"/>
+		<item id="aud27" href="en-05181-0027.3gp" media-type="audio/3gpp"/>
+		<item id="aud28" href="en-05181-0028.3gp" media-type="audio/3gpp"/>
+		<item id="aud29" href="en-05181-0029.3gp" media-type="audio/3gpp"/>
+		<item id="aud30" href="en-05181-0030.3gp" media-type="audio/3gpp"/>
+		<item id="aud31" href="en-05181-0031.3gp" media-type="audio/3gpp"/>
+		<item id="aud32" href="en-05181-0032.3gp" media-type="audio/3gpp"/>
+		<item id="aud33" href="en-05181-0033.3gp" media-type="audio/3gpp"/>
+		<item id="aud34" href="en-05181-0034.3gp" media-type="audio/3gpp"/>
+		<item id="aud35" href="en-05181-0035.3gp" media-type="audio/3gpp"/>
+		<item id="aud36" href="en-05181-0036.3gp" media-type="audio/3gpp"/>
+		<item id="aud37" href="en-05181-0037.3gp" media-type="audio/3gpp"/>
+		<item id="aud38" href="en-05181-0038.3gp" media-type="audio/3gpp"/>
+		<item id="aud39" href="en-05181-0039.3gp" media-type="audio/3gpp"/>
+		<item id="aud40" href="en-05181-0040.3gp" media-type="audio/3gpp"/>
+		<item id="aud41" href="en-05181-0041.3gp" media-type="audio/3gpp"/>
+		<item id="aud42" href="en-05181-0042.3gp" media-type="audio/3gpp"/>
+		<item id="aud43" href="en-05181-0043.3gp" media-type="audio/3gpp"/>
+		<item id="aud44" href="en-05181-0044.3gp" media-type="audio/3gpp"/>
+		<item id="aud45" href="en-05181-0045.3gp" media-type="audio/3gpp"/>
+		<item id="aud46" href="en-05181-0046.3gp" media-type="audio/3gpp"/>
+		<item id="aud47" href="en-05181-0047.3gp" media-type="audio/3gpp"/>
+		<item id="aud48" href="en-05181-0048.3gp" media-type="audio/3gpp"/>
+		<item id="aud49" href="en-05181-0049.3gp" media-type="audio/3gpp"/>
+		<item id="aud50" href="en-05181-0050.3gp" media-type="audio/3gpp"/>
+		<item id="aud51" href="en-05181-0051.3gp" media-type="audio/3gpp"/>
+		<item id="aud52" href="en-05181-0052.3gp" media-type="audio/3gpp"/>
+		<item id="aud53" href="en-05181-0053.3gp" media-type="audio/3gpp"/>
+		<item id="aud54" href="en-05181-0054.3gp" media-type="audio/3gpp"/>
+		<item id="aud55" href="en-05181-0055.3gp" media-type="audio/3gpp"/>
+		<item id="aud56" href="en-05181-0056.3gp" media-type="audio/3gpp"/>
+		<item id="aud57" href="en-05181-0057.3gp" media-type="audio/3gpp"/>
+		<item id="aud58" href="en-05181-0058.3gp" media-type="audio/3gpp"/>
+		<item id="aud59" href="en-05181-0059.3gp" media-type="audio/3gpp"/>
+		<item id="aud60" href="en-05181-0060.3gp" media-type="audio/3gpp"/>
+		<item id="aud61" href="en-05181-0061.3gp" media-type="audio/3gpp"/>
+		<item id="aud62" href="en-05181-0062.3gp" media-type="audio/3gpp"/>
+		<item id="aud63" href="en-05181-0063.3gp" media-type="audio/3gpp"/>
+		<item id="aud64" href="en-05181-0064.3gp" media-type="audio/3gpp"/>
+		<item id="aud65" href="en-05181-0065.3gp" media-type="audio/3gpp"/>
+		<item id="aud66" href="en-05181-0066.3gp" media-type="audio/3gpp"/>
+		<item id="aud67" href="en-05181-0067.3gp" media-type="audio/3gpp"/>
+		<item id="aud68" href="en-05181-0068.3gp" media-type="audio/3gpp"/>
+		<item id="aud69" href="en-05181-0069.3gp" media-type="audio/3gpp"/>
+		<item id="aud70" href="en-05181-0070.3gp" media-type="audio/3gpp"/>
+		<item id="aud71" href="en-05181-0071.3gp" media-type="audio/3gpp"/>
+		<item id="aud72" href="en-05181-0072.3gp" media-type="audio/3gpp"/>
+		<item id="aud73" href="en-05181-0073.3gp" media-type="audio/3gpp"/>
+		<item id="aud74" href="en-05181-0074.3gp" media-type="audio/3gpp"/>
+		<item id="aud75" href="en-05181-0075.3gp" media-type="audio/3gpp"/>
+		<item id="aud76" href="en-05181-0076.3gp" media-type="audio/3gpp"/>
+		<item id="aud77" href="en-05181-0077.3gp" media-type="audio/3gpp"/>
+		<item id="aud78" href="en-05181-0078.3gp" media-type="audio/3gpp"/>
+		<item id="aud79" href="en-05181-0079.3gp" media-type="audio/3gpp"/>
+		<item id="aud80" href="en-05181-0080.3gp" media-type="audio/3gpp"/>
+		<item id="aud81" href="en-05181-0081.3gp" media-type="audio/3gpp"/>
+		<item id="aud82" href="en-05181-0082.3gp" media-type="audio/3gpp"/>
+		<item id="aud83" href="en-05181-0083.3gp" media-type="audio/3gpp"/>
+		<item id="aud84" href="en-05181-0084.3gp" media-type="audio/3gpp"/>
+		<item id="aud85" href="en-05181-0085.3gp" media-type="audio/3gpp"/>
+		<item id="aud86" href="en-05181-0086.3gp" media-type="audio/3gpp"/>
+		<item id="aud87" href="en-05181-0087.3gp" media-type="audio/3gpp"/>
+		<item id="aud88" href="en-05181-0088.3gp" media-type="audio/3gpp"/>
+		<item id="aud89" href="en-05181-0089.3gp" media-type="audio/3gpp"/>
+		<item id="aud90" href="en-05181-0090.3gp" media-type="audio/3gpp"/>
+		<item id="aud91" href="en-05181-0091.3gp" media-type="audio/3gpp"/>
+		<item id="aud92" href="en-05181-0092.3gp" media-type="audio/3gpp"/>
+		<item id="aud93" href="en-05181-0093.3gp" media-type="audio/3gpp"/>
+		<item id="aud94" href="en-05181-0094.3gp" media-type="audio/3gpp"/>
+		<item id="aud95" href="en-05181-0095.3gp" media-type="audio/3gpp"/>
+		<item id="aud96" href="en-05181-0096.3gp" media-type="audio/3gpp"/>
+		<item id="aud97" href="en-05181-0097.3gp" media-type="audio/3gpp"/>
+		<item id="aud98" href="en-05181-0098.3gp" media-type="audio/3gpp"/>
+		<item id="aud99" href="en-05181-0099.3gp" media-type="audio/3gpp"/>
+		<item id="aud100" href="en-05181-0100.3gp" media-type="audio/3gpp"/>
+		<item id="aud101" href="en-05181-0101.3gp" media-type="audio/3gpp"/>
+		<item id="aud102" href="en-05181-0102.3gp" media-type="audio/3gpp"/>
+		<item id="aud103" href="en-05181-0103.3gp" media-type="audio/3gpp"/>
+		<item id="aud104" href="en-05181-0104.3gp" media-type="audio/3gpp"/>
+		<item id="aud105" href="en-05181-0105.3gp" media-type="audio/3gpp"/>
+		<item id="aud106" href="en-05181-0106.3gp" media-type="audio/3gpp"/>
+		<item id="aud107" href="en-05181-0107.3gp" media-type="audio/3gpp"/>
+		<item id="aud108" href="en-05181-0108.3gp" media-type="audio/3gpp"/>
+		<item id="aud109" href="en-05181-0109.3gp" media-type="audio/3gpp"/>
+		<item id="aud110" href="en-05181-0110.3gp" media-type="audio/3gpp"/>
+		<item id="aud111" href="en-05181-0111.3gp" media-type="audio/3gpp"/>
+		<item id="aud112" href="en-05181-0112.3gp" media-type="audio/3gpp"/>
+		<item id="aud113" href="en-05181-0113.3gp" media-type="audio/3gpp"/>
+		<item id="aud114" href="en-05181-0114.3gp" media-type="audio/3gpp"/>
+		<item id="aud115" href="en-05181-0115.3gp" media-type="audio/3gpp"/>
+		<item id="aud116" href="en-05181-0116.3gp" media-type="audio/3gpp"/>
+		<item id="aud117" href="en-05181-0117.3gp" media-type="audio/3gpp"/>
+		<item id="aud118" href="en-05181-0118.3gp" media-type="audio/3gpp"/>
+		<item id="aud119" href="en-05181-0119.3gp" media-type="audio/3gpp"/>
+		<item id="aud120" href="en-05181-0120.3gp" media-type="audio/3gpp"/>
+		<item id="aud121" href="en-05181-0121.3gp" media-type="audio/3gpp"/>
+		<item id="aud122" href="en-05181-0122.3gp" media-type="audio/3gpp"/>
+		<item id="aud123" href="en-05181-0123.3gp" media-type="audio/3gpp"/>
+		<item id="aud124" href="en-05181-0124.3gp" media-type="audio/3gpp"/>
+		<item id="aud125" href="en-05181-0125.3gp" media-type="audio/3gpp"/>
+		<item id="aud126" href="en-05181-0126.3gp" media-type="audio/3gpp"/>
+		<item id="aud127" href="en-05181-0127.3gp" media-type="audio/3gpp"/>
+		<item id="aud128" href="en-05181-0128.3gp" media-type="audio/3gpp"/>
+		<item id="aud129" href="en-05181-0129.3gp" media-type="audio/3gpp"/>
+		<item id="aud130" href="en-05181-0130.3gp" media-type="audio/3gpp"/>
+		<item id="aud131" href="en-05181-0131.3gp" media-type="audio/3gpp"/>
+		<item id="aud132" href="en-05181-0132.3gp" media-type="audio/3gpp"/>
+		<item id="aud133" href="en-05181-0133.3gp" media-type="audio/3gpp"/>
+		<item id="aud134" href="en-05181-0134.3gp" media-type="audio/3gpp"/>
+		<item id="aud135" href="en-05181-0135.3gp" media-type="audio/3gpp"/>
+		<item id="aud136" href="en-05181-0136.3gp" media-type="audio/3gpp"/>
+		<item id="aud137" href="en-05181-0137.3gp" media-type="audio/3gpp"/>
+		<item id="aud138" href="en-05181-0138.3gp" media-type="audio/3gpp"/>
+		<item id="aud139" href="en-05181-0139.3gp" media-type="audio/3gpp"/>
+		<item id="aud140" href="en-05181-0140.3gp" media-type="audio/3gpp"/>
+		<item id="aud141" href="en-05181-0141.3gp" media-type="audio/3gpp"/>
+		<item id="aud142" href="en-05181-0142.3gp" media-type="audio/3gpp"/>
+		<item id="aud143" href="en-05181-0143.3gp" media-type="audio/3gpp"/>
+		<item id="aud144" href="en-05181-0144.3gp" media-type="audio/3gpp"/>
+		<item id="aud145" href="en-05181-0145.3gp" media-type="audio/3gpp"/>
+		<item id="aud146" href="en-05181-0146.3gp" media-type="audio/3gpp"/>
+		<item id="aud147" href="en-05181-0147.3gp" media-type="audio/3gpp"/>
+		<item id="aud148" href="en-05181-0148.3gp" media-type="audio/3gpp"/>
+		<item id="aud149" href="en-05181-0149.3gp" media-type="audio/3gpp"/>
+		<item id="aud150" href="en-05181-0150.3gp" media-type="audio/3gpp"/>
+		<item id="aud151" href="en-05181-0151.3gp" media-type="audio/3gpp"/>
+		<item id="aud152" href="en-05181-0152.3gp" media-type="audio/3gpp"/>
+		<item id="aud153" href="en-05181-0153.3gp" media-type="audio/3gpp"/>
+		<item id="aud154" href="en-05181-0154.3gp" media-type="audio/3gpp"/>
+		<item id="aud155" href="en-05181-0155.3gp" media-type="audio/3gpp"/>
+		<item id="aud156" href="en-05181-0156.3gp" media-type="audio/3gpp"/>
+		<item id="aud157" href="en-05181-0157.3gp" media-type="audio/3gpp"/>
+		<item id="aud158" href="en-05181-0158.3gp" media-type="audio/3gpp"/>
+		<item id="aud159" href="en-05181-0159.3gp" media-type="audio/3gpp"/>
+		<item id="aud160" href="en-05181-0160.3gp" media-type="audio/3gpp"/>
+		<item id="aud161" href="en-05181-0161.3gp" media-type="audio/3gpp"/>
+		<item id="aud162" href="en-05181-0162.3gp" media-type="audio/3gpp"/>
+		<item id="aud163" href="en-05181-0163.3gp" media-type="audio/3gpp"/>
+		<item id="aud164" href="en-05181-0164.3gp" media-type="audio/3gpp"/>
+		<item id="aud165" href="en-05181-0165.3gp" media-type="audio/3gpp"/>
+		<item id="aud166" href="en-05181-0166.3gp" media-type="audio/3gpp"/>
+		<item id="aud167" href="en-05181-0167.3gp" media-type="audio/3gpp"/>
+		<item id="aud168" href="en-05181-0168.3gp" media-type="audio/3gpp"/>
+		<item id="aud169" href="en-05181-0169.3gp" media-type="audio/3gpp"/>
+		<item id="aud170" href="en-05181-0170.3gp" media-type="audio/3gpp"/>
+		<item id="aud171" href="en-05181-0171.3gp" media-type="audio/3gpp"/>
+		<item id="aud172" href="en-05181-0172.3gp" media-type="audio/3gpp"/>
+		<item id="aud173" href="en-05181-0173.3gp" media-type="audio/3gpp"/>
+		<item id="aud174" href="en-05181-0174.3gp" media-type="audio/3gpp"/>
+		<item id="aud175" href="en-05181-0175.3gp" media-type="audio/3gpp"/>
+		<item id="aud176" href="en-05181-0176.3gp" media-type="audio/3gpp"/>
+		<item id="aud177" href="en-05181-0177.3gp" media-type="audio/3gpp"/>
+		<item id="aud178" href="en-05181-0178.3gp" media-type="audio/3gpp"/>
+		<item id="aud179" href="en-05181-0179.3gp" media-type="audio/3gpp"/>
+		<item id="aud180" href="en-05181-0180.3gp" media-type="audio/3gpp"/>
+		<item id="aud181" href="en-05181-0181.3gp" media-type="audio/3gpp"/>
+		<item id="aud182" href="en-05181-0182.3gp" media-type="audio/3gpp"/>
+		<item id="aud183" href="en-05181-0183.3gp" media-type="audio/3gpp"/>
+		<item id="aud184" href="en-05181-0184.3gp" media-type="audio/3gpp"/>
+		<item id="aud185" href="en-05181-0185.3gp" media-type="audio/3gpp"/>
+		<item id="aud186" href="en-05181-0186.3gp" media-type="audio/3gpp"/>
+		<item id="aud187" href="en-05181-0187.3gp" media-type="audio/3gpp"/>
+		<item id="aud188" href="en-05181-0188.3gp" media-type="audio/3gpp"/>
+		<item id="aud189" href="en-05181-0189.3gp" media-type="audio/3gpp"/>
+		<item id="aud190" href="en-05181-0190.3gp" media-type="audio/3gpp"/>
+		<item id="aud191" href="en-05181-0191.3gp" media-type="audio/3gpp"/>
+		<item id="aud192" href="en-05181-0192.3gp" media-type="audio/3gpp"/>
+		<item id="aud193" href="en-05181-0193.3gp" media-type="audio/3gpp"/>
+		<item id="aud194" href="en-05181-0194.3gp" media-type="audio/3gpp"/>
+		<item id="aud195" href="en-05181-0195.3gp" media-type="audio/3gpp"/>
+		<item id="aud196" href="en-05181-0196.3gp" media-type="audio/3gpp"/>
+		<item id="aud197" href="en-05181-0197.3gp" media-type="audio/3gpp"/>
+		<item id="aud198" href="en-05181-0198.3gp" media-type="audio/3gpp"/>
+		<item id="aud199" href="en-05181-0199.3gp" media-type="audio/3gpp"/>
+		<item id="aud200" href="en-05181-0200.3gp" media-type="audio/3gpp"/>
+		<item id="aud201" href="en-05181-0201.3gp" media-type="audio/3gpp"/>
+		<item id="aud202" href="en-05181-0202.3gp" media-type="audio/3gpp"/>
+		<item id="aud203" href="en-05181-0203.3gp" media-type="audio/3gpp"/>
+		<item id="aud204" href="en-05181-0204.3gp" media-type="audio/3gpp"/>
+		<item id="aud205" href="en-05181-0205.3gp" media-type="audio/3gpp"/>
+		<item id="aud206" href="en-05181-0206.3gp" media-type="audio/3gpp"/>
+		<item id="aud207" href="en-05181-0207.3gp" media-type="audio/3gpp"/>
+		<item id="aud208" href="en-05181-0208.3gp" media-type="audio/3gpp"/>
+		<item id="aud209" href="en-05181-0209.3gp" media-type="audio/3gpp"/>
+		<item id="aud210" href="en-05181-0210.3gp" media-type="audio/3gpp"/>
+		<item id="aud211" href="en-05181-0211.3gp" media-type="audio/3gpp"/>
+		<item id="aud212" href="en-05181-0212.3gp" media-type="audio/3gpp"/>
+		<item id="aud213" href="en-05181-0213.3gp" media-type="audio/3gpp"/>
+		<item id="aud214" href="en-05181-0214.3gp" media-type="audio/3gpp"/>
+		<item id="aud215" href="en-05181-0215.3gp" media-type="audio/3gpp"/>
+		<item id="aud216" href="en-05181-0216.3gp" media-type="audio/3gpp"/>
+		<item id="aud217" href="en-05181-0217.3gp" media-type="audio/3gpp"/>
+		<item id="aud218" href="en-05181-0218.3gp" media-type="audio/3gpp"/>
+		<item id="aud219" href="en-05181-0219.3gp" media-type="audio/3gpp"/>
+		<item id="aud220" href="en-05181-0220.3gp" media-type="audio/3gpp"/>
+		<item id="aud221" href="en-05181-0221.3gp" media-type="audio/3gpp"/>
+		<item id="aud222" href="en-05181-0222.3gp" media-type="audio/3gpp"/>
+		<item id="aud223" href="en-05181-0223.3gp" media-type="audio/3gpp"/>
+		<item id="aud224" href="en-05181-0224.3gp" media-type="audio/3gpp"/>
+		<item id="aud225" href="en-05181-0225.3gp" media-type="audio/3gpp"/>
+		<item id="aud226" href="en-05181-0226.3gp" media-type="audio/3gpp"/>
+		<item id="aud227" href="en-05181-0227.3gp" media-type="audio/3gpp"/>
+		<item id="aud228" href="en-05181-0228.3gp" media-type="audio/3gpp"/>
+		<item id="aud229" href="en-05181-0229.3gp" media-type="audio/3gpp"/>
+		<item id="aud230" href="en-05181-0230.3gp" media-type="audio/3gpp"/>
+		<item id="aud231" href="en-05181-0231.3gp" media-type="audio/3gpp"/>
+		<item id="aud232" href="en-05181-0232.3gp" media-type="audio/3gpp"/>
+		<item id="aud233" href="en-05181-0233.3gp" media-type="audio/3gpp"/>
+		<item id="aud234" href="en-05181-0234.3gp" media-type="audio/3gpp"/>
+		<item id="aud235" href="en-05181-0235.3gp" media-type="audio/3gpp"/>
+		<item id="aud236" href="en-05181-0236.3gp" media-type="audio/3gpp"/>
+		<item id="aud237" href="en-05181-0237.3gp" media-type="audio/3gpp"/>
+		<item id="aud238" href="en-05181-0238.3gp" media-type="audio/3gpp"/>
+		<item id="aud239" href="en-05181-0239.3gp" media-type="audio/3gpp"/>
+		<item id="aud240" href="en-05181-0240.3gp" media-type="audio/3gpp"/>
+		<item id="aud241" href="en-05181-0241.3gp" media-type="audio/3gpp"/>
+		<item id="aud242" href="en-05181-0242.3gp" media-type="audio/3gpp"/>
+		<item id="aud243" href="en-05181-0243.3gp" media-type="audio/3gpp"/>
+		<item id="aud244" href="en-05181-0244.3gp" media-type="audio/3gpp"/>
+		<item id="aud245" href="en-05181-0245.3gp" media-type="audio/3gpp"/>
+		<item id="aud246" href="en-05181-0246.3gp" media-type="audio/3gpp"/>
+		<item id="aud247" href="en-05181-0247.3gp" media-type="audio/3gpp"/>
+		<item id="aud248" href="en-05181-0248.3gp" media-type="audio/3gpp"/>
+		<item id="aud249" href="en-05181-0249.3gp" media-type="audio/3gpp"/>
+		<item id="aud250" href="en-05181-0250.3gp" media-type="audio/3gpp"/>
+		<item id="aud251" href="en-05181-0251.3gp" media-type="audio/3gpp"/>
+		<item id="aud252" href="en-05181-0252.3gp" media-type="audio/3gpp"/>
+		<item id="aud253" href="en-05181-0253.3gp" media-type="audio/3gpp"/>
+		<item id="aud254" href="en-05181-0254.3gp" media-type="audio/3gpp"/>
+		<item id="aud255" href="en-05181-0255.3gp" media-type="audio/3gpp"/>
+		<item id="aud256" href="en-05181-0256.3gp" media-type="audio/3gpp"/>
+		<item id="aud257" href="en-05181-0257.3gp" media-type="audio/3gpp"/>
+		<item id="aud258" href="en-05181-0258.3gp" media-type="audio/3gpp"/>
+		<item id="aud259" href="en-05181-0259.3gp" media-type="audio/3gpp"/>
+		<item id="aud260" href="en-05181-0260.3gp" media-type="audio/3gpp"/>
+		<item id="aud261" href="en-05181-0261.3gp" media-type="audio/3gpp"/>
+		<item id="aud262" href="en-05181-0262.3gp" media-type="audio/3gpp"/>
+		<item id="aud263" href="en-05181-0263.3gp" media-type="audio/3gpp"/>
+		<item id="aud264" href="en-05181-0264.3gp" media-type="audio/3gpp"/>
+		<item id="aud265" href="en-05181-0265.3gp" media-type="audio/3gpp"/>
+		<item id="aud266" href="en-05181-0266.3gp" media-type="audio/3gpp"/>
+		<item id="aud267" href="en-05181-0267.3gp" media-type="audio/3gpp"/>
+		<item id="aud268" href="en-05181-0268.3gp" media-type="audio/3gpp"/>
+		<item id="aud269" href="en-05181-0269.3gp" media-type="audio/3gpp"/>
+		<item id="aud270" href="en-05181-0270.3gp" media-type="audio/3gpp"/>
+		<item id="aud271" href="en-05181-0271.3gp" media-type="audio/3gpp"/>
+		<item id="aud272" href="en-05181-0272.3gp" media-type="audio/3gpp"/>
+		<item id="aud273" href="en-05181-0273.3gp" media-type="audio/3gpp"/>
+		<item id="aud274" href="en-05181-0274.3gp" media-type="audio/3gpp"/>
+		<item id="aud275" href="en-05181-0275.3gp" media-type="audio/3gpp"/>
+		<item id="aud276" href="en-05181-0276.3gp" media-type="audio/3gpp"/>
+		<item id="aud277" href="en-05181-0277.3gp" media-type="audio/3gpp"/>
+		<item id="aud278" href="en-05181-0278.3gp" media-type="audio/3gpp"/>
+		<item id="aud279" href="en-05181-0279.3gp" media-type="audio/3gpp"/>
+		<item id="aud280" href="en-05181-0280.3gp" media-type="audio/3gpp"/>
+		<item id="aud281" href="en-05181-0281.3gp" media-type="audio/3gpp"/>
+		<item id="aud282" href="en-05181-0282.3gp" media-type="audio/3gpp"/>
+		<item id="aud283" href="en-05181-0283.3gp" media-type="audio/3gpp"/>
+		<item id="aud284" href="en-05181-0284.3gp" media-type="audio/3gpp"/>
+		<item id="aud285" href="en-05181-0285.3gp" media-type="audio/3gpp"/>
+		<item id="aud286" href="en-05181-0286.3gp" media-type="audio/3gpp"/>
+		<item id="aud287" href="en-05181-0287.3gp" media-type="audio/3gpp"/>
+		<item id="aud288" href="en-05181-0288.3gp" media-type="audio/3gpp"/>
+		<item id="aud289" href="en-05181-0289.3gp" media-type="audio/3gpp"/>
+		<item id="aud290" href="en-05181-0290.3gp" media-type="audio/3gpp"/>
+		<item id="aud291" href="en-05181-0291.3gp" media-type="audio/3gpp"/>
+		<item id="aud292" href="en-05181-0292.3gp" media-type="audio/3gpp"/>
+		<item id="aud293" href="en-05181-0293.3gp" media-type="audio/3gpp"/>
+		<item id="aud294" href="en-05181-0294.3gp" media-type="audio/3gpp"/>
+		<item id="aud295" href="en-05181-0295.3gp" media-type="audio/3gpp"/>
+		<item id="aud296" href="en-05181-0296.3gp" media-type="audio/3gpp"/>
+		<item id="aud297" href="en-05181-0297.3gp" media-type="audio/3gpp"/>
+		<item id="aud298" href="en-05181-0298.3gp" media-type="audio/3gpp"/>
+		<item id="aud299" href="en-05181-0299.3gp" media-type="audio/3gpp"/>
+		<item id="aud300" href="en-05181-0300.3gp" media-type="audio/3gpp"/>
+		<item id="aud301" href="en-05181-0301.3gp" media-type="audio/3gpp"/>
+		<item id="aud302" href="en-05181-0302.3gp" media-type="audio/3gpp"/>
+		<item id="aud303" href="en-05181-0303.3gp" media-type="audio/3gpp"/>
+		<item id="aud304" href="en-05181-0304.3gp" media-type="audio/3gpp"/>
+		<item id="aud305" href="en-05181-0305.3gp" media-type="audio/3gpp"/>
+		<item id="aud306" href="en-05181-0306.3gp" media-type="audio/3gpp"/>
+		<item id="aud307" href="en-05181-0307.3gp" media-type="audio/3gpp"/>
+		<item id="aud308" href="en-05181-0308.3gp" media-type="audio/3gpp"/>
+		<item id="aud309" href="en-05181-0309.3gp" media-type="audio/3gpp"/>
+		<item id="aud310" href="en-05181-0310.3gp" media-type="audio/3gpp"/>
+		<item id="aud311" href="en-05181-0311.3gp" media-type="audio/3gpp"/>
+		<item id="aud312" href="en-05181-0312.3gp" media-type="audio/3gpp"/>
+		<item id="aud313" href="en-05181-0313.3gp" media-type="audio/3gpp"/>
+		<item id="aud314" href="en-05181-0314.3gp" media-type="audio/3gpp"/>
+		<item id="aud315" href="en-05181-0315.3gp" media-type="audio/3gpp"/>
+		<item id="aud316" href="en-05181-0316.3gp" media-type="audio/3gpp"/>
+		<item id="aud317" href="en-05181-0317.3gp" media-type="audio/3gpp"/>
+		<item id="aud318" href="en-05181-0318.3gp" media-type="audio/3gpp"/>
+		<item id="aud319" href="en-05181-0319.3gp" media-type="audio/3gpp"/>
+		<item id="aud320" href="en-05181-0320.3gp" media-type="audio/3gpp"/>
+		<item id="aud321" href="en-05181-0321.3gp" media-type="audio/3gpp"/>
+		<item id="aud322" href="en-05181-0322.3gp" media-type="audio/3gpp"/>
+		<item id="aud323" href="en-05181-0323.3gp" media-type="audio/3gpp"/>
+		<item id="aud324" href="en-05181-0324.3gp" media-type="audio/3gpp"/>
+		<item id="aud325" href="en-05181-0325.3gp" media-type="audio/3gpp"/>
+		<item id="aud326" href="en-05181-0326.3gp" media-type="audio/3gpp"/>
+		<item id="aud327" href="en-05181-0327.3gp" media-type="audio/3gpp"/>
+		<item id="aud328" href="en-05181-0328.3gp" media-type="audio/3gpp"/>
+		<item id="aud329" href="en-05181-0329.3gp" media-type="audio/3gpp"/>
+		<item id="aud330" href="en-05181-0330.3gp" media-type="audio/3gpp"/>
+		<item id="aud331" href="en-05181-0331.3gp" media-type="audio/3gpp"/>
+		<item id="aud332" href="en-05181-0332.3gp" media-type="audio/3gpp"/>
+		<item id="aud333" href="en-05181-0333.3gp" media-type="audio/3gpp"/>
+		<item id="aud334" href="en-05181-0334.3gp" media-type="audio/3gpp"/>
+		<item id="aud335" href="en-05181-0335.3gp" media-type="audio/3gpp"/>
+		<item id="aud336" href="en-05181-0336.3gp" media-type="audio/3gpp"/>
+		<item id="aud337" href="en-05181-0337.3gp" media-type="audio/3gpp"/>
+		<item id="aud338" href="en-05181-0338.3gp" media-type="audio/3gpp"/>
+		<item id="aud339" href="en-05181-0339.3gp" media-type="audio/3gpp"/>
+		<item id="aud340" href="en-05181-0340.3gp" media-type="audio/3gpp"/>
+		<item id="aud341" href="en-05181-0341.3gp" media-type="audio/3gpp"/>
+		<item id="aud342" href="en-05181-0342.3gp" media-type="audio/3gpp"/>
+		<item id="aud343" href="en-05181-0343.3gp" media-type="audio/3gpp"/>
+		<item id="aud344" href="en-05181-0344.3gp" media-type="audio/3gpp"/>
+		<item id="aud345" href="en-05181-0345.3gp" media-type="audio/3gpp"/>
+		<item id="aud346" href="en-05181-0346.3gp" media-type="audio/3gpp"/>
+		<item id="aud347" href="en-05181-0347.3gp" media-type="audio/3gpp"/>
+		<item id="aud348" href="en-05181-0348.3gp" media-type="audio/3gpp"/>
+		<item id="aud349" href="en-05181-0349.3gp" media-type="audio/3gpp"/>
+		<item id="aud350" href="en-05181-0350.3gp" media-type="audio/3gpp"/>
+		<item id="aud351" href="en-05181-0351.3gp" media-type="audio/3gpp"/>
+		<item id="aud352" href="en-05181-0352.3gp" media-type="audio/3gpp"/>
+		<item id="aud353" href="en-05181-0353.3gp" media-type="audio/3gpp"/>
+		<item id="aud354" href="en-05181-0354.3gp" media-type="audio/3gpp"/>
+		<item id="aud355" href="en-05181-0355.3gp" media-type="audio/3gpp"/>
+		<item id="aud356" href="en-05181-0356.3gp" media-type="audio/3gpp"/>
+		<item id="aud357" href="en-05181-0357.3gp" media-type="audio/3gpp"/>
+		<item id="aud358" href="en-05181-0358.3gp" media-type="audio/3gpp"/>
+		<item id="aud359" href="en-05181-0359.3gp" media-type="audio/3gpp"/>
+		<item id="aud360" href="en-05181-0360.3gp" media-type="audio/3gpp"/>
+		<item id="aud361" href="en-05181-0361.3gp" media-type="audio/3gpp"/>
+		<item id="aud362" href="en-05181-0362.3gp" media-type="audio/3gpp"/>
+		<item id="aud363" href="en-05181-0363.3gp" media-type="audio/3gpp"/>
+		<item id="aud364" href="en-05181-0364.3gp" media-type="audio/3gpp"/>
+		<item id="aud365" href="en-05181-0365.3gp" media-type="audio/3gpp"/>
+		<item id="aud366" href="en-05181-0366.3gp" media-type="audio/3gpp"/>
+		<item id="aud367" href="en-05181-0367.3gp" media-type="audio/3gpp"/>
+		<item id="aud368" href="en-05181-0368.3gp" media-type="audio/3gpp"/>
+		<item id="aud369" href="en-05181-0369.3gp" media-type="audio/3gpp"/>
+		<item id="aud370" href="en-05181-0370.3gp" media-type="audio/3gpp"/>
+		<item id="aud371" href="en-05181-0371.3gp" media-type="audio/3gpp"/>
+		<item id="aud372" href="en-05181-0372.3gp" media-type="audio/3gpp"/>
+		<item id="aud373" href="en-05181-0373.3gp" media-type="audio/3gpp"/>
+		<item id="aud374" href="en-05181-0374.3gp" media-type="audio/3gpp"/>
+		<item id="aud375" href="en-05181-0375.3gp" media-type="audio/3gpp"/>
+		<item id="aud376" href="en-05181-0376.3gp" media-type="audio/3gpp"/>
+		<item id="aud377" href="en-05181-0377.3gp" media-type="audio/3gpp"/>
+		<item id="aud378" href="en-05181-0378.3gp" media-type="audio/3gpp"/>
+		<item id="aud379" href="en-05181-0379.3gp" media-type="audio/3gpp"/>
+		<item id="aud380" href="en-05181-0380.3gp" media-type="audio/3gpp"/>
+		<item id="aud381" href="en-05181-0381.3gp" media-type="audio/3gpp"/>
+		<item id="aud382" href="en-05181-0382.3gp" media-type="audio/3gpp"/>
+		<item id="aud383" href="en-05181-0383.3gp" media-type="audio/3gpp"/>
+		<item id="aud384" href="en-05181-0384.3gp" media-type="audio/3gpp"/>
+		<item id="aud385" href="en-05181-0385.3gp" media-type="audio/3gpp"/>
+		<item id="aud386" href="en-05181-0386.3gp" media-type="audio/3gpp"/>
+		<item id="aud387" href="en-05181-0387.3gp" media-type="audio/3gpp"/>
+		<item id="aud388" href="en-05181-0388.3gp" media-type="audio/3gpp"/>
+		<item id="aud389" href="en-05181-0389.3gp" media-type="audio/3gpp"/>
+		<item id="aud390" href="en-05181-0390.3gp" media-type="audio/3gpp"/>
+		<item id="aud391" href="en-05181-0391.3gp" media-type="audio/3gpp"/>
+		<item id="aud392" href="en-05181-0392.3gp" media-type="audio/3gpp"/>
+		<item id="aud393" href="en-05181-0393.3gp" media-type="audio/3gpp"/>
+		<item id="aud394" href="en-05181-0394.3gp" media-type="audio/3gpp"/>
+		<item id="aud395" href="en-05181-0395.3gp" media-type="audio/3gpp"/>
+		<item id="aud396" href="en-05181-0396.3gp" media-type="audio/3gpp"/>
+		<item id="aud397" href="en-05181-0397.3gp" media-type="audio/3gpp"/>
+		<item id="aud398" href="en-05181-0398.3gp" media-type="audio/3gpp"/>
+		<item id="aud399" href="en-05181-0399.3gp" media-type="audio/3gpp"/>
+		<item id="aud400" href="en-05181-0400.3gp" media-type="audio/3gpp"/>
+		<item id="aud401" href="en-05181-0401.3gp" media-type="audio/3gpp"/>
+		<item id="aud402" href="en-05181-0402.3gp" media-type="audio/3gpp"/>
+		<item id="aud403" href="en-05181-0403.3gp" media-type="audio/3gpp"/>
+		<item id="aud404" href="en-05181-0404.3gp" media-type="audio/3gpp"/>
+		<item id="aud405" href="en-05181-0405.3gp" media-type="audio/3gpp"/>
+		<item id="aud406" href="en-05181-0406.3gp" media-type="audio/3gpp"/>
+		<item id="aud407" href="en-05181-0407.3gp" media-type="audio/3gpp"/>
+		<item id="aud408" href="en-05181-0408.3gp" media-type="audio/3gpp"/>
+		<item id="aud409" href="en-05181-0409.3gp" media-type="audio/3gpp"/>
+		<item id="aud410" href="en-05181-0410.3gp" media-type="audio/3gpp"/>
+		<item id="aud411" href="en-05181-0411.3gp" media-type="audio/3gpp"/>
+		<item id="aud412" href="en-05181-0412.3gp" media-type="audio/3gpp"/>
+		<item id="aud413" href="en-05181-0413.3gp" media-type="audio/3gpp"/>
+		<item id="aud414" href="en-05181-0414.3gp" media-type="audio/3gpp"/>
+		<item id="aud415" href="en-05181-0415.3gp" media-type="audio/3gpp"/>
+		<item id="aud416" href="en-05181-0416.3gp" media-type="audio/3gpp"/>
+		<item id="aud417" href="en-05181-0417.3gp" media-type="audio/3gpp"/>
+		<item id="aud418" href="en-05181-0418.3gp" media-type="audio/3gpp"/>
+		<item id="aud419" href="en-05181-0419.3gp" media-type="audio/3gpp"/>
+		<item id="aud420" href="en-05181-0420.3gp" media-type="audio/3gpp"/>
+		<item id="aud421" href="en-05181-0421.3gp" media-type="audio/3gpp"/>
+		<item id="aud422" href="en-05181-0422.3gp" media-type="audio/3gpp"/>
+		<item id="aud423" href="en-05181-0423.3gp" media-type="audio/3gpp"/>
+		<item id="aud424" href="en-05181-0424.3gp" media-type="audio/3gpp"/>
+		<item id="aud425" href="en-05181-0425.3gp" media-type="audio/3gpp"/>
+		<item id="aud426" href="en-05181-0426.3gp" media-type="audio/3gpp"/>
+		<item id="aud427" href="en-05181-0427.3gp" media-type="audio/3gpp"/>
+		<item id="aud428" href="en-05181-0428.3gp" media-type="audio/3gpp"/>
+		<item id="aud429" href="en-05181-0429.3gp" media-type="audio/3gpp"/>
+		<item id="aud430" href="en-05181-0430.3gp" media-type="audio/3gpp"/>
+		<item id="aud431" href="en-05181-0431.3gp" media-type="audio/3gpp"/>
+		<item id="aud432" href="en-05181-0432.3gp" media-type="audio/3gpp"/>
+		<item id="aud433" href="en-05181-0433.3gp" media-type="audio/3gpp"/>
+		<item id="aud434" href="en-05181-0434.3gp" media-type="audio/3gpp"/>
+		<item id="aud435" href="en-05181-0435.3gp" media-type="audio/3gpp"/>
+		<item id="aud436" href="en-05181-0436.3gp" media-type="audio/3gpp"/>
+		<item id="aud437" href="en-05181-0437.3gp" media-type="audio/3gpp"/>
+		<item id="aud438" href="en-05181-0438.3gp" media-type="audio/3gpp"/>
+		<item id="aud439" href="en-05181-0439.3gp" media-type="audio/3gpp"/>
+		<item id="aud440" href="en-05181-0440.3gp" media-type="audio/3gpp"/>
+		<item id="aud441" href="en-05181-0441.3gp" media-type="audio/3gpp"/>
+		<item id="aud442" href="en-05181-0442.3gp" media-type="audio/3gpp"/>
+		<item id="aud443" href="en-05181-0443.3gp" media-type="audio/3gpp"/>
+		<item id="aud444" href="en-05181-0444.3gp" media-type="audio/3gpp"/>
+		<item id="pkgdtd" href="oebpkg101.dtd" media-type="text/xml"/>
+		<item id="pkgent" href="oeb1.ent" media-type="text/xml"/>
+		<item id="ncx_dtd" href="ncx110.dtd" media-type="text/xml"/>
+		<item id="smil_dtd" href="dtbsmil110.dtd" media-type="text/xml"/>
+	</manifest>
+	<spine>
+		<itemref idref="smil000"/>
+		<itemref idref="smil001"/>
+		<itemref idref="smil002"/>
+	</spine>
+</package>

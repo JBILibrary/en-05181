@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/">
+			<dc:Title>Sephardim in 20th Century America</dc:Title>
+			<dc:Creator role="aut">Joseph M. Papo</dc:Creator>
+			<dc:Publisher>N/A</dc:Publisher>
+			<dc:Format>ANSI/NISO Z39.86-2002</dc:Format>
+			<dc:Language>EN</dc:Language>
+			<dc:Rights>This book is recorded exclusively for the blind,visually impaired, and reading disabled. Any reproduction in other than a specialized format is strictly prohibited by Act of Congress.</dc:Rights>
+			<dc:Identifier id="uid" scheme="DTB">us-JBI-EN-05181</dc:Identifier>
+			<dc:Date>2021-12</dc:Date>
+		</dc-metadata>
+		<x-metadata>
+			<meta name="dtb:sourceDate" content=""/>
+			<meta name="dtb:sourcePublisher" content=""/>
+			<meta name="dtb:sourceRights" content=""/>
+			<meta name="dtb:multimediaType" content="audioNCX"/>
+			<meta name="dtb:producer" content=""/>
+			<meta name="dtb:producedDate" content="2012-01-04"/>
+			<meta name="dtb:revision" content="1"/>
+			<meta name="dtb:revisionDate" content="2021-12-16"/>
+			<meta name="dtb:revisionDescription" content="Refactored from LCM"/>
+			<meta name="dtb:narrator" content="Nancy Schiering"/>
+			<meta name="dtb:audioFormat" content="3gpp"/>
+			<meta name="nls:recordingAgency" content="JBI"/>
+			<meta name="nls:labelPrintLargeTitle" content=""/>
+			<meta name="nls:labelPrintTitle" content=""/>
+			<meta name="nls:labelPrintLargeAuthor" content=""/>
+			<meta name="nls:labelPrintAuthor" content=""/>
+			<meta name="nls:labelPrintCopyright" content=""/>
+			<meta name="nls:labelBookNumber" content=""/>
+			<meta name="nls:labelPrintSequence" content=""/>
+			<meta name="nls:labelBrailleTitle" content=""/>
+			<meta name="nls:labelBrailleAuthor" content=""/>
+			<meta name="nls:labelBrailleSequence" content=""/>
+			<meta name="nls:containerLabelLanguage" content=""/>
+			<meta name="nls:containerLabelTitle" content=""/>
+			<meta name="nls:containerLabelAuthor" content=""/>
+			<meta name="nls:containerLabelDewey" content=""/>
+			<meta name="nls:containerLabelBrailleTitle" content=""/>
+			<meta name="nls:containerLabelBrailleAuthor" content=""/>
+			<meta name="dtb:totalTime" content="21:07:13.474"/>
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item id="ncx" href="EN-05181.ncx" media-type="text/xml"/>
+		<item id="opf" href="EN-05181.opf" media-type="text/xml"/>
+		<item id="smil000" href="EN-05181-0001.smil" media-type="application/smil"/>
+		<item id="smil001" href="EN-05181-0002.smil" media-type="application/smil"/>
+		<item id="smil002" href="EN-05181-0003.smil" media-type="application/smil"/>
+		<item id="hdgs" href="EN-05181hdgs.3gp" media-type="audio/3gpp"/>
+		<item id="aud1" href="EN-05181-0001.3gp" media-type="audio/3gpp"/>
+		<item id="pkgdtd" href="oebpkg101.dtd" media-type="text/xml"/>
+		<item id="pkgent" href="oeb1.ent" media-type="text/xml"/>
+		<item id="ncx_dtd" href="ncx110.dtd" media-type="text/xml"/>
+		<item id="smil_dtd" href="dtbsmil110.dtd" media-type="text/xml"/>
+	</manifest>
+	<spine>
+		<itemref idref="smil000"/>
+		<itemref idref="smil001"/>
+		<itemref idref="smil002"/>
+	</spine>
+</package>

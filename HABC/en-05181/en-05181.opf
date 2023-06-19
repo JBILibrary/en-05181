@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN" "oebpkg101.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/">
+			<dc:Title>Sephardim in Tewntieth Century America: In search of unity</dc:Title>
+			<dc:Creator>Papo, Joseph M.</dc:Creator>
+			<dc:Subject>Sephardim--United States--History--20th century</dc:Subject>
+			<dc:Subject>Jews--United States--History--20th century</dc:Subject>
+			<dc:Subject>United States--Ethnic relations.</dc:Subject>
+			<dc:Publisher>JBI International</dc:Publisher>
+			<dc:Format>ANSI/NISO Z39.86-2002</dc:Format>
+			<dc:Language>EN</dc:Language>
+			<dc:Rights>This book is recorded exclusively for the blind,visually impaired, and reading disabled. Any reproduction in other than a specialized format is strictly prohibited by Act of Congress.</dc:Rights>
+			<dc:Identifier id="uid" scheme="DTB">us-jbi-en-05181</dc:Identifier>
+			<dc:Date>2021-12</dc:Date>
+		</dc-metadata>
+		<x-metadata>
+			<meta content="1987" name="dtb:sourceDate"/>
+			<meta content="Pelé Yoetz Books, San José CA" name="dtb:sourcePublisher"/>
+			<meta content="1987 Pelé Yoetz Books" name="dtb:sourceRights"/>
+			<meta content="audioNCX" name="dtb:multimediaType"/>
+			<meta content="xio.nyc" name="dtb:producer"/>
+			<meta content="2012-01-04" name="dtb:producedDate"/>
+			<meta content="1" name="dtb:revision"/>
+			<meta content="2021-12-16" name="dtb:revisionDate"/>
+			<meta content="Refactored from LCM" name="dtb:revisionDescription"/>
+			<meta content="Schiering, Nancy" name="dtb:narrator"/>
+			<meta content="3gpp" name="dtb:audioFormat"/>
+			<meta content="JBI International" name="nls:recordingAgency"/>
+			<meta content="" name="nls:labelPrintLargeTitle"/>
+			<meta content="" name="nls:labelPrintTitle"/>
+			<meta content="" name="nls:labelPrintLargeAuthor"/>
+			<meta content="" name="nls:labelPrintAuthor"/>
+			<meta content="" name="nls:labelPrintCopyright"/>
+			<meta content="" name="nls:labelBookNumber"/>
+			<meta content="" name="nls:labelPrintSequence"/>
+			<meta content="" name="nls:labelBrailleTitle"/>
+			<meta content="" name="nls:labelBrailleAuthor"/>
+			<meta content="" name="nls:labelBrailleSequence"/>
+			<meta content="" name="nls:containerLabelLanguage"/>
+			<meta content="" name="nls:containerLabelTitle"/>
+			<meta content="" name="nls:containerLabelAuthor"/>
+			<meta content="" name="nls:containerLabelDewey"/>
+			<meta content="" name="nls:containerLabelBrailleTitle"/>
+			<meta content="" name="nls:containerLabelBrailleAuthor"/>
+			<meta content="21:07:13.474" name="dtb:totalTime"/>
+			<meta content="2005-1" name="pdtb2:specVersion"/>
+			<meta content="en-05181.ppf" name="pdtb2:package"/>
+			<meta content="us-jbi-en-05181.ao" name="pdtb2:authorization"/>
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item href="protected.mp3" id="audio_pdtb_protected" media-type="audio/mp3"/>
+		<item href="pdtb_protected.smil" id="smil_pdtb_protected" media-type="application/smil"/>
+		<item href="ncx110.dtd" id="ncx_dtd" media-type="text/xml"/>
+		<item href="oebpkg101.dtd" id="pkgdtd" media-type="text/xml"/>
+		<item href="oeb1.ent" id="pkgent" media-type="text/xml"/>
+		<item href="dtbsmil110.dtd" id="smil_dtd" media-type="text/xml"/>
+		<item href="en-05181.opf" id="opf" media-type="text/xml"/>
+		<item href="en-05181hdgs.3gp" id="hdgs" media-type="audio/3gpp"/>
+		<item href="en-05181.ncx" id="ncx" media-type="text/xml"/>
+	</manifest>
+	<spine>
+		<itemref idref="smil_pdtb_protected"/>
+	</spine>
+</package>

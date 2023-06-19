@@ -1,0 +1,3715 @@
+<?xml version="1.0"?>
+<tncx version="1.0">
+	<head>
+		<meta name="dtb:uid" content="us-JBI-EN-05181"/>
+		<meta name="dtb:generator" content="LCM 4.1.0.6"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:maxPageNormal" content="48"/>
+		<meta name="dtb:pageFront" content="0"/>
+		<meta name="dtb:pageNormal" content="48"/>
+		<meta name="dtb:pageSpecial" content="0"/>
+	</head>
+	<docTitle>
+		<text>Sephardim in 20th Century America</text>
+		<audio src="title.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:04.064614"/>
+	</docTitle>
+	<docAuthor>
+		<text>Joseph M. Papo</text>
+		<audio src="author.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:01.676383"/>
+	</docAuthor>
+	<navMap>
+		<facetDefs enableUI="yes">
+			<facetDef class="book" facet="reference" color="0xb40c0c" key="1"/>
+			<facetDef class="part" facet="reference" color="0xef1010" key="2"/>
+			<facetDef class="chapter" facet="reference" color="0xf34b4b" key="3"/>
+			<facetDef class="section" facet="reference" color="0xf78888" key="4"/>
+			<facetDef class="subsection" facet="reference" color="0xfbc4c4" key="z"/>
+			<facetDef class="story" facet="reference" color="0xff7f00" key=""/>
+			<facetDef class="poem" facet="reference" color="0xff7f11" key=""/>
+			<facetDef class="verse" facet="reference" color="0xeeeeee" key=""/>
+			<facetDef class="prayer" facet="reference" color="0xffffff" key=""/>
+			<facetDef class="year" facet="reference" color="0x00ff00" key="5"/>
+			<facetDef class="month" facet="reference" color="0x11ff11" key="6"/>
+			<facetDef class="day" facet="reference" color="0x22ff22" key="7"/>
+			<facetDef class="week" facet="reference" color="0x33ff33" key=""/>
+			<facetDef class="open" facet="reference" color="0x0000ff" key="8"/>
+			<facetDef class="close" facet="reference" color="0x1111ff" key="9"/>
+			<facetDef class="title/author" facet="reference" color="0x4276aa" key="t"/>
+			<facetDef class="contents" facet="reference" color="0x00ffff" key="c"/>
+			<facetDef class="index" facet="reference" color="0x11ffff" key="i"/>
+			<facetDef class="glossary" facet="reference" color="0x22ffff" key="g"/>
+			<facetDef class="introduction" facet="reference" color="0xff66ff" key="I"/>
+			<facetDef class="conclusion" facet="reference" color="0xff77ff" key="C"/>
+			<facetDef class="foreword" facet="reference" color="0xff00ff" key="w"/>
+			<facetDef class="afterword" facet="reference" color="0xff11ff" key="W"/>
+			<facetDef class="prologue" facet="reference" color="0xff22ff" key="l"/>
+			<facetDef class="epilogue" facet="reference" color="0xff33ff" key="L"/>
+			<facetDef class="acknowledgements" facet="reference" color="0xff44ff" key="k"/>
+			<facetDef class="acknowledgements/c" facet="reference" color="0xff55ff" key="K"/>
+			<facetDef class="authnote" facet="reference" color="0xffff00" key="n"/>
+			<facetDef class="authnote/c" facet="reference" color="0xffff11" key="N"/>
+			<facetDef class="dedication" facet="reference" color="0xff00cc" key="d"/>
+			<facetDef class="appendix" facet="reference" color="0xff007f" key="a"/>
+			<facetDef class="bionotes" facet="reference" color="0xff007f" key="B"/>
+			<facetDef class="addendae" facet="reference" color="0xff007f" key="A"/>
+			<facetDef class="bibliography" facet="reference" color="0x00ffff" key="b"/>
+			<facetDef class="endnotes" facet="reference" color="0x996633" key=";"/>
+		</facetDefs>
+		<navPoint class="open">
+			<text>Property of JBI</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:00:24.209829" clipEnd=" 00:00:32.714115"/>
+			</facet>
+		</navPoint>
+		<navPoint class="dedication">
+			<text>Dedication</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:00:50.451666" clipEnd=" 00:00:51.576292"/>
+			</facet>
+		</navPoint>
+		<navPoint class="foreword">
+			<text>Foreword and Acknoledgements</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:00:57.183435" clipEnd=" 00:00:59.506995"/>
+			</facet>
+		</navPoint>
+		<navPoint class="introduction">
+			<text>Introduction</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:13:09.683231" clipEnd=" 00:13:10.787494"/>
+			</facet>
+		</navPoint>
+		<navPoint class="contents">
+			<text>ToC</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:30:13.008356" clipEnd=" 00:30:14.515657"/>
+			</facet>
+		</navPoint>
+		<navPoint class="part">
+			<text>1: Transplanted Roots</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:32:03.172823" clipEnd=" 00:32:06.162981"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>1: Judeo-Spanish Culture in the Ottoman Empire</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:32:07.067426" clipEnd=" 00:32:11.595022"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Who are the Sephardim?</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:32:11.971349" clipEnd=" 00:32:13.923888"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Life on the Iberian Peninsula</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:36:27.260034" clipEnd=" 00:36:29.705158"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Onset and Decline of the Ottoman Empire</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:11:12.287743" clipEnd=" 00:11:15.129195"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Rebirth of Religious Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:14:01.134818" clipEnd=" 00:14:02.982142"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Family Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:18:20.562528" clipEnd=" 00:18:21.723208"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Life in the Early 20th Century</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:31:50.004387" clipEnd=" 00:31:52.373775"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>2: Arrival and Adaptation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:38:53.49416" clipEnd=" 00:38:56.437698"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Rason for Immigration</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:38:56.662687" clipEnd=" 00:38:58.460714"/>
+			</facet>
+		</navPoint>
+		<navPoint class="part">
+			<text>2: Early Years and the Emerging Sephardi Identity</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:02:32.328673" clipEnd=" 00:02:37.656927"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>3: Distant Relations, Encounters with the Ashkenazi Masses, and the Earliest Sephardi Community</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:02:39.025839" clipEnd=" 00:02:46.338333"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Ashkenazi Bewilderment</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:02:46.629807" clipEnd=" 00:02:48.73763"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Steps Towards Mutual Understanding</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:06:06.472052" clipEnd=" 00:06:07.190079"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Stumbling Block the the Road to Rapprochment</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:09:23.030532" clipEnd=" 00:09:26.277448"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Beginning Participation in National Jewish Affairs</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:17:08.968129" clipEnd=" 00:17:12.70729"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Social Gulf and Ensuing Tension</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:25:55.827108" clipEnd=" 00:25:58.627811"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Growing Cooperation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:43:50.421122" clipEnd=" 00:43:52.107426"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Congregation's Sisterhood Crucial Role</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:02:23.288219" clipEnd=" 00:02:26.020873"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sisterhood Broadens its Scope</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:09:55.480714" clipEnd=" 00:09:57.61695"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Union of Sephardic Congregations</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:15:33.49738" clipEnd=" 00:15:36.039965"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Union and the Central Community</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:18:40.315294" clipEnd=" 00:18:42.648832"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>4: Forming Public Policy</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:22:49.577879" clipEnd=" 00:22:52.684841"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Judeo-Spanish Press and American Politics</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:22:52.799512" clipEnd=" 00:22:56.595997"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Campaign for Naturalization</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:30:51.894251" clipEnd=" 00:30:54.181167"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Problems of Military Service</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:33:26.397267" clipEnd=" 00:33:28.58085"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Literacy as Criterium for Admission to USA [sic]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:38:10.722233" clipEnd=" 00:38:14.467811"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Drive to Increase Involvement in Politics</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:41:20.468832" clipEnd=" 00:41:23.644659"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>La America: Struggle for Survival</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:04:53.282891" clipEnd=" 00:04:56.210827"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Emergence of New Publications</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:09:30.558809" clipEnd=" 00:09:33.147789"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>La Vara</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:17:14.085566" clipEnd=" 00:17:14.896655"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Press Controversy</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:27:03.614024" clipEnd=" 00:27:05.132755"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>5: Jewish Values</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:31:11.83187" clipEnd=" 00:31:14.291417"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sephardi Rituals and Observances</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:31:14.539535" clipEnd=" 00:31:17.231258"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Formation of Societal Synagogues</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:35:58.565453" clipEnd=" 00:36:01.121848"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Establishment of a "Bet Din" [sic]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:03:06.004954" clipEnd=" 00:03:07.959693"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Search for a Chief Rabbi</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:07:00.973594" clipEnd=" 00:07:02.838809"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Central Community Takes Up Struggle to Unify Religious Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:15:28.55373" clipEnd=" 00:15:33.265997"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Issues of Jewish Life: Talmud Torah Come into Being</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:18:42.736337" clipEnd=" 00:18:46.803276"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Communal Leadership Tackles [the] Problems of Jewish Education</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:33:16.243866" clipEnd=" 00:33:19.840555"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Zionism: An Integral Part of Sefardi Culture</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:40:44.719172" clipEnd=" 00:40:48.594206"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sephardi Immigrants Learn it is OK to be Active Zionists in America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:04:03.341371" clipEnd=" 00:04:08.085702"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Mutual Assistance through Lansanshaft(?) Societal Groups</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:17:43.951417" clipEnd=" 00:17:47.921167"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Integrated Sephardi Social Service and Cooperation with Ashkenazi Institutions</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:20:42.388922" clipEnd=" 00:20:47.625839"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Immigrant Involvement in the Plight of their Native Communities</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:35:14.65534" clipEnd=" 00:35:18.25407"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>6: Efforts at Community Organization</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:07:36.925022" clipEnd=" 00:07:40.50865"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>First Steps towards Concerted Action</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:08:37.464523" clipEnd=" 00:08:40.052732"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Federation of Oriental Jews in America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:11:56.402233" clipEnd=" 00:11:58.902981"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>In Search of a Chief Rabbi</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:20:06.892482" clipEnd=" 00:20:08.813934"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sefardi Press Supports Need of Communal Unity</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:23:02.370034" clipEnd=" 00:23:06.142278"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Federation Suspends Activities</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:30:54.109965" clipEnd=" 00:30:56.637993"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Post Mortem</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:33:52.737585" clipEnd=" 00:33:53.672233"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Continuing Attempts toward Community Organization</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:37:59.990464" clipEnd=" 00:38:03.407517"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Criticisms Leveled Against Community</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:22:18.567086" clipEnd=" 00:22:21.216519"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Demise of the Sephardic Community of New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:28:57.773027" clipEnd=" 00:29:00.631757"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Formation of the Sephardic Jewish Community of New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:31:45.132913" clipEnd=" 00:31:48.447607"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sephardi Press Urges Affiliation of All Societies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:38:42.695952" clipEnd=" 00:38:46.441417"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Purchase of a Center Building</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:03:20.724478" clipEnd=" 00:03:22.772573"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Congregation [Shiara(?)] Israel Joins Community</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:07:02.871848" clipEnd=" 00:07:06.138446"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Plan to Purchase Center Building Downtown</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:10:54.391417" clipEnd=" 00:10:57.077925"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Appointment of Unity Committee</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:14:08.896632" clipEnd=" 00:14:10.842528"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Financial Problems Continue; The Beginning of the End</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:19:00.149081" clipEnd=" 00:19:03.542981"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Post-Mortem</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:20:09.841848" clipEnd=" 00:20:10.656859"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Aftermath and New Stirrings</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:30:38.027426" clipEnd=" 00:30:40.065884"/>
+			</facet>
+		</navPoint>
+		<navPoint class="part">
+			<text>3: The Second Generation and Beyond</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:02:37.465725" clipEnd=" 00:02:41.227358"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>7: Aspects of Sephardi Economic, Civic, Religious, and Cultural Life Post World War II</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:02:44.423571" clipEnd=" 00:02:51.864886"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Economic Growth and Development</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:02:52.162482" clipEnd=" 00:02:54.307539"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Changing Relationships with the Ashkenazim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:07:55.550555" clipEnd=" 00:07:58.496247"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Interaction with the Earlier Sephardi</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:10:49.086383" clipEnd=" 00:10:51.539104"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Growing Integration into American Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:13:59.192233" clipEnd=" 00:14:01.847244"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Participation in Political Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:24:36.281666" clipEnd=" 00:24:38.49704"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Candidates of Sephardi Extracion Run on General Party Lines and Win or Lose on Issues and on Their Appeal to Their Total Constituency</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:27:56.221235" clipEnd=" 00:28:05.751099"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Efforts to Strengthen Religious Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:29:13.755702" clipEnd=" 00:29:16.050464"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Population Shift Imposes Congregational Changes</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:35:21.352755" clipEnd=" 00:35:24.765657"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Recognition of Need for American-Trained Religious Leaders</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:38:49.437358" clipEnd=" 00:38:53.354433"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Plight of Jewish Education</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:45:00.026043" clipEnd=" 00:45:02.485521"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Needs of the Aged</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:14:55.18119" clipEnd=" 00:14:56.615907"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Establishment of the Sephardic Home for the Aged</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:21:42.948469" clipEnd=" 00:21:45.747721"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The [Homes'(?)] Tie to Central Community Ensuing Controversy</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:28:20.138605" clipEnd=" 00:28:24.680918"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Overseas Philanthrompies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:32:00.492074" clipEnd=" 00:32:02.454977"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Manifestations of [the Longing(?)] to Rekindle Sephardi Cultural Life</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:40:58.122074" clipEnd=" 00:41:02.70831"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sephardic House</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:16:58.937244" clipEnd=" 00:17:00.257607"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>8: The Continued Striving for Community Organization</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:20:47.833639" clipEnd=" 00:20:52.826156"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Central Sephardic Jewish Community of America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:20:53.13543" clipEnd=" 00:20:56.469217"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Incorporation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:28:21.061009" clipEnd=" 00:28:22.253684"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Death and Mourning</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:31:55.060283" clipEnd=" 00:31:56.296927"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Under New Directorship</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:34:10.780124" clipEnd=" 00:34:12.434886"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Sephardi: A Community Organ</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:38:38.98026" clipEnd=" 00:38:41.11568"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Engagement of a Professionally-Trained Social Worker</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:40:38.190623" clipEnd=" 00:40:41.41187"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Reevaluation of Community's Aim and Function</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:05:34.181145" clipEnd=" 00:05:37.670646"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Structural Reoganization</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:10:52.851689" clipEnd=" 00:10:55.034682"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>[Constituant|Constituyent] Societies in Conflict</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:15:44.603571" clipEnd=" 00:15:47.036791"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Retrospective Analysis</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:35:23.210736" clipEnd=" 00:35:25.369512"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>New Stirrings</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:40:12.093662" clipEnd=" 00:40:13.230691"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Role of the [Women's|Womens'] Division</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:41:55.070714" clipEnd=" 00:41:56.910306"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>[Community's|Communities] Work with Young People</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:05:42.895612" clipEnd=" 00:05:44.891575"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>American-Sephardi Federation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:19:27.960419" clipEnd=" 00:19:30.037811"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Work [with(?)] Young People</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:34:55.415929" clipEnd=" 00:34:56.784705"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Criticism and Concern</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:42:26.76534" clipEnd=" 00:42:28.499376"/>
+			</facet>
+		</navPoint>
+		<navPoint class="afterword">
+			<text>Afterword??</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:00:49.734387" clipEnd=" 00:00:50.429807"/>
+			</facet>
+		</navPoint>
+		<navPoint class="part">
+			<text>Part 4: Appendecies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:07:04.179512" clipEnd=" 00:07:06.420147"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:07:07.058968" clipEnd=" 00:07:13.159285"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>The East</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:08:30.03602" clipEnd=" 00:08:30.81738"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>New Jersey: Raritan, New Brunswick, Highland Park, [Deal?]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:08:30.957131" clipEnd=" 00:08:35.168174"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Atlantic City, NJ</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:17:55.030714" clipEnd=" 00:17:57.190056"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Rochester, NY</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:19:53.918015" clipEnd=" 00:19:55.142913"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Washington, DC</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:22:22.215476" clipEnd=" 00:22:23.524705"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Small Eastern Sephardi Communities and Newly Emerging Ones</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:28:23.069467" clipEnd=" 00:28:28.226768"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Midwest</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:30:32.456519" clipEnd=" 00:30:33.414773"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Indanapolis, ID</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:30:33.468764" clipEnd=" 00:30:35.074818"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Detroit, MI</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:32:15.207358" clipEnd=" 00:32:16.401916"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Cincinati, OH</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:35:36.778537" clipEnd=" 00:35:38.384546"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Chicago, IL</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:39:37.206496" clipEnd=" 00:39:38.569739"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The South</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:41:58.934138" clipEnd=" 00:41:59.531213"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Atlanta, GA</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:41:59.573095" clipEnd=" 00:42:00.774841"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Montgomery, AL</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:05:08.346473" clipEnd=" 00:05:09.89568"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Miami, FL</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:08:04.599807" clipEnd=" 00:08:05.800691"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The West</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:11:40.81831" clipEnd=" 00:11:41.55085"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Seattle, WA</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:11:41.779058" clipEnd=" 00:11:43.235408"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Portland, OR</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:34:24.297131" clipEnd=" 00:34:25.70797"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sephardi Community of Los Angeles</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:36:14.098854" clipEnd=" 00:36:16.514274"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>San Franciso, CA</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:10:43.185839" clipEnd=" 00:10:45.124501"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>2: Societies in Metropolitan New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:14:07.561258" clipEnd=" 00:14:11.831167"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>The Judeo-Spanish Societies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:15:14.442006" clipEnd=" 00:15:16.300238"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>&gt;The Immigrants from Rhodes...</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:19:35.768287" clipEnd=" 00:19:37.203979"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sources of Income</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:22:27.895929" clipEnd=" 00:22:29.298786"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>&gt;Hayim ve Jessed di Galipoli...</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:27:08.313163" clipEnd=" 00:27:12.828015"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>&gt;Bulgarian Jews...</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:45:33.047222" clipEnd=" 00:45:34.103276"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Greek-Speaking Societies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:00:37.164569" clipEnd=" 00:00:39.037176"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Arabic-Speaking Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:03:17.155" clipEnd=" 00:03:19.026836"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>The Syrian Sephardi Community</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:03:19.0467" clipEnd=" 00:03:21.035839"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>The Yemenite Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:08:55.82246" clipEnd=" 00:08:57.468854"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Refugees from Arab Lands</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:11:45.667743" clipEnd=" 00:11:47.856904"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Egyptian Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:15:12.199557" clipEnd=" 00:15:13.783163"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Lebanese Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:16:39.009036" clipEnd=" 00:16:40.487902"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Morrocan Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:17:23.064115" clipEnd=" 00:17:24.620011"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Parsi-speaking [sic?] Iranian Sephardim</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:18:02.613503" clipEnd=" 00:18:05.273185"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>3: Roster of Presidents of Sephardi Communal Organizations</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:18:55.652551" clipEnd=" 00:19:01.350963"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Federation of Oriental Jews of America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:19:01.699149" clipEnd=" 00:19:04.117879"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sephardic Community of New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:19:17.419603" clipEnd=" 00:19:19.310238"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sephardic Jewish Community of New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:19:29.238424" clipEnd=" 00:19:31.581417"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Central Sephardic Jewish Community of America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:19:45.684886" clipEnd=" 00:19:48.525272"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>American Section World Sephardi Federation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:20:49.52831" clipEnd=" 00:20:52.477222"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>American Sephadi Gederation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:20:57.008061" clipEnd=" 00:20:58.998129"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Roster of Presidents of Women's Divisions of Sephardi Communal Organizations</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:21:13.81992" clipEnd=" 00:21:18.523752"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sephardi Jewish Community of New York</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:21:18.82729" clipEnd=" 00:21:20.998265"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Central Sephardic Jewish Community of America</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:21:31.388174" clipEnd=" 00:21:34.246564"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>American Sephardi Federation</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:22:51.451643" clipEnd=" 00:22:53.459875"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>Sephardic Jewish Community of New York Dues Paid by Affiliated Societies</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:22:59.270464" clipEnd=" 00:23:04.780056"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Mikor Hayim (Source of Life)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:23:06.190873" clipEnd=" 00:23:08.251916"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Etz Ha Hayim (Brotherhood of Rhodes)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:23:35.973684" clipEnd=" 00:23:38.694863"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Siror(?) Hayim (Chain of Life)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:23:51.725272" clipEnd=" 00:23:53.927675"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Chios Brotherhood</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:24:19.156678" clipEnd=" 00:24:20.584863"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Brit Shalom</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:24:45.193684" clipEnd=" 00:24:46.242414"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Life and Brotherhood of Adriannople</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:25:00.46026" clipEnd=" 00:25:03.569943"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Brotherhood of Adriannople</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:25:18.059308" clipEnd=" 00:25:19.686405"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Afika Yehuda</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:25:40.026995" clipEnd=" 00:25:41.274478"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Hessed Ve Emet De Castoralis</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:25:56.324977" clipEnd=" 00:26:00.772324"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>[Neyo(?)] Club</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:26:13.892528" clipEnd=" 00:26:15.031553"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Union and Peace Key to Zion (?)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:26:31.437879" clipEnd=" 00:26:34.167811"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Shiarat Israel</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:26:45.690419" clipEnd=" 00:26:47.191031"/>
+			</facet>
+		</navPoint>
+		<navPoint class="subsection">
+			<text>Sigma Kappa Phi</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:27:05.164319" clipEnd=" 00:27:06.719036"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>4: Youth Activities and Social Clubs</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:27:23.276428" clipEnd=" 00:27:26.949897"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>5: Biographical Sketches</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:01:46.464433" clipEnd=" 00:01:49.801575"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Dr. Issac Alkalay</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:01:50.057108" clipEnd=" 00:01:51.821394"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Albert J. Amato</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:10:34.828151" clipEnd=" 00:10:36.501825"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Nissim Behar</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:17:51.840056" clipEnd=" 00:17:53.17899"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Henry [B|V] Beso(?)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:17:42.084433" clipEnd=" 00:17:43.53187"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Albert J. [Coho|Cobo|Covo]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:22:57.777675" clipEnd=" 00:22:59.393299"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Daniel J. [Eliza?]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:26:16.804773" clipEnd=" 00:26:18.682188"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Jose [For?]...</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:29:40.785589" clipEnd=" 00:29:42.011621"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Robert Franco</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:44:20.826587" clipEnd=" 00:44:22.027131"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Moise S. Gadol</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:05:50.590668" clipEnd=" 00:05:52.277993"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Joseph Gedalicia</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:14:19.065793" clipEnd=" 00:14:20.621575"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Albert J. Levy</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:18:35.660714" clipEnd=" 00:18:36.818696"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Emily Levy (nee Davidis?)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:20:35.430804" clipEnd=" 00:20:36.762755"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Jon Hezekaia Levy</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:23:39.566768" clipEnd=" 00:23:40.963866"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Simon S. Messi</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:27:15.638696" clipEnd=" 00:27:17.32924"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Dr. Nissim J. Ovadia</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:32:02.413231" clipEnd=" 00:32:04.546541"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Henry J. Perahia(?)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:42:20.320102" clipEnd=" 00:42:22.447675"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Moises Sulam</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:01:01.006904" clipEnd=" 00:01:02.32695"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Victor [Tari?]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:02:38.698083" clipEnd=" 00:02:40.038287"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bionotes">
+			<text>Albert J. [Torres?]</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:08:47.712936" clipEnd=" 00:08:49.341734"/>
+			</facet>
+		</navPoint>
+		<navPoint class="glossary">
+			<text>Glossary</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:11:55.061734" clipEnd=" 00:11:55.946723"/>
+			</facet>
+		</navPoint>
+		<navPoint class="glossary">
+			<text>"Abbreviations Used in the Notes"</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:01:20.502392" clipEnd=" 00:01:22.994183"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>Notes</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:03:17.154614" clipEnd=" 00:03:17.796995"/>
+			</facet>
+		</navPoint>
+		<navPoint class="introduction">
+			<text>Introduction</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:03:17.996043" clipEnd=" 00:03:18.955022"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:03:19.258129" clipEnd=" 00:03:20.271462"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:03:41.204705" clipEnd=" 00:03:42.055181"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:04:40.526383" clipEnd=" 00:04:41.413049"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:04:52.130986" clipEnd=" 00:04:52.872891"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:04:55.145249" clipEnd=" 00:04:56.01382"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:05:16.004569" clipEnd=" 00:05:16.628854"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:05:18.903503" clipEnd=" 00:05:19.781054"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:05:25.020555" clipEnd=" 00:05:25.771507"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:05:30.003684" clipEnd=" 00:05:31.045839"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:05:34.782913" clipEnd=" 00:05:35.579104"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:06:00.495929" clipEnd=" 00:06:01.527358"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:07:26.19017" clipEnd=" 00:07:26.497789"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:07:26.742074" clipEnd=" 00:07:27.131122"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4+</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:08:01.882891" clipEnd=" 00:08:02.787653"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5+</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:08:30.24729" clipEnd=" 00:08:31.260623"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:09:48.721712" clipEnd=" 00:09:49.698854"/>
+			</facet>
+		</navPoint>
+		<navPoint class="authnote/c">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:10:14.640374" clipEnd=" 00:10:15.689897"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:10:38.416904" clipEnd=" 00:10:39.176904"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:12:16.283594" clipEnd=" 00:12:17.405498"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:12:30.87568" clipEnd=" 00:12:31.925136"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:12:38.902755" clipEnd=" 00:12:39.916088"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:12:43.784954" clipEnd=" 00:12:44.816383"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:14:40.414999" clipEnd=" 00:14:41.383095"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:15:51.254773" clipEnd=" 00:15:52.0689"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:15:53.894999" clipEnd=" 00:15:54.763344"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:17:00.694727" clipEnd=" 00:17:01.618877"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:17:19.154863" clipEnd=" 00:17:19.897176"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:17:34.593526" clipEnd=" 00:17:35.279875"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:17:45.512664" clipEnd=" 00:17:46.23382"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:18:49.837222" clipEnd=" 00:18:50.593548"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:19:47.154115" clipEnd=" 00:19:47.959489"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:20:28.150668" clipEnd=" 00:20:28.837018"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:21:26.417857" clipEnd=" 00:21:27.132278"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:21:35.404569" clipEnd=" 00:21:36.076904"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:21:41.537857" clipEnd=" 00:21:42.399285"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:22:13.755045" clipEnd=" 00:22:14.553503"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:22:28.917743" clipEnd=" 00:22:29.491848"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:23:04.338242" clipEnd=" 00:23:04.969965"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:24:42.520374" clipEnd=" 00:24:43.437789"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:24:49.565045" clipEnd=" 00:24:50.286224"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:25:22.27441" clipEnd=" 00:25:22.960578"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:25:40.788968" clipEnd=" 00:25:41.482165"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:26:11.934229" clipEnd=" 00:26:12.697607"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:26:29.982233" clipEnd=" 00:26:30.696519"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:26:50.536473" clipEnd=" 00:26:51.32085"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:27:42.419285" clipEnd=" 00:27:43.203571"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:28:03.984977" clipEnd=" 00:28:04.685453"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:28:19.066111" clipEnd=" 00:28:19.636111"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:28:26.500034" clipEnd=" 00:28:27.305272"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:29:12.73738" clipEnd=" 00:29:13.411258"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:29:32.882074" clipEnd=" 00:29:33.66017"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:30:36.713503" clipEnd=" 00:30:37.699693"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:31:03.353594" clipEnd=" 00:31:04.339784"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:31:45.38212" clipEnd=" 00:31:46.304909"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:32:53.058514" clipEnd=" 00:32:54.162324"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:33:07.524954" clipEnd=" 00:33:08.556292"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:33:35.017585" clipEnd=" 00:33:35.904183"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:33:59.065113" clipEnd=" 00:34:00.205113"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:34:40.16416" clipEnd=" 00:34:40.996541"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:35:37.850827" clipEnd=" 00:35:38.846065"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:35:44.47187" clipEnd=" 00:35:45.222823"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:35:51.493594" clipEnd=" 00:35:52.226383"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:36:00.371462" clipEnd=" 00:36:01.095272"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:36:32.460419" clipEnd=" 00:36:33.184229"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:37:02.381507" clipEnd=" 00:37:03.114365"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:37:06.873231" clipEnd=" 00:37:07.678469"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:38:15.200532" clipEnd=" 00:38:16.023866"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:38:22.073435" clipEnd=" 00:38:22.824387"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:38:33.64373" clipEnd=" 00:38:34.209149"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:38:39.899353" clipEnd=" 00:38:41.057448"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:39:01.720147" clipEnd=" 00:39:02.516337"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:39:23.132664" clipEnd=" 00:39:23.910759"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:39:33.838877" clipEnd=" 00:39:34.85221"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:41:02.777358" clipEnd=" 00:41:03.772551"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:41:28.902278" clipEnd=" 00:41:29.774773"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:42:29.921462" clipEnd=" 00:42:30.817857"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:42:32.134229" clipEnd=" 00:42:32.912324"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:45:13.850646" clipEnd=" 00:45:14.583503"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:45:23.206632" clipEnd=" 00:45:24.025975"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:00:36.284886" clipEnd=" 00:00:36.890918"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:00:44.027743" clipEnd=" 00:00:44.809965"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:01:29.626405" clipEnd=" 00:01:30.333435"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:02:47.284319" clipEnd=" 00:02:48.029784"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:04:21.438129" clipEnd=" 00:04:21.962868"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:04:48.701916" clipEnd=" 00:04:49.308083"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:05:19.369852" clipEnd=" 00:05:20.079693"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:05:38.135204" clipEnd=" 00:05:38.940374"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:06:00.77246" clipEnd=" 00:06:01.523412"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:06:46.891303" clipEnd=" 00:06:47.859399"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:09:04.645634" clipEnd=" 00:09:05.690396"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:09:46.519195" clipEnd=" 00:09:47.423956"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:11:01.362346" clipEnd=" 00:11:02.276156"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:11:10.739943" clipEnd=" 00:11:11.789467"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:11:24.493117" clipEnd=" 00:11:25.289308"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:13:03.208514" clipEnd=" 00:13:04.176496"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:13:30.416836" clipEnd=" 00:13:31.015226"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:13:36.007199" clipEnd=" 00:13:36.850668"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>22</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:13:41.616814" clipEnd=" 00:13:42.387902"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>23</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:13:47.069195" clipEnd=" 00:13:48.04051"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>24</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:14:07.064569" clipEnd=" 00:14:08.014274"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>25</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:14:18.267857" clipEnd=" 00:14:19.167721"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>26</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:14:31.874206" clipEnd=" 00:14:32.932437"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>27</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:14:49.816519" clipEnd=" 00:14:50.7289"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>28</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:14:55.252324" clipEnd=" 00:14:56.070736"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>29</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:15:12.18348" clipEnd=" 00:15:12.987539"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>30</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:15:56.576383" clipEnd=" 00:15:57.417312"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>31</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:16:43.841371" clipEnd=" 00:16:44.980691"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>32</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:17:28.346632" clipEnd=" 00:17:29.36865"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>33</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:18:45.104637" clipEnd=" 00:18:46.207947"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>34</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:19:09.575453" clipEnd=" 00:19:10.547607"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:19:30.352006" clipEnd=" 00:19:31.328673"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:19:33.639467" clipEnd=" 00:19:34.430646"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:19:40.914047" clipEnd=" 00:19:41.553934"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:21:14.205272" clipEnd=" 00:21:14.919716"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:22:53.023866" clipEnd=" 00:22:53.62314"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:23:00.632505" clipEnd=" 00:23:01.342392"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:23:19.544002" clipEnd=" 00:23:20.213185"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:23:30.382346" clipEnd=" 00:23:31.105657"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:23:39.603571" clipEnd=" 00:23:40.186768"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:24:10.86475" clipEnd=" 00:24:11.642551"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:25:11.266678" clipEnd=" 00:25:11.972165"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:26:31.711371" clipEnd=" 00:26:32.502573"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:27:07.552074" clipEnd=" 00:27:08.275385"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:28:15.254841" clipEnd=" 00:28:16.258764"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:28:28.645952" clipEnd=" 00:28:29.620623"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:28:39.330873" clipEnd=" 00:28:40.262233"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:29:03.849399" clipEnd=" 00:29:04.78992"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:29:29.697698" clipEnd=" 00:29:30.714909"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:29:51.547086" clipEnd=" 00:29:52.469195"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:30:40.722551" clipEnd=" 00:30:41.658287"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:30:45.503888" clipEnd=" 00:30:46.121507"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:31:15.518083" clipEnd=" 00:31:16.296519"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>22</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:31:27.086519" clipEnd=" 00:31:28.081009"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>23</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:32:56.359875" clipEnd=" 00:32:57.28178"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>24</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:33:18.681757" clipEnd=" 00:33:19.644342"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>25</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:33:23.666723" clipEnd=" 00:33:24.823616"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>26</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:34:46.798809" clipEnd=" 00:34:47.890192"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>27</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:35:14.376111" clipEnd=" 00:35:15.451666"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>28</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:35:39.516133" clipEnd=" 00:35:40.523911"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>29</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:36:03.530192" clipEnd=" 00:36:04.569603"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>30</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:36:36.076224" clipEnd=" 00:36:36.876111"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>31</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:37:23.385861" clipEnd=" 00:37:24.151712"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>32</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:37:45.25543" clipEnd=" 00:37:46.321712"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>33</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:38:32.311961" clipEnd=" 00:38:33.355748"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>34</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:39:14.52636" clipEnd=" 00:39:15.546723"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>35</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:39:55.601666" clipEnd=" 00:39:56.675294"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>36</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:42:20.524931" clipEnd=" 00:42:21.672619"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>37</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:43:56.626247" clipEnd=" 00:43:57.735793"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>38</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:44:34.522664" clipEnd=" 00:44:35.510487"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>39</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:01:12.903458" clipEnd=" 00:01:13.984614"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>40</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:02:37.365453" clipEnd=" 00:02:38.102777"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>41</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:03:39.998061" clipEnd=" 00:03:40.674297"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>42</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:04:00.192324" clipEnd=" 00:04:01.4228"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>43</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:05:21.638514" clipEnd=" 00:05:22.80475"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>44</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:05:41.427403" clipEnd=" 00:05:42.458832"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>45</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:06:08.527267" clipEnd=" 00:06:09.712165"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:08:20.617562" clipEnd=" 00:08:21.671145"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:08:25.689331" clipEnd=" 00:08:26.539557"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:09:05.455022" clipEnd=" 00:09:06.25534"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:09:59.236882" clipEnd=" 00:09:59.933594"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:10:08.932891" clipEnd=" 00:10:09.679013"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:10:49.4428" clipEnd=" 00:10:50.270147"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:11:08.265634" clipEnd=" 00:11:09.156405"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:11:53.83704" clipEnd=" 00:11:54.632959"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:12:17.137743" clipEnd=" 00:12:17.906451"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:13:55.594614" clipEnd=" 00:13:56.42212"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:14:33.990646" clipEnd=" 00:14:34.741235"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:16:08.28958" clipEnd=" 00:16:09.271167"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:19:46.999761" clipEnd=" 00:19:47.976451"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:21:12.909761" clipEnd=" 00:21:14.026746"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:24:17.178786" clipEnd=" 00:24:18.077925"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:24:46.926882" clipEnd=" 00:24:47.949013"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:25:36.205929" clipEnd=" 00:25:37.232823"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:25:44.308083" clipEnd=" 00:25:45.384274"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:26:17.307154" clipEnd=" 00:26:18.306519"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:26:58.259036" clipEnd=" 00:26:59.380646"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:27:33.466791" clipEnd=" 00:27:34.389421"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:27:58.046972" clipEnd=" 00:27:59.019331"/>
+			</facet>
+		</navPoint>
+		<navPoint class="chapter">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:28:34.771031" clipEnd=" 00:28:35.670963"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:28:38.794773" clipEnd=" 00:28:39.605362"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:29:43.14085" clipEnd=" 00:29:43.814115"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:30:22.794954" clipEnd=" 00:30:23.63119"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:30:31.812437" clipEnd=" 00:30:32.553752"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:30:41.886473" clipEnd=" 00:30:42.677743"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:34:59.989739" clipEnd=" 00:35:00.781326"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:35:34.547607" clipEnd=" 00:35:35.438106"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:36:59.493979" clipEnd=" 00:37:00.203684"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:38:32.312324" clipEnd=" 00:38:33.123095"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:39:29.933979" clipEnd=" 00:39:30.698015"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:39:55.751235" clipEnd=" 00:39:56.569444"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:40:21.436473" clipEnd=" 00:40:22.240941"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:41:03.210578" clipEnd=" 00:41:04.24577"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:41:27.741077" clipEnd=" 00:41:28.721916"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:42:52.576927" clipEnd=" 00:42:53.557879"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:43:17.31246" clipEnd=" 00:43:18.424297"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:00:09.272414" clipEnd=" 00:00:10.393866"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:00:19.366451" clipEnd=" 00:00:20.270578"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:01:09.906496" clipEnd=" 00:01:10.924229"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:03:44.847086" clipEnd=" 00:03:45.715158"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:04:41.369965" clipEnd=" 00:04:42.337721"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>22</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:06:52.602823" clipEnd=" 00:06:53.679285"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>23</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:07:45.222619" clipEnd=" 00:07:46.232414"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>24</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:08:57.212777" clipEnd=" 00:08:58.243798"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>25</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:09:23.442913" clipEnd=" 00:09:24.528265"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:10:40.261689" clipEnd=" 00:10:41.341077"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:10:44.943956" clipEnd=" 00:10:45.602596"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:11:17.582573" clipEnd=" 00:11:18.184251"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3 (Missing "Note")</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:11:28.233276" clipEnd=" 00:11:28.640419"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:11:43.251575" clipEnd=" 00:11:43.945861"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:12:19.989104" clipEnd=" 00:12:20.656292"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:12:38.437993" clipEnd=" 00:12:39.205566"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:12:47.240782" clipEnd=" 00:12:47.998741"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:13:00.73899" clipEnd=" 00:13:01.44416"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:13:18.561689" clipEnd=" 00:13:19.330668"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:13:49.492709" clipEnd=" 00:13:50.469603"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:14:48.206814" clipEnd=" 00:14:49.029512"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:15:16.995204" clipEnd=" 00:15:17.800192"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:15:49.106111" clipEnd=" 00:15:50.08729"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:17:41.937154" clipEnd=" 00:17:42.950238"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:17:53.103185" clipEnd=" 00:17:54.030192"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:19:59.139716" clipEnd=" 00:20:00.23382"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:20:14.263435" clipEnd=" 00:20:15.348514"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:20:18.436247" clipEnd=" 00:20:19.155136"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:20:28.074569" clipEnd=" 00:20:28.700941"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:20:39.27509" clipEnd=" 00:20:40.034795"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:21:30.435453" clipEnd=" 00:21:31.206655"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:22:31.160532" clipEnd=" 00:22:31.974387"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:23:40.961938" clipEnd=" 00:23:41.716088"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:23:55.921439" clipEnd=" 00:23:56.68119"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:24:17.189285" clipEnd=" 00:24:18.005521"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:24:45.23187" clipEnd=" 00:24:46.016541"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:25:08.93602" clipEnd=" 00:25:09.632324"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:25:47.864795" clipEnd=" 00:25:48.721757"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:26:19.6089" clipEnd=" 00:26:20.568628"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:26:33.363027" clipEnd=" 00:26:34.330555"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:28:27.045294" clipEnd=" 00:28:28.112278"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:29:42.856224" clipEnd=" 00:29:43.801145"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:30:34.798424" clipEnd=" 00:30:35.354546"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:31:47.236678" clipEnd=" 00:31:48.244909"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:32:06.496995" clipEnd=" 00:32:07.369535"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>4 (No notes for appendix 3)</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:32:46.52339" clipEnd=" 00:32:47.779285"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:32:50.672233" clipEnd=" 00:32:51.318628"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:32:55.527539" clipEnd=" 00:32:56.091213"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:33:02.739058" clipEnd=" 00:33:03.362551"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:33:07.352437" clipEnd=" 00:33:08.024433"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:33:15.483888" clipEnd=" 00:33:16.152551"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:33:21.190895" clipEnd=" 00:33:21.917018"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:33:38.117108" clipEnd=" 00:33:38.73178"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:34:07.250873" clipEnd=" 00:34:07.820782"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:34:18.297698" clipEnd=" 00:34:19.100215"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:34:26.977018" clipEnd=" 00:34:27.811371"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:34:37.653367" clipEnd=" 00:34:38.388673"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:34:49.37246" clipEnd=" 00:34:50.254569"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:35:13.784523" clipEnd=" 00:35:14.765294"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:35:34.680034" clipEnd=" 00:35:35.584138"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:35:51.373571" clipEnd=" 00:35:52.303458"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:36:05.79899" clipEnd=" 00:36:06.789195"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:36:21.016927" clipEnd=" 00:36:22.022891"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:36:35.079784" clipEnd=" 00:36:35.948968"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:36:48.748605" clipEnd=" 00:36:49.7067"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:37:05.791643" clipEnd=" 00:37:06.721213"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:37:26.228446" clipEnd=" 00:37:27.116904"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>22</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:37:32.765476" clipEnd=" 00:37:33.707743"/>
+			</facet>
+		</navPoint>
+		<navPoint class="appendix">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:37:54.164954" clipEnd=" 00:37:55.244251"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>1</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:37:57.322074" clipEnd=" 00:37:58.015975"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>2</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:38:20.24153" clipEnd=" 00:38:20.885408"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>3</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:38:51.596405" clipEnd=" 00:38:52.251984"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>4</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:39:19.181054" clipEnd=" 00:39:19.849716"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>5</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:39:43.196587" clipEnd=" 00:39:43.890464"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>6</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:40:17.627154" clipEnd=" 00:40:18.467811"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>7</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:40:56.543027" clipEnd=" 00:40:57.272006"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>8</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:41:43.525453" clipEnd=" 00:41:44.321439"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>9</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:43:04.373684" clipEnd=" 00:43:05.335136"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>10</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:43:57.390124" clipEnd=" 00:43:58.141235"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>11</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:09.827494" clipEnd=" 00:00:10.732188"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>12</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:23.733231" clipEnd=" 00:00:24.395929"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>13</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:29.802551" clipEnd=" 00:00:30.800895"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>14</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:35.805634" clipEnd=" 00:00:36.68085"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>15</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:40.966519" clipEnd=" 00:00:41.816904"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>16</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:57.478401" clipEnd=" 00:00:58.367063"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>17</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:01:45.378242" clipEnd=" 00:01:46.373276"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>18</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:02:14.603911" clipEnd=" 00:02:15.41348"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>19</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:02:32.730759" clipEnd=" 00:02:33.744047"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>20</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:02:37.698061" clipEnd=" 00:02:38.29958"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>21</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:02:45.5467" clipEnd=" 00:02:46.365136"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>22</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:02:55.84865" clipEnd=" 00:02:56.915748"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>23</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:03:50.434841" clipEnd=" 00:03:51.492891"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>24</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:03:59.21797" clipEnd=" 00:04:00.298424"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>25</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:04:06.796383" clipEnd=" 00:04:07.764024"/>
+			</facet>
+		</navPoint>
+		<navPoint class="endnotes">
+			<text>26</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:04:14.030873" clipEnd=" 00:04:15.084206"/>
+			</facet>
+		</navPoint>
+		<navPoint class="bibliography">
+			<text>Bibliography</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:04:44.442823" clipEnd=" 00:04:45.66509"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>1: Books</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:04:45.694773" clipEnd=" 00:04:46.786088"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>2: Articles and Other Sources</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:15:06.950464" clipEnd=" 00:15:09.12212"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>3" Public Documents</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:38:34.372913" clipEnd=" 00:38:36.486541"/>
+			</facet>
+		</navPoint>
+		<navPoint class="section">
+			<text>4: Interviews</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:39:30.825839" clipEnd=" 00:39:31.882664"/>
+			</facet>
+		</navPoint>
+		<navPoint class="close">
+			<text>The End</text>
+			<facet type="reference" sequence="0">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:40:29.751575" clipEnd=" 00:40:30.471961"/>
+			</facet>
+		</navPoint>
+	</navMap>
+	<navList class="segment">
+		<facetDefs>
+			<facetDef class="segment" facet="reference" color="0xc040c0" key="" enableUI="no" skip="no"/>
+			<facetDef class="segment" facet="content" color="0xc040c0" key="" enableUI="no" skip="no"/>
+			<facetDef class="segment" facet="location" color="0xc040c0" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="pagenum">
+		<facetDefs>
+			<facetDef class="pagenum" facet="reference" color="0x0000ff" key="" enableUI="no" skip="no"/>
+			<facetDef class="pagenum" facet="content" color="0x0000ff" key="*" enableUI="yes" skip="no"/>
+			<facetDef class="pagenum" facet="location" color="0x0000ff" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+		<navTarget value="1">
+			<text>3</text>
+			<facet type="content" sequence="30">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:32:06.249217" clipEnd=" 00:32:06.988537"/>
+			</facet>
+		</navTarget>
+		<navTarget value="2">
+			<text>4</text>
+			<facet type="content" sequence="31">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:34:33.437925" clipEnd=" 00:34:34.404591"/>
+			</facet>
+		</navTarget>
+		<navTarget value="3">
+			<text>5</text>
+			<facet type="content" sequence="33">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:37:40.962913" clipEnd=" 00:37:41.737312"/>
+			</facet>
+		</navTarget>
+		<navTarget value="4">
+			<text>6</text>
+			<facet type="content" sequence="34">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:40:55.517358" clipEnd=" 00:40:56.313049"/>
+			</facet>
+		</navTarget>
+		<navTarget value="5">
+			<text>7</text>
+			<facet type="content" sequence="36">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:44:29.613072" clipEnd=" 00:44:30.447471"/>
+			</facet>
+		</navTarget>
+		<navTarget value="6">
+			<text>8</text>
+			<facet type="content" sequence="38">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:02:26.269807" clipEnd=" 00:02:27.037562"/>
+			</facet>
+		</navTarget>
+		<navTarget value="7">
+			<text>9</text>
+			<facet type="content" sequence="39">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:05:24.857766" clipEnd=" 00:05:25.881462"/>
+			</facet>
+		</navTarget>
+		<navTarget value="8">
+			<text>10</text>
+			<facet type="content" sequence="40">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:08:31.330918" clipEnd=" 00:08:32.112891"/>
+			</facet>
+		</navTarget>
+		<navTarget value="9">
+			<text>11</text>
+			<facet type="content" sequence="43">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:11:35.120804" clipEnd=" 00:11:35.82577"/>
+			</facet>
+		</navTarget>
+		<navTarget value="10">
+			<text>12</text>
+			<facet type="content" sequence="46">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:14:22.28085" clipEnd=" 00:14:23.104183"/>
+			</facet>
+		</navTarget>
+		<navTarget value="11">
+			<text>13</text>
+			<facet type="content" sequence="48">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:17:41.448968" clipEnd=" 00:17:42.412369"/>
+			</facet>
+		</navTarget>
+		<navTarget value="12">
+			<text>14</text>
+			<facet type="content" sequence="52">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:20:39.183072" clipEnd=" 00:20:40.204342"/>
+			</facet>
+		</navTarget>
+		<navTarget value="13">
+			<text>15</text>
+			<facet type="content" sequence="53">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:23:31.447154" clipEnd=" 00:23:32.294682"/>
+			</facet>
+		</navTarget>
+		<navTarget value="14">
+			<text>16</text>
+			<facet type="content" sequence="54">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:26:42.902505" clipEnd=" 00:26:43.900963"/>
+			</facet>
+		</navTarget>
+		<navTarget value="15">
+			<text>17</text>
+			<facet type="content" sequence="55">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:29:54.721281" clipEnd=" 00:29:55.966201"/>
+			</facet>
+		</navTarget>
+		<navTarget value="16">
+			<text>19</text>
+			<facet type="content" sequence="58">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:32:37.816814" clipEnd=" 00:32:38.831893"/>
+			</facet>
+		</navTarget>
+		<navTarget value="17">
+			<text>20</text>
+			<facet type="content" sequence="59">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:35:39.667766" clipEnd=" 00:35:40.676882"/>
+			</facet>
+		</navTarget>
+		<navTarget value="18">
+			<text>21</text>
+			<facet type="content" sequence="62">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:38:52.337902" clipEnd=" 00:38:53.451485"/>
+			</facet>
+		</navTarget>
+		<navTarget value="19">
+			<text>43</text>
+			<facet type="content" sequence="69">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:02:37.781666" clipEnd=" 00:02:39.025839"/>
+			</facet>
+		</navTarget>
+		<navTarget value="20">
+			<text>67</text>
+			<facet type="content" sequence="85">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:22:47.502823" clipEnd=" 00:22:48.80314"/>
+			</facet>
+		</navTarget>
+		<navTarget value="21">
+			<text>89</text>
+			<facet type="content" sequence="95">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:27:02.106496" clipEnd=" 00:27:03.176678"/>
+			</facet>
+		</navTarget>
+		<navTarget value="22">
+			<text>91</text>
+			<facet type="content" sequence="96">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:31:10.618129" clipEnd=" 00:31:11.809353"/>
+			</facet>
+		</navTarget>
+		<navTarget value="23">
+			<text>100</text>
+			<facet type="content" sequence="104">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:11:28.329263" clipEnd=" 00:11:29.25695"/>
+			</facet>
+		</navTarget>
+		<navTarget value="24">
+			<text>107</text>
+			<facet type="content" sequence="108">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:33:14.666156" clipEnd=" 00:33:15.865816"/>
+			</facet>
+		</navTarget>
+		<navTarget value="25">
+			<text>111</text>
+			<facet type="content" sequence="113">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:01:06.239399" clipEnd=" 00:01:07.335158"/>
+			</facet>
+		</navTarget>
+		<navTarget value="26">
+			<text>125</text>
+			<facet type="content" sequence="119">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:00:57.023956" clipEnd=" 00:00:58.272029"/>
+			</facet>
+		</navTarget>
+		<navTarget value="27">
+			<text>129</text>
+			<facet type="content" sequence="120">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:07:35.293843" clipEnd=" 00:07:36.88729"/>
+			</facet>
+		</navTarget>
+		<navTarget value="28">
+			<text>160</text>
+			<facet type="content" sequence="136">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:44:46.960759" clipEnd=" 00:44:48.373866"/>
+			</facet>
+		</navTarget>
+		<navTarget value="29">
+			<text>168</text>
+			<facet type="content" sequence="144">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:20:08.689285" clipEnd=" 00:20:09.812823"/>
+			</facet>
+		</navTarget>
+		<navTarget value="30">
+			<text>179</text>
+			<facet type="content" sequence="150">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:02:43.120646" clipEnd=" 00:02:44.423571"/>
+			</facet>
+		</navTarget>
+		<navTarget value="31">
+			<text>195</text>
+			<facet type="content" sequence="164">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:00:55.413049" clipEnd=" 00:00:56.627766"/>
+			</facet>
+		</navTarget>
+		<navTarget value="32">
+			<text>215</text>
+			<facet type="content" sequence="172">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:16:57.670328" clipEnd=" 00:16:58.814637"/>
+			</facet>
+		</navTarget>
+		<navTarget value="33">
+			<text>217</text>
+			<facet type="content" sequence="174">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:20:46.315226" clipEnd=" 00:20:47.810419"/>
+			</facet>
+		</navTarget>
+		<navTarget value="34">
+			<text>263</text>
+			<facet type="content" sequence="201">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:00:47.906451" clipEnd=" 00:00:49.601167"/>
+			</facet>
+		</navTarget>
+		<navTarget value="35">
+			<text>282</text>
+			<facet type="content" sequence="224">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:00:08.982959" clipEnd=" 00:00:10.178287"/>
+			</facet>
+		</navTarget>
+		<navTarget value="36">
+			<text>300</text>
+			<facet type="content" sequence="235">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:10:58.418356" clipEnd=" 00:10:59.431326"/>
+			</facet>
+		</navTarget>
+		<navTarget value="37">
+			<text>301</text>
+			<facet type="content" sequence="236">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:14:06.213208" clipEnd=" 00:14:07.561258"/>
+			</facet>
+		</navTarget>
+		<navTarget value="38">
+			<text>311</text>
+			<facet type="content" sequence="287">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:22:25.978242" clipEnd=" 00:22:27.675249"/>
+			</facet>
+		</navTarget>
+		<navTarget value="39">
+			<text>319</text>
+			<facet type="content" sequence="239">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:45:31.637312" clipEnd=" 00:45:32.610147"/>
+			</facet>
+		</navTarget>
+		<navTarget value="40">
+			<text>320</text>
+			<facet type="content" sequence="250">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:18:54.403979" clipEnd=" 00:18:55.652551"/>
+			</facet>
+		</navTarget>
+		<navTarget value="41">
+			<text>323</text>
+			<facet type="content" sequence="256">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:20:39.192777" clipEnd=" 00:20:40.296451"/>
+			</facet>
+		</navTarget>
+		<navTarget value="42">
+			<text>304</text>
+			<facet type="content" sequence="278">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:27:21.520918" clipEnd=" 00:27:23.276428"/>
+			</facet>
+		</navTarget>
+		<navTarget value="43">
+			<text>330</text>
+			<facet type="content" sequence="291">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:01:45.097562" clipEnd=" 00:01:46.326746"/>
+			</facet>
+		</navTarget>
+		<navTarget value="44">
+			<text>333</text>
+			<facet type="content" sequence="294">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:10:32.710215" clipEnd=" 00:10:34.111462"/>
+			</facet>
+		</navTarget>
+		<navTarget value="45">
+			<text>349</text>
+			<facet type="content" sequence="301">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:19:21.501848" clipEnd=" 00:19:22.91051"/>
+			</facet>
+		</navTarget>
+		<navTarget value="46">
+			<text>336</text>
+			<facet type="content" sequence="300">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:15:40.376315" clipEnd=" 00:15:41.82373"/>
+			</facet>
+		</navTarget>
+		<navTarget value="47">
+			<text>350</text>
+			<facet type="content" sequence="302">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:18:11.308922" clipEnd=" 00:18:12.483888"/>
+			</facet>
+		</navTarget>
+		<navTarget value="48">
+			<text>376</text>
+			<facet type="content" sequence="325">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:08:45.597154" clipEnd=" 00:08:47.537743"/>
+			</facet>
+		</navTarget>
+	</navList>
+	<navList class="note">
+		<facetDefs>
+			<facetDef class="note" facet="reference" color="0x857165" key="'" enableUI="no" skip="no"/>
+			<facetDef class="note" facet="content" color="0x857165" key="\" enableUI="no" skip="no"/>
+			<facetDef class="note" facet="location" color="0x857165" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="sidebar">
+		<facetDefs>
+			<facetDef class="sidebar" facet="reference" color="0xff0000" key="" enableUI="no" skip="no"/>
+			<facetDef class="sidebar" facet="content" color="0xff0000" key="" enableUI="no" skip="no"/>
+			<facetDef class="sidebar" facet="location" color="0xff0000" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="annotation">
+		<facetDefs>
+			<facetDef class="annotation" facet="reference" color="0x202080" key="" enableUI="no" skip="no"/>
+			<facetDef class="annotation" facet="content" color="0x202080" key="" enableUI="no" skip="no"/>
+			<facetDef class="annotation" facet="location" color="0x202080" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="prodnote">
+		<facetDefs>
+			<facetDef class="prodnote" facet="reference" color="0x208020" key="" enableUI="no" skip="no"/>
+			<facetDef class="prodnote" facet="content" color="0x208020" key="" enableUI="no" skip="no"/>
+			<facetDef class="prodnote" facet="location" color="0x208020" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="linenum">
+		<facetDefs>
+			<facetDef class="linenum" facet="reference" color="0x802020" key="" enableUI="no" skip="no"/>
+			<facetDef class="linenum" facet="content" color="0x802020" key="" enableUI="no" skip="no"/>
+			<facetDef class="linenum" facet="location" color="0x802020" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+	</navList>
+	<navList class="exclude">
+		<facetDefs>
+			<facetDef class="exclude" facet="reference" color="00000000" key="`" enableUI="yes" skip="no"/>
+			<facetDef class="exclude" facet="content" color="00000000" key="" enableUI="no" skip="no"/>
+			<facetDef class="exclude" facet="location" color="00000000" key="" enableUI="no" skip="no"/>
+		</facetDefs>
+		<navTarget value="1">
+			<text>Begin 1</text>
+			<facet type="reference" sequence="13">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:03.550306"/>
+			</facet>
+		</navTarget>
+		<navTarget value="2">
+			<text>End 1</text>
+			<facet type="reference" sequence="12">
+				<audio src="EC-05181-001.wav" clipBegin=" 00:45:11.198764" clipEnd=" 00:45:14.114501"/>
+			</facet>
+		</navTarget>
+		<navTarget value="3">
+			<text>Begin 2</text>
+			<facet type="reference" sequence="14">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:10.522346"/>
+			</facet>
+		</navTarget>
+		<navTarget value="4">
+			<text>End 2</text>
+			<facet type="reference" sequence="65">
+				<audio src="EC-05181-002.wav" clipBegin=" 00:45:09.417607" clipEnd=" 00:45:11.774954"/>
+			</facet>
+		</navTarget>
+		<navTarget value="5">
+			<text>Begin 3</text>
+			<facet type="reference" sequence="66">
+				<audio src="EC-05181-003.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:07.395929"/>
+			</facet>
+		</navTarget>
+		<navTarget value="6">
+			<text>Begin 4</text>
+			<facet type="reference" sequence="67">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:07.224591"/>
+			</facet>
+		</navTarget>
+		<navTarget value="7">
+			<text>End 4</text>
+			<facet type="reference" sequence="77">
+				<audio src="EC-05181-004.wav" clipBegin=" 00:45:10.528673" clipEnd=" 00:45:12.823208"/>
+			</facet>
+		</navTarget>
+		<navTarget value="8">
+			<text>Begin 5</text>
+			<facet type="reference" sequence="78">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:07.961689"/>
+			</facet>
+		</navTarget>
+		<navTarget value="9">
+			<text>End 5</text>
+			<facet type="reference" sequence="89">
+				<audio src="EC-05181-005.wav" clipBegin=" 00:44:51.746723" clipEnd=" 00:44:55.081439"/>
+			</facet>
+		</navTarget>
+		<navTarget value="10">
+			<text>Begin 6</text>
+			<facet type="reference" sequence="90">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.030011"/>
+			</facet>
+		</navTarget>
+		<navTarget value="11">
+			<text>End 6</text>
+			<facet type="reference" sequence="100">
+				<audio src="EC-05181-006.wav" clipBegin=" 00:44:50.998287" clipEnd=" 00:44:53.342165"/>
+			</facet>
+		</navTarget>
+		<navTarget value="12">
+			<text>Begin 7</text>
+			<facet type="reference" sequence="101">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:09.280555"/>
+			</facet>
+		</navTarget>
+		<navTarget value="13">
+			<text>End 7</text>
+			<facet type="reference" sequence="111">
+				<audio src="EC-05181-007.wav" clipBegin=" 00:44:57.719512" clipEnd=" 00:45:02.141621"/>
+			</facet>
+		</navTarget>
+		<navTarget value="14">
+			<text>Begin 8</text>
+			<facet type="reference" sequence="112">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.777675"/>
+			</facet>
+		</navTarget>
+		<navTarget value="15">
+			<text>End 8</text>
+			<facet type="reference" sequence="117">
+				<audio src="EC-05181-008.wav" clipBegin=" 00:44:35.938854" clipEnd=" 00:44:38.793231"/>
+			</facet>
+		</navTarget>
+		<navTarget value="16">
+			<text>Begin 9</text>
+			<facet type="reference" sequence="118">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:07.402732"/>
+			</facet>
+		</navTarget>
+		<navTarget value="17">
+			<text>End 9</text>
+			<facet type="reference" sequence="130">
+				<audio src="EC-05181-009.wav" clipBegin=" 00:44:57.443866" clipEnd=" 00:45:00.531485"/>
+			</facet>
+		</navTarget>
+		<navTarget value="18">
+			<text>Begin 10 "In Search of Unity"</text>
+			<facet type="reference" sequence="131">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.467653"/>
+			</facet>
+		</navTarget>
+		<navTarget value="19">
+			<text>End 10</text>
+			<facet type="reference" sequence="137">
+				<audio src="EC-05181-010.wav" clipBegin=" 00:44:48.834501" clipEnd=" 00:44:51.255158"/>
+			</facet>
+		</navTarget>
+		<navTarget value="20">
+			<text>Begin 11 "In Search of Identity"</text>
+			<facet type="reference" sequence="138">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.667131"/>
+			</facet>
+		</navTarget>
+		<navTarget value="21">
+			<text>End 11</text>
+			<facet type="reference" sequence="147">
+				<audio src="EC-05181-011.wav" clipBegin=" 00:45:00.56475" clipEnd=" 00:45:02.75246"/>
+			</facet>
+		</navTarget>
+		<navTarget value="22">
+			<text>Begin 12</text>
+			<facet type="reference" sequence="148">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.579625"/>
+			</facet>
+		</navTarget>
+		<navTarget value="23">
+			<text>End 12 (Note pos. of sec. head.)</text>
+			<facet type="reference" sequence="162">
+				<audio src="EC-05181-012.wav" clipBegin=" 00:45:02.485521" clipEnd=" 00:45:05.9367"/>
+			</facet>
+		</navTarget>
+		<navTarget value="24">
+			<text>Begin 13</text>
+			<facet type="reference" sequence="163">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.602233"/>
+			</facet>
+		</navTarget>
+		<navTarget value="25">
+			<text>End 13</text>
+			<facet type="reference" sequence="170">
+				<audio src="EC-05181-013.wav" clipBegin=" 00:45:05.056247" clipEnd=" 00:45:07.770238"/>
+			</facet>
+		</navTarget>
+		<navTarget value="26">
+			<text>Begin 14</text>
+			<facet type="reference" sequence="171">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.808356"/>
+			</facet>
+		</navTarget>
+		<navTarget value="27">
+			<text>End 14</text>
+			<facet type="reference" sequence="183">
+				<audio src="EC-05181-014.wav" clipBegin=" 00:45:03.06441" clipEnd=" 00:45:05.430804"/>
+			</facet>
+		</navTarget>
+		<navTarget value="28">
+			<text>Begin 15</text>
+			<facet type="reference" sequence="184">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.983095"/>
+			</facet>
+		</navTarget>
+		<navTarget value="29">
+			<text>Lipsmack</text>
+			<facet type="reference" sequence="185">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:03:00.776496" clipEnd=" 00:03:01.042755"/>
+			</facet>
+		</navTarget>
+		<navTarget value="30">
+			<text>Lipsmack</text>
+			<facet type="reference" sequence="186">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:04:08.162482" clipEnd=" 00:04:08.375929"/>
+			</facet>
+		</navTarget>
+		<navTarget value="31">
+			<text>End 15</text>
+			<facet type="reference" sequence="193">
+				<audio src="EC-05181-015.wav" clipBegin=" 00:44:49.79577" clipEnd=" 00:44:52.028877"/>
+			</facet>
+		</navTarget>
+		<navTarget value="32">
+			<text>Begin 16</text>
+			<facet type="reference" sequence="194">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.732369"/>
+			</facet>
+		</navTarget>
+		<navTarget value="33">
+			<text>End 16</text>
+			<facet type="reference" sequence="199">
+				<audio src="EC-05181-016.wav" clipBegin=" 00:44:51.993231" clipEnd=" 00:44:54.391371"/>
+			</facet>
+		</navTarget>
+		<navTarget value="34">
+			<text>Begin 17</text>
+			<facet type="reference" sequence="200">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:09.116496"/>
+			</facet>
+		</navTarget>
+		<navTarget value="35">
+			<text>End 17</text>
+			<facet type="reference" sequence="222">
+				<audio src="EC-05181-017.wav" clipBegin=" 00:44:53.453956" clipEnd=" 00:44:55.884727"/>
+			</facet>
+		</navTarget>
+		<navTarget value="36">
+			<text>Begin 18</text>
+			<facet type="reference" sequence="223">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.93992"/>
+			</facet>
+		</navTarget>
+		<navTarget value="37">
+			<text>End 18</text>
+			<facet type="reference" sequence="232">
+				<audio src="EC-05181-018.wav" clipBegin=" 00:44:59.165725" clipEnd=" 00:45:01.485952"/>
+			</facet>
+		</navTarget>
+		<navTarget value="38">
+			<text>Begin 19 (Lengthy pause!)</text>
+			<facet type="reference" sequence="233">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:01:11.787517"/>
+			</facet>
+		</navTarget>
+		<navTarget value="39">
+			<text>End 19 (Again with a lengthy pause)</text>
+			<facet type="reference" sequence="240">
+				<audio src="EC-05181-019.wav" clipBegin=" 00:46:03.868514" clipEnd=" 00:47:27.23085"/>
+			</facet>
+		</navTarget>
+		<navTarget value="40">
+			<text>Begin 20</text>
+			<facet type="reference" sequence="241">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.570873"/>
+			</facet>
+		</navTarget>
+		<navTarget value="41">
+			<text>End 20</text>
+			<facet type="reference" sequence="280">
+				<audio src="EC-05181-020.wav" clipBegin=" 00:44:51.459965" clipEnd=" 00:44:53.947925"/>
+			</facet>
+		</navTarget>
+		<navTarget value="42">
+			<text>Begin 21</text>
+			<facet type="reference" sequence="290">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:10.351893"/>
+			</facet>
+		</navTarget>
+		<navTarget value="43">
+			<text>End 21</text>
+			<facet type="reference" sequence="297">
+				<audio src="EC-05181-021.wav" clipBegin=" 00:45:02.887721" clipEnd=" 00:45:05.886224"/>
+			</facet>
+		</navTarget>
+		<navTarget value="44">
+			<text>Begin 22</text>
+			<facet type="reference" sequence="298">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.658764"/>
+			</facet>
+		</navTarget>
+		<navTarget value="45">
+			<text>End 22</text>
+			<facet type="reference" sequence="309">
+				<audio src="EC-05181-022.wav" clipBegin=" 00:45:08.090056" clipEnd=" 00:45:10.479376"/>
+			</facet>
+		</navTarget>
+		<navTarget value="46">
+			<text>Begin 23</text>
+			<facet type="reference" sequence="310">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:09.357721"/>
+			</facet>
+		</navTarget>
+		<navTarget value="47">
+			<text>End 23</text>
+			<facet type="reference" sequence="321">
+				<audio src="EC-05181-023.wav" clipBegin=" 00:44:58.020578" clipEnd=" 00:45:01.160555"/>
+			</facet>
+		</navTarget>
+		<navTarget value="48">
+			<text>Begin 24</text>
+			<facet type="reference" sequence="322">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:08.773594"/>
+			</facet>
+		</navTarget>
+		<navTarget value="49">
+			<text>End of Appendicies ("The End")</text>
+			<facet type="reference" sequence="330">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:11:53.202868" clipEnd=" 00:11:54.061984"/>
+			</facet>
+		</navTarget>
+		<navTarget value="50">
+			<text>End of Glossary ("The End")</text>
+			<facet type="reference" sequence="331">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:15:57.265612" clipEnd=" 00:15:58.007154"/>
+			</facet>
+		</navTarget>
+		<navTarget value="51">
+			<text>End 24 + Notes for the post-processor (i.e.: editor)</text>
+			<facet type="reference" sequence="332">
+				<audio src="EC-05181-024.wav" clipBegin=" 00:15:58.007154" clipEnd=" 00:16:41.525748"/>
+			</facet>
+		</navTarget>
+		<navTarget value="52">
+			<text>Begin 25+</text>
+			<facet type="reference" sequence="334">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:01:20.455952"/>
+			</facet>
+		</navTarget>
+		<navTarget value="53">
+			<text>End 25+</text>
+			<facet type="reference" sequence="333">
+				<audio src="EC-05181-025.wav" clipBegin=" 00:46:13.606133" clipEnd=" 00:49:31.829126"/>
+			</facet>
+		</navTarget>
+		<navTarget value="54">
+			<text>Begin 26</text>
+			<facet type="reference" sequence="335">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:10.608741"/>
+			</facet>
+		</navTarget>
+		<navTarget value="55">
+			<text>End 26</text>
+			<facet type="reference" sequence="336">
+				<audio src="EC-05181-026.wav" clipBegin=" 00:45:04.638605" clipEnd=" 00:45:07.043072"/>
+			</facet>
+		</navTarget>
+		<navTarget value="56">
+			<text>Begin 27</text>
+			<facet type="reference" sequence="337">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:10.681417"/>
+			</facet>
+		</navTarget>
+		<navTarget value="57">
+			<text>027 Gratuitous Lipsmack</text>
+			<facet type="reference" sequence="432">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:01:12.76212" clipEnd=" 00:01:12.863412"/>
+			</facet>
+		</navTarget>
+		<navTarget value="58">
+			<text>027 Someone hit the microphone</text>
+			<facet type="reference" sequence="446">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:11:20.865362" clipEnd=" 00:11:20.922845"/>
+			</facet>
+		</navTarget>
+		<navTarget value="59">
+			<text>End 27</text>
+			<facet type="reference" sequence="338">
+				<audio src="EC-05181-027.wav" clipBegin=" 00:45:10.555793" clipEnd=" 00:45:13.397312"/>
+			</facet>
+		</navTarget>
+		<navTarget value="60">
+			<text>Begin 28</text>
+			<facet type="reference" sequence="339">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:09.250056"/>
+			</facet>
+		</navTarget>
+		<navTarget value="61">
+			<text>028 Lipsmack</text>
+			<facet type="reference" sequence="541">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:35:13.421349" clipEnd=" 00:35:13.715045"/>
+			</facet>
+		</navTarget>
+		<navTarget value="62">
+			<text>End 28</text>
+			<facet type="reference" sequence="342">
+				<audio src="EC-05181-028.wav" clipBegin=" 00:45:00.805362" clipEnd=" 00:45:04.013934"/>
+			</facet>
+		</navTarget>
+		<navTarget value="63">
+			<text>Begin 29</text>
+			<facet type="reference" sequence="343">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:00:00.000011" clipEnd=" 00:00:09.342392"/>
+			</facet>
+		</navTarget>
+		<navTarget value="64">
+			<text>End 29; Followed by publication metadata and copyright notices.</text>
+			<facet type="reference" sequence="352">
+				<audio src="EC-05181-029.wav" clipBegin=" 00:40:30.471961" clipEnd=" 00:40:42.671077"/>
+			</facet>
+		</navTarget>
+	</navList>
+</tncx>

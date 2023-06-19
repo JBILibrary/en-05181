@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil v1.1.0//EN" "dtbsmil110.dtd">
+<smil>
+	<head>
+		<meta name="dtb:uid" content="us-jbi-en-05181"/>
+		<meta name="dtb:totalElapsedTime" content="20:07:59.638"/>
+		<meta name="dtb:generator" content="Narrator Studio 1.50.2452"/>
+		<customAttributes>
+			<customTest id="pagenum" defaultState="true" override="visible"/>
+		</customAttributes>
+	</head>
+	<body>
+		<seq id="smil002">
+			<par id="hix00413_1">
+				<audio src="en-05181-0386.3gp" clipBegin="0:00:00.967" clipEnd="0:01:53.682"/>
+			</par>
+			<par id="hix00414">
+				<audio src="en-05181-0387.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.067"/>
+			</par>
+			<par id="hix00414_1">
+				<audio src="en-05181-0387.3gp" clipBegin="0:00:01.067" clipEnd="0:01:15.811"/>
+			</par>
+			<par id="hix00415">
+				<audio src="en-05181-0388.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.945"/>
+			</par>
+			<par id="hix00415_1">
+				<audio src="en-05181-0388.3gp" clipBegin="0:00:00.945" clipEnd="0:00:51.942"/>
+			</par>
+			<par id="hix00416">
+				<audio src="en-05181-0389.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.556"/>
+			</par>
+			<par id="hix00416_1">
+				<audio src="en-05181-0389.3gp" clipBegin="0:00:00.556" clipEnd="0:01:12.438"/>
+			</par>
+			<par id="hix00417">
+				<audio src="en-05181-0390.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.008"/>
+			</par>
+			<par id="hix00417_1">
+				<audio src="en-05181-0390.3gp" clipBegin="0:00:01.008" clipEnd="0:00:19.260"/>
+			</par>
+			<par id="hix00418">
+				<audio src="en-05181-0391.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.873"/>
+			</par>
+			<par id="hix00418_1">
+				<audio src="en-05181-0391.3gp" clipBegin="0:00:00.873" clipEnd="0:00:40.027"/>
+			</par>
+			<par id="hix00036">
+				<audio src="en-05181-0392.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.256"/>
+			</par>
+			<par id="hix00036_1">
+				<audio src="en-05181-0392.3gp" clipBegin="0:00:01.256" clipEnd="0:00:04.149"/>
+			</par>
+			<par id="hix00419">
+				<audio src="en-05181-0392.3gp" clipBegin="0:00:04.149" clipEnd="0:00:04.795"/>
+			</par>
+			<par id="hix00419_1">
+				<audio src="en-05181-0392.3gp" clipBegin="0:00:04.795" clipEnd="0:00:09.004"/>
+			</par>
+			<par id="hix00420">
+				<audio src="en-05181-0393.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.564"/>
+			</par>
+			<par id="hix00420_1">
+				<audio src="en-05181-0393.3gp" clipBegin="0:00:00.564" clipEnd="0:00:07.212"/>
+			</par>
+			<par id="hix00421">
+				<audio src="en-05181-0394.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.623"/>
+			</par>
+			<par id="hix00421_1">
+				<audio src="en-05181-0394.3gp" clipBegin="0:00:00.623" clipEnd="0:00:04.613"/>
+			</par>
+			<par id="hix00422">
+				<audio src="en-05181-0395.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.672"/>
+			</par>
+			<par id="hix00422_1">
+				<audio src="en-05181-0395.3gp" clipBegin="0:00:00.672" clipEnd="0:00:08.131"/>
+			</par>
+			<par id="hix00423">
+				<audio src="en-05181-0396.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.669"/>
+			</par>
+			<par id="hix00423_1">
+				<audio src="en-05181-0396.3gp" clipBegin="0:00:00.669" clipEnd="0:00:05.707"/>
+			</par>
+			<par id="hix00424">
+				<audio src="en-05181-0397.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.727"/>
+			</par>
+			<par id="hix00424_1">
+				<audio src="en-05181-0397.3gp" clipBegin="0:00:00.727" clipEnd="0:00:16.927"/>
+			</par>
+			<par id="hix00425">
+				<audio src="en-05181-0398.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.614"/>
+			</par>
+			<par id="hix00425_1">
+				<audio src="en-05181-0398.3gp" clipBegin="0:00:00.614" clipEnd="0:00:29.133"/>
+			</par>
+			<par id="hix00426">
+				<audio src="en-05181-0399.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.570"/>
+			</par>
+			<par id="hix00426_1">
+				<audio src="en-05181-0399.3gp" clipBegin="0:00:00.570" clipEnd="0:00:11.047"/>
+			</par>
+			<par id="hix00427">
+				<audio src="en-05181-0400.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.803"/>
+			</par>
+			<par id="hix00427_1">
+				<audio src="en-05181-0400.3gp" clipBegin="0:00:00.803" clipEnd="0:00:08.680"/>
+			</par>
+			<par id="hix00428">
+				<audio src="en-05181-0401.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.834"/>
+			</par>
+			<par id="hix00428_1">
+				<audio src="en-05181-0401.3gp" clipBegin="0:00:00.834" clipEnd="0:00:10.676"/>
+			</par>
+			<par id="hix00429">
+				<audio src="en-05181-0402.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.735"/>
+			</par>
+			<par id="hix00429_1">
+				<audio src="en-05181-0402.3gp" clipBegin="0:00:00.735" clipEnd="0:00:11.719"/>
+			</par>
+			<par id="hix00430">
+				<audio src="en-05181-0403.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.882"/>
+			</par>
+			<par id="hix00430_1">
+				<audio src="en-05181-0403.3gp" clipBegin="0:00:00.882" clipEnd="0:00:24.412"/>
+			</par>
+			<par id="hix00431">
+				<audio src="en-05181-0404.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.981"/>
+			</par>
+			<par id="hix00431_1">
+				<audio src="en-05181-0404.3gp" clipBegin="0:00:00.981" clipEnd="0:00:20.896"/>
+			</par>
+			<par id="hix00432">
+				<audio src="en-05181-0405.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.904"/>
+			</par>
+			<par id="hix00432_1">
+				<audio src="en-05181-0405.3gp" clipBegin="0:00:00.904" clipEnd="0:00:16.693"/>
+			</par>
+			<par id="hix00433">
+				<audio src="en-05181-0406.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.930"/>
+			</par>
+			<par id="hix00433_1">
+				<audio src="en-05181-0406.3gp" clipBegin="0:00:00.930" clipEnd="0:00:14.425"/>
+			</par>
+			<par id="hix00434">
+				<audio src="en-05181-0407.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.991"/>
+			</par>
+			<par id="hix00434_1">
+				<audio src="en-05181-0407.3gp" clipBegin="0:00:00.991" clipEnd="0:00:15.218"/>
+			</par>
+			<par id="hix00435">
+				<audio src="en-05181-0408.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.006"/>
+			</par>
+			<par id="hix00435_1">
+				<audio src="en-05181-0408.3gp" clipBegin="0:00:01.006" clipEnd="0:00:14.063"/>
+			</par>
+			<par id="hix00436">
+				<audio src="en-05181-0409.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.869"/>
+			</par>
+			<par id="hix00436_1">
+				<audio src="en-05181-0409.3gp" clipBegin="0:00:00.869" clipEnd="0:00:13.669"/>
+			</par>
+			<par id="hix00437">
+				<audio src="en-05181-0410.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.958"/>
+			</par>
+			<par id="hix00437_1">
+				<audio src="en-05181-0410.3gp" clipBegin="0:00:00.958" clipEnd="0:00:17.043"/>
+			</par>
+			<par id="hix00438">
+				<audio src="en-05181-0411.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.930"/>
+			</par>
+			<par id="hix00438_1">
+				<audio src="en-05181-0411.3gp" clipBegin="0:00:00.930" clipEnd="0:00:20.437"/>
+			</par>
+			<par id="hix00439">
+				<audio src="en-05181-0412.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.888"/>
+			</par>
+			<par id="hix00439_1">
+				<audio src="en-05181-0412.3gp" clipBegin="0:00:00.888" clipEnd="0:00:06.537"/>
+			</par>
+			<par id="hix00440">
+				<audio src="en-05181-0413.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.942"/>
+			</par>
+			<par id="hix00440_1">
+				<audio src="en-05181-0413.3gp" clipBegin="0:00:00.942" clipEnd="0:00:21.399"/>
+			</par>
+			<par id="hix00037">
+				<audio src="en-05181-0414.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.080"/>
+			</par>
+			<par id="hix00037_1">
+				<audio src="en-05181-0414.3gp" clipBegin="0:00:01.080" clipEnd="0:00:03.158"/>
+			</par>
+			<par id="hix00441">
+				<audio src="en-05181-0414.3gp" clipBegin="0:00:03.158" clipEnd="0:00:03.851"/>
+			</par>
+			<par id="hix00441_1">
+				<audio src="en-05181-0414.3gp" clipBegin="0:00:03.851" clipEnd="0:00:26.077"/>
+			</par>
+			<par id="hix00442">
+				<audio src="en-05181-0415.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.644"/>
+			</par>
+			<par id="hix00442_1">
+				<audio src="en-05181-0415.3gp" clipBegin="0:00:00.644" clipEnd="0:00:31.355"/>
+			</par>
+			<par id="hix00443">
+				<audio src="en-05181-0416.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.655"/>
+			</par>
+			<par id="hix00443_1">
+				<audio src="en-05181-0416.3gp" clipBegin="0:00:00.655" clipEnd="0:00:27.585"/>
+			</par>
+			<par id="hix00444">
+				<audio src="en-05181-0417.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.668"/>
+			</par>
+			<par id="hix00444_1">
+				<audio src="en-05181-0417.3gp" clipBegin="0:00:00.668" clipEnd="0:00:24.015"/>
+			</par>
+			<par id="hix00445">
+				<audio src="en-05181-0418.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.694"/>
+			</par>
+			<par id="hix00445_1">
+				<audio src="en-05181-0418.3gp" clipBegin="0:00:00.694" clipEnd="0:00:34.431"/>
+			</par>
+			<par id="hix00446">
+				<audio src="en-05181-0419.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.840"/>
+			</par>
+			<par id="hix00446_1">
+				<audio src="en-05181-0419.3gp" clipBegin="0:00:00.840" clipEnd="0:00:38.916"/>
+			</par>
+			<par id="hix00447">
+				<audio src="en-05181-0420.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.729"/>
+			</par>
+			<par id="hix00447_1">
+				<audio src="en-05181-0420.3gp" clipBegin="0:00:00.729" clipEnd="0:00:46.982"/>
+			</par>
+			<par id="hix00448">
+				<audio src="en-05181-0421.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.796"/>
+			</par>
+			<par id="hix00448_1">
+				<audio src="en-05181-0421.3gp" clipBegin="0:00:00.796" clipEnd="0:01:20.848"/>
+			</par>
+			<par id="hix00449">
+				<audio src="en-05181-0422.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.962"/>
+			</par>
+			<par id="hix00449_1">
+				<audio src="en-05181-0422.3gp" clipBegin="0:00:00.962" clipEnd="0:00:53.017"/>
+			</par>
+			<par id="hix00450">
+				<audio src="en-05181-0423.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.751"/>
+			</par>
+			<par id="hix00450_1">
+				<audio src="en-05181-0423.3gp" clipBegin="0:00:00.751" clipEnd="0:01:03.522"/>
+			</par>
+			<par id="hix00451">
+				<audio src="en-05181-0424.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.905"/>
+			</par>
+			<par id="hix00451_1">
+				<audio src="en-05181-0424.3gp" clipBegin="0:00:00.905" clipEnd="0:00:13.906"/>
+			</par>
+			<par id="hix00452">
+				<audio src="en-05181-0425.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.662"/>
+			</par>
+			<par id="hix00452_1">
+				<audio src="en-05181-0425.3gp" clipBegin="0:00:00.662" clipEnd="0:00:06.069"/>
+			</par>
+			<par id="hix00453">
+				<audio src="en-05181-0426.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.998"/>
+			</par>
+			<par id="hix00453_1">
+				<audio src="en-05181-0426.3gp" clipBegin="0:00:00.998" clipEnd="0:00:06.003"/>
+			</par>
+			<par id="hix00454">
+				<audio src="en-05181-0427.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.875"/>
+			</par>
+			<par id="hix00454_1">
+				<audio src="en-05181-0427.3gp" clipBegin="0:00:00.875" clipEnd="0:00:05.161"/>
+			</par>
+			<par id="hix00455">
+				<audio src="en-05181-0428.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.850"/>
+			</par>
+			<par id="hix00455_1">
+				<audio src="en-05181-0428.3gp" clipBegin="0:00:00.850" clipEnd="0:00:16.512"/>
+			</par>
+			<par id="hix00456">
+				<audio src="en-05181-0429.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.889"/>
+			</par>
+			<par id="hix00456_1">
+				<audio src="en-05181-0429.3gp" clipBegin="0:00:00.889" clipEnd="0:00:47.900"/>
+			</par>
+			<par id="hix00457">
+				<audio src="en-05181-0430.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.995"/>
+			</par>
+			<par id="hix00457_1">
+				<audio src="en-05181-0430.3gp" clipBegin="0:00:00.995" clipEnd="0:00:29.225"/>
+			</par>
+			<par id="hix00458">
+				<audio src="en-05181-0431.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.810"/>
+			</par>
+			<par id="hix00458_1">
+				<audio src="en-05181-0431.3gp" clipBegin="0:00:00.810" clipEnd="0:00:18.127"/>
+			</par>
+			<par id="hix00459">
+				<audio src="en-05181-0432.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.014"/>
+			</par>
+			<par id="hix00459_1">
+				<audio src="en-05181-0432.3gp" clipBegin="0:00:01.014" clipEnd="0:00:04.968"/>
+			</par>
+			<par id="hix00460">
+				<audio src="en-05181-0433.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.601"/>
+			</par>
+			<par id="hix00460_1">
+				<audio src="en-05181-0433.3gp" clipBegin="0:00:00.601" clipEnd="0:00:07.848"/>
+			</par>
+			<par id="hix00461">
+				<audio src="en-05181-0434.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.819"/>
+			</par>
+			<par id="hix00461_1">
+				<audio src="en-05181-0434.3gp" clipBegin="0:00:00.819" clipEnd="0:00:10.302"/>
+			</par>
+			<par id="hix00462">
+				<audio src="en-05181-0435.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.067"/>
+			</par>
+			<par id="hix00462_1">
+				<audio src="en-05181-0435.3gp" clipBegin="0:00:01.067" clipEnd="0:00:54.586"/>
+			</par>
+			<par id="hix00463">
+				<audio src="en-05181-0436.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.058"/>
+			</par>
+			<par id="hix00463_1">
+				<audio src="en-05181-0436.3gp" clipBegin="0:00:01.058" clipEnd="0:00:08.783"/>
+			</par>
+			<par id="hix00464">
+				<audio src="en-05181-0437.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.081"/>
+			</par>
+			<par id="hix00464_1">
+				<audio src="en-05181-0437.3gp" clipBegin="0:00:01.081" clipEnd="0:00:07.579"/>
+			</par>
+			<par id="hix00465">
+				<audio src="en-05181-0438.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.968"/>
+			</par>
+			<par id="hix00465_1">
+				<audio src="en-05181-0438.3gp" clipBegin="0:00:00.968" clipEnd="0:00:07.234"/>
+			</par>
+			<par id="hix00466">
+				<audio src="en-05181-0439.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.054"/>
+			</par>
+			<par id="hix00466_1">
+				<audio src="en-05181-0439.3gp" clipBegin="0:00:01.054" clipEnd="0:00:30.412"/>
+			</par>
+			<par id="hix00038">
+				<audio src="en-05181-0440.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.252"/>
+			</par>
+			<par id="hix00038_1">
+				<audio src="en-05181-0440.3gp" clipBegin="0:00:01.252" clipEnd="0:00:01.352"/>
+			</par>
+			<par id="hix00503">
+				<audio src="en-05181-0440.3gp" clipBegin="0:00:01.352" clipEnd="0:00:02.444"/>
+			</par>
+			<par id="hix00503_1">
+				<audio src="en-05181-0440.3gp" clipBegin="0:00:02.444" clipEnd="0:10:21.829"/>
+			</par>
+			<par id="hix00504">
+				<audio src="en-05181-0441.3gp" clipBegin="0:00:00.000" clipEnd="0:00:02.951"/>
+			</par>
+			<par id="hix00504_1">
+				<audio src="en-05181-0441.3gp" clipBegin="0:00:02.951" clipEnd="0:23:28.201"/>
+			</par>
+			<par id="hix00505">
+				<audio src="en-05181-0442.3gp" clipBegin="0:00:00.000" clipEnd="0:00:02.114"/>
+			</par>
+			<par id="hix00505_1">
+				<audio src="en-05181-0442.3gp" clipBegin="0:00:02.114" clipEnd="0:00:56.453"/>
+			</par>
+			<par id="hix00538">
+				<audio src="en-05181-0443.3gp" clipBegin="0:00:00.000" clipEnd="0:00:01.057"/>
+			</par>
+			<par id="hix00538_1">
+				<audio src="en-05181-0443.3gp" clipBegin="0:00:01.057" clipEnd="0:00:58.926"/>
+			</par>
+			<par id="hix00469">
+				<audio src="en-05181-0444.3gp" clipBegin="0:00:00.000" clipEnd="0:00:00.782"/>
+			</par>
+			<par id="hix00469_1">
+				<audio src="en-05181-0444.3gp" clipBegin="0:00:00.782" clipEnd="0:00:27.230"/>
+			</par>
+		</seq>
+	</body>
+</smil>

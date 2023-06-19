@@ -1,0 +1,3262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil v1.1.0//EN" "dtbsmil110.dtd">
+<smil>
+	<head>
+		<meta name="dtb:uid" content="us-JBI-EN-05181"/>
+		<meta name="dtb:totalElapsedTime" content="0:00:00.000"/>
+		<meta name="dtb:generator" content="LCM 1.0.0.1"/>
+		<customAttributes>
+			<customTest id="pagenum" defaultState="true" override="visible"/>
+		</customAttributes>
+	</head>
+	<body>
+		<seq id="baseseq">
+			<seq id="source_0">
+				<audio src="EN-05181ann.3gp" clipBegin="0:00:00.000" clipEnd="0:00:08.568"/>
+				<audio src="EC-05181-001.wav" clipBegin="0:00:03.550" clipEnd="0:00:24.209"/>
+			</seq>
+			<par id="P14_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:24.209" clipEnd="0:00:32.714"/>
+			</par>
+			<par id="source_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:32.714" clipEnd="0:00:50.451"/>
+			</par>
+			<par id="P30_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:50.451" clipEnd="0:00:51.576"/>
+			</par>
+			<par id="source_2">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:51.576" clipEnd="0:00:57.183"/>
+			</par>
+			<par id="P22_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:57.183" clipEnd="0:00:59.506"/>
+			</par>
+			<par id="source_3">
+				<audio src="EC-05181-001.wav" clipBegin="0:00:59.506" clipEnd="0:13:09.683"/>
+			</par>
+			<par id="P20_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:13:09.683" clipEnd="0:13:10.787"/>
+			</par>
+			<par id="source_4">
+				<audio src="EC-05181-001.wav" clipBegin="0:13:10.787" clipEnd="0:30:13.008"/>
+			</par>
+			<par id="P17_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:30:13.008" clipEnd="0:30:14.515"/>
+			</par>
+			<par id="source_5">
+				<audio src="EC-05181-001.wav" clipBegin="0:30:14.515" clipEnd="0:32:03.172"/>
+			</par>
+			<par id="P2_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:03.172" clipEnd="0:32:06.162"/>
+			</par>
+			<par id="source_6">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:06.162" clipEnd="0:32:06.249"/>
+			</par>
+			<par id="pagenum_1" customTest="pagenum">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:06.249" clipEnd="0:32:06.988"/>
+			</par>
+			<par id="source_7">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:06.988" clipEnd="0:32:07.067"/>
+			</par>
+			<par id="P3_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:07.067" clipEnd="0:32:11.595"/>
+			</par>
+			<par id="source_8">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:11.595" clipEnd="0:32:11.971"/>
+			</par>
+			<par id="P4_1">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:11.971" clipEnd="0:32:13.923"/>
+			</par>
+			<par id="source_9">
+				<audio src="EC-05181-001.wav" clipBegin="0:32:13.923" clipEnd="0:34:33.437"/>
+			</par>
+			<par id="pagenum_2" customTest="pagenum">
+				<audio src="EC-05181-001.wav" clipBegin="0:34:33.437" clipEnd="0:34:34.404"/>
+			</par>
+			<par id="source_10">
+				<audio src="EC-05181-001.wav" clipBegin="0:34:34.404" clipEnd="0:36:27.260"/>
+			</par>
+			<par id="P4_2">
+				<audio src="EC-05181-001.wav" clipBegin="0:36:27.260" clipEnd="0:36:29.705"/>
+			</par>
+			<par id="source_11">
+				<audio src="EC-05181-001.wav" clipBegin="0:36:29.705" clipEnd="0:37:40.962"/>
+			</par>
+			<par id="pagenum_3" customTest="pagenum">
+				<audio src="EC-05181-001.wav" clipBegin="0:37:40.962" clipEnd="0:37:41.737"/>
+			</par>
+			<par id="source_12">
+				<audio src="EC-05181-001.wav" clipBegin="0:37:41.737" clipEnd="0:40:55.517"/>
+			</par>
+			<par id="pagenum_4" customTest="pagenum">
+				<audio src="EC-05181-001.wav" clipBegin="0:40:55.517" clipEnd="0:40:56.313"/>
+			</par>
+			<par id="source_13">
+				<audio src="EC-05181-001.wav" clipBegin="0:40:56.313" clipEnd="0:44:29.613"/>
+			</par>
+			<par id="pagenum_5" customTest="pagenum">
+				<audio src="EC-05181-001.wav" clipBegin="0:44:29.613" clipEnd="0:44:30.447"/>
+			</par>
+			<seq id="source_14">
+				<audio src="EC-05181-001.wav" clipBegin="0:44:30.447" clipEnd="0:45:11.198"/>
+				<audio src="EC-05181-001.wav" clipBegin="0:45:14.114" clipEnd="0:45:14.174"/>
+				<audio src="EC-05181-002.wav" clipBegin="0:00:10.522" clipEnd="0:02:26.269"/>
+			</seq>
+			<par id="pagenum_6" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:02:26.269" clipEnd="0:02:27.037"/>
+			</par>
+			<par id="source_15">
+				<audio src="EC-05181-002.wav" clipBegin="0:02:27.037" clipEnd="0:05:24.857"/>
+			</par>
+			<par id="pagenum_7" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:05:24.857" clipEnd="0:05:25.881"/>
+			</par>
+			<par id="source_16">
+				<audio src="EC-05181-002.wav" clipBegin="0:05:25.881" clipEnd="0:08:31.330"/>
+			</par>
+			<par id="pagenum_8" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:08:31.330" clipEnd="0:08:32.112"/>
+			</par>
+			<par id="source_17">
+				<audio src="EC-05181-002.wav" clipBegin="0:08:32.112" clipEnd="0:11:12.287"/>
+			</par>
+			<par id="P4_3">
+				<audio src="EC-05181-002.wav" clipBegin="0:11:12.287" clipEnd="0:11:15.129"/>
+			</par>
+			<par id="source_18">
+				<audio src="EC-05181-002.wav" clipBegin="0:11:15.129" clipEnd="0:11:35.120"/>
+			</par>
+			<par id="pagenum_9" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:11:35.120" clipEnd="0:11:35.825"/>
+			</par>
+			<par id="source_19">
+				<audio src="EC-05181-002.wav" clipBegin="0:11:35.825" clipEnd="0:14:01.134"/>
+			</par>
+			<par id="P4_4">
+				<audio src="EC-05181-002.wav" clipBegin="0:14:01.134" clipEnd="0:14:02.982"/>
+			</par>
+			<par id="source_20">
+				<audio src="EC-05181-002.wav" clipBegin="0:14:02.982" clipEnd="0:14:22.280"/>
+			</par>
+			<par id="pagenum_10" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:14:22.280" clipEnd="0:14:23.104"/>
+			</par>
+			<par id="source_21">
+				<audio src="EC-05181-002.wav" clipBegin="0:14:23.104" clipEnd="0:17:41.448"/>
+			</par>
+			<par id="pagenum_11" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:17:41.448" clipEnd="0:17:42.412"/>
+			</par>
+			<par id="source_22">
+				<audio src="EC-05181-002.wav" clipBegin="0:17:42.412" clipEnd="0:18:20.562"/>
+			</par>
+			<par id="P4_5">
+				<audio src="EC-05181-002.wav" clipBegin="0:18:20.562" clipEnd="0:18:21.723"/>
+			</par>
+			<par id="source_23">
+				<audio src="EC-05181-002.wav" clipBegin="0:18:21.723" clipEnd="0:20:39.183"/>
+			</par>
+			<par id="pagenum_12" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:20:39.183" clipEnd="0:20:40.204"/>
+			</par>
+			<par id="source_24">
+				<audio src="EC-05181-002.wav" clipBegin="0:20:40.204" clipEnd="0:23:31.447"/>
+			</par>
+			<par id="pagenum_13" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:23:31.447" clipEnd="0:23:32.294"/>
+			</par>
+			<par id="source_25">
+				<audio src="EC-05181-002.wav" clipBegin="0:23:32.294" clipEnd="0:26:42.902"/>
+			</par>
+			<par id="pagenum_14" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:26:42.902" clipEnd="0:26:43.900"/>
+			</par>
+			<par id="source_26">
+				<audio src="EC-05181-002.wav" clipBegin="0:26:43.900" clipEnd="0:29:54.721"/>
+			</par>
+			<par id="pagenum_15" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:29:54.721" clipEnd="0:29:55.966"/>
+			</par>
+			<par id="source_27">
+				<audio src="EC-05181-002.wav" clipBegin="0:29:55.966" clipEnd="0:31:50.004"/>
+			</par>
+			<par id="P4_6">
+				<audio src="EC-05181-002.wav" clipBegin="0:31:50.004" clipEnd="0:31:52.373"/>
+			</par>
+			<par id="source_28">
+				<audio src="EC-05181-002.wav" clipBegin="0:31:52.373" clipEnd="0:32:37.816"/>
+			</par>
+			<par id="pagenum_16" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:32:37.816" clipEnd="0:32:38.831"/>
+			</par>
+			<par id="source_29">
+				<audio src="EC-05181-002.wav" clipBegin="0:32:38.831" clipEnd="0:35:39.667"/>
+			</par>
+			<par id="pagenum_17" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:35:39.667" clipEnd="0:35:40.676"/>
+			</par>
+			<par id="source_30">
+				<audio src="EC-05181-002.wav" clipBegin="0:35:40.676" clipEnd="0:38:52.337"/>
+			</par>
+			<par id="pagenum_18" customTest="pagenum">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:52.337" clipEnd="0:38:53.451"/>
+			</par>
+			<par id="source_31">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:53.451" clipEnd="0:38:53.494"/>
+			</par>
+			<par id="P3_2">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:53.494" clipEnd="0:38:56.437"/>
+			</par>
+			<par id="source_32">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:56.437" clipEnd="0:38:56.662"/>
+			</par>
+			<par id="P4_7">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:56.662" clipEnd="0:38:58.460"/>
+			</par>
+			<seq id="source_33">
+				<audio src="EC-05181-002.wav" clipBegin="0:38:58.460" clipEnd="0:45:09.417"/>
+				<audio src="EC-05181-002.wav" clipBegin="0:45:11.774" clipEnd="0:45:11.823"/>
+				<audio src="EC-05181-003.wav" clipBegin="0:00:07.395" clipEnd="0:45:06.782"/>
+				<audio src="EC-05181-004.wav" clipBegin="0:00:07.224" clipEnd="0:02:32.328"/>
+			</seq>
+			<par id="P2_2">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:32.328" clipEnd="0:02:37.656"/>
+			</par>
+			<par id="source_34">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:37.656" clipEnd="0:02:37.781"/>
+			</par>
+			<par id="pagenum_19" customTest="pagenum">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:37.781" clipEnd="0:02:39.025"/>
+			</par>
+			<par id="P3_3">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:39.025" clipEnd="0:02:46.338"/>
+			</par>
+			<par id="source_35">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:46.338" clipEnd="0:02:46.629"/>
+			</par>
+			<par id="P4_8">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:46.629" clipEnd="0:02:48.737"/>
+			</par>
+			<par id="source_36">
+				<audio src="EC-05181-004.wav" clipBegin="0:02:48.737" clipEnd="0:06:06.472"/>
+			</par>
+			<par id="P4_9">
+				<audio src="EC-05181-004.wav" clipBegin="0:06:06.472" clipEnd="0:06:07.190"/>
+			</par>
+			<par id="source_37">
+				<audio src="EC-05181-004.wav" clipBegin="0:06:07.190" clipEnd="0:09:23.030"/>
+			</par>
+			<par id="P4_10">
+				<audio src="EC-05181-004.wav" clipBegin="0:09:23.030" clipEnd="0:09:26.277"/>
+			</par>
+			<par id="source_38">
+				<audio src="EC-05181-004.wav" clipBegin="0:09:26.277" clipEnd="0:17:08.968"/>
+			</par>
+			<par id="P4_11">
+				<audio src="EC-05181-004.wav" clipBegin="0:17:08.968" clipEnd="0:17:12.707"/>
+			</par>
+			<par id="source_39">
+				<audio src="EC-05181-004.wav" clipBegin="0:17:12.707" clipEnd="0:25:55.827"/>
+			</par>
+			<par id="P4_12">
+				<audio src="EC-05181-004.wav" clipBegin="0:25:55.827" clipEnd="0:25:58.627"/>
+			</par>
+			<par id="source_40">
+				<audio src="EC-05181-004.wav" clipBegin="0:25:58.627" clipEnd="0:43:50.421"/>
+			</par>
+			<par id="P4_13">
+				<audio src="EC-05181-004.wav" clipBegin="0:43:50.421" clipEnd="0:43:52.107"/>
+			</par>
+			<seq id="source_41">
+				<audio src="EC-05181-004.wav" clipBegin="0:43:52.107" clipEnd="0:45:10.528"/>
+				<audio src="EC-05181-004.wav" clipBegin="0:45:12.823" clipEnd="0:45:12.868"/>
+				<audio src="EC-05181-005.wav" clipBegin="0:00:07.961" clipEnd="0:02:23.288"/>
+			</seq>
+			<par id="P4_14">
+				<audio src="EC-05181-005.wav" clipBegin="0:02:23.288" clipEnd="0:02:26.020"/>
+			</par>
+			<par id="source_42">
+				<audio src="EC-05181-005.wav" clipBegin="0:02:26.020" clipEnd="0:09:55.480"/>
+			</par>
+			<par id="P4_15">
+				<audio src="EC-05181-005.wav" clipBegin="0:09:55.480" clipEnd="0:09:57.616"/>
+			</par>
+			<par id="source_43">
+				<audio src="EC-05181-005.wav" clipBegin="0:09:57.616" clipEnd="0:15:33.497"/>
+			</par>
+			<par id="P4_16">
+				<audio src="EC-05181-005.wav" clipBegin="0:15:33.497" clipEnd="0:15:36.039"/>
+			</par>
+			<par id="source_44">
+				<audio src="EC-05181-005.wav" clipBegin="0:15:36.039" clipEnd="0:18:40.315"/>
+			</par>
+			<par id="P4_17">
+				<audio src="EC-05181-005.wav" clipBegin="0:18:40.315" clipEnd="0:18:42.648"/>
+			</par>
+			<par id="source_45">
+				<audio src="EC-05181-005.wav" clipBegin="0:18:42.648" clipEnd="0:22:47.502"/>
+			</par>
+			<par id="pagenum_20" customTest="pagenum">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:47.502" clipEnd="0:22:48.803"/>
+			</par>
+			<par id="source_46">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:48.803" clipEnd="0:22:49.577"/>
+			</par>
+			<par id="P3_4">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:49.577" clipEnd="0:22:52.684"/>
+			</par>
+			<par id="source_47">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:52.684" clipEnd="0:22:52.799"/>
+			</par>
+			<par id="P4_18">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:52.799" clipEnd="0:22:56.595"/>
+			</par>
+			<par id="source_48">
+				<audio src="EC-05181-005.wav" clipBegin="0:22:56.595" clipEnd="0:30:51.894"/>
+			</par>
+			<par id="P4_19">
+				<audio src="EC-05181-005.wav" clipBegin="0:30:51.894" clipEnd="0:30:54.181"/>
+			</par>
+			<par id="source_49">
+				<audio src="EC-05181-005.wav" clipBegin="0:30:54.181" clipEnd="0:33:26.397"/>
+			</par>
+			<par id="P4_20">
+				<audio src="EC-05181-005.wav" clipBegin="0:33:26.397" clipEnd="0:33:28.580"/>
+			</par>
+			<par id="source_50">
+				<audio src="EC-05181-005.wav" clipBegin="0:33:28.580" clipEnd="0:38:10.722"/>
+			</par>
+			<par id="P4_21">
+				<audio src="EC-05181-005.wav" clipBegin="0:38:10.722" clipEnd="0:38:14.467"/>
+			</par>
+			<par id="source_51">
+				<audio src="EC-05181-005.wav" clipBegin="0:38:14.467" clipEnd="0:41:20.468"/>
+			</par>
+			<par id="P4_22">
+				<audio src="EC-05181-005.wav" clipBegin="0:41:20.468" clipEnd="0:41:23.644"/>
+			</par>
+			<seq id="source_52">
+				<audio src="EC-05181-005.wav" clipBegin="0:41:23.644" clipEnd="0:44:51.746"/>
+				<audio src="EC-05181-005.wav" clipBegin="0:44:55.081" clipEnd="0:44:55.131"/>
+				<audio src="EC-05181-006.wav" clipBegin="0:00:08.030" clipEnd="0:04:53.282"/>
+			</seq>
+			<par id="P4_23">
+				<audio src="EC-05181-006.wav" clipBegin="0:04:53.282" clipEnd="0:04:56.210"/>
+			</par>
+			<par id="source_53">
+				<audio src="EC-05181-006.wav" clipBegin="0:04:56.210" clipEnd="0:09:30.558"/>
+			</par>
+			<par id="P4_24">
+				<audio src="EC-05181-006.wav" clipBegin="0:09:30.558" clipEnd="0:09:33.147"/>
+			</par>
+			<par id="source_54">
+				<audio src="EC-05181-006.wav" clipBegin="0:09:33.147" clipEnd="0:17:14.085"/>
+			</par>
+			<par id="P4_25">
+				<audio src="EC-05181-006.wav" clipBegin="0:17:14.085" clipEnd="0:17:14.896"/>
+			</par>
+			<par id="source_55">
+				<audio src="EC-05181-006.wav" clipBegin="0:17:14.896" clipEnd="0:27:02.106"/>
+			</par>
+			<par id="pagenum_21" customTest="pagenum">
+				<audio src="EC-05181-006.wav" clipBegin="0:27:02.106" clipEnd="0:27:03.176"/>
+			</par>
+			<par id="source_56">
+				<audio src="EC-05181-006.wav" clipBegin="0:27:03.176" clipEnd="0:27:03.614"/>
+			</par>
+			<par id="P4_26">
+				<audio src="EC-05181-006.wav" clipBegin="0:27:03.614" clipEnd="0:27:05.132"/>
+			</par>
+			<par id="source_57">
+				<audio src="EC-05181-006.wav" clipBegin="0:27:05.132" clipEnd="0:31:10.618"/>
+			</par>
+			<par id="pagenum_22" customTest="pagenum">
+				<audio src="EC-05181-006.wav" clipBegin="0:31:10.618" clipEnd="0:31:11.809"/>
+			</par>
+			<par id="P3_5">
+				<audio src="EC-05181-006.wav" clipBegin="0:31:11.831" clipEnd="0:31:14.291"/>
+			</par>
+			<par id="source_58">
+				<audio src="EC-05181-006.wav" clipBegin="0:31:14.291" clipEnd="0:31:14.539"/>
+			</par>
+			<par id="P4_27">
+				<audio src="EC-05181-006.wav" clipBegin="0:31:14.539" clipEnd="0:31:17.231"/>
+			</par>
+			<par id="source_59">
+				<audio src="EC-05181-006.wav" clipBegin="0:31:17.231" clipEnd="0:35:58.565"/>
+			</par>
+			<par id="P4_28">
+				<audio src="EC-05181-006.wav" clipBegin="0:35:58.565" clipEnd="0:36:01.121"/>
+			</par>
+			<seq id="source_60">
+				<audio src="EC-05181-006.wav" clipBegin="0:36:01.121" clipEnd="0:44:50.998"/>
+				<audio src="EC-05181-006.wav" clipBegin="0:44:53.342" clipEnd="0:44:53.407"/>
+				<audio src="EC-05181-007.wav" clipBegin="0:00:09.280" clipEnd="0:03:06.004"/>
+			</seq>
+			<par id="P4_29">
+				<audio src="EC-05181-007.wav" clipBegin="0:03:06.004" clipEnd="0:03:07.959"/>
+			</par>
+			<par id="source_61">
+				<audio src="EC-05181-007.wav" clipBegin="0:03:07.959" clipEnd="0:07:00.973"/>
+			</par>
+			<par id="P4_30">
+				<audio src="EC-05181-007.wav" clipBegin="0:07:00.973" clipEnd="0:07:02.838"/>
+			</par>
+			<par id="source_62">
+				<audio src="EC-05181-007.wav" clipBegin="0:07:02.838" clipEnd="0:11:28.329"/>
+			</par>
+			<par id="pagenum_23" customTest="pagenum">
+				<audio src="EC-05181-007.wav" clipBegin="0:11:28.329" clipEnd="0:11:29.256"/>
+			</par>
+			<par id="source_63">
+				<audio src="EC-05181-007.wav" clipBegin="0:11:29.256" clipEnd="0:15:28.553"/>
+			</par>
+			<par id="P4_31">
+				<audio src="EC-05181-007.wav" clipBegin="0:15:28.553" clipEnd="0:15:33.265"/>
+			</par>
+			<par id="source_64">
+				<audio src="EC-05181-007.wav" clipBegin="0:15:33.265" clipEnd="0:18:42.736"/>
+			</par>
+			<par id="P4_32">
+				<audio src="EC-05181-007.wav" clipBegin="0:18:42.736" clipEnd="0:18:46.803"/>
+			</par>
+			<par id="source_65">
+				<audio src="EC-05181-007.wav" clipBegin="0:18:46.803" clipEnd="0:33:14.666"/>
+			</par>
+			<par id="pagenum_24" customTest="pagenum">
+				<audio src="EC-05181-007.wav" clipBegin="0:33:14.666" clipEnd="0:33:15.865"/>
+			</par>
+			<par id="source_66">
+				<audio src="EC-05181-007.wav" clipBegin="0:33:15.865" clipEnd="0:33:16.243"/>
+			</par>
+			<par id="P4_33">
+				<audio src="EC-05181-007.wav" clipBegin="0:33:16.243" clipEnd="0:33:19.840"/>
+			</par>
+			<par id="source_67">
+				<audio src="EC-05181-007.wav" clipBegin="0:33:19.840" clipEnd="0:40:44.719"/>
+			</par>
+			<par id="P4_34">
+				<audio src="EC-05181-007.wav" clipBegin="0:40:44.719" clipEnd="0:40:48.594"/>
+			</par>
+			<seq id="source_68">
+				<audio src="EC-05181-007.wav" clipBegin="0:40:48.594" clipEnd="0:44:57.719"/>
+				<audio src="EC-05181-007.wav" clipBegin="0:45:02.141" clipEnd="0:45:02.184"/>
+				<audio src="EC-05181-008.wav" clipBegin="0:00:08.777" clipEnd="0:01:06.239"/>
+			</seq>
+			<par id="pagenum_25" customTest="pagenum">
+				<audio src="EC-05181-008.wav" clipBegin="0:01:06.239" clipEnd="0:01:07.335"/>
+			</par>
+			<par id="source_69">
+				<audio src="EC-05181-008.wav" clipBegin="0:01:07.335" clipEnd="0:04:03.341"/>
+			</par>
+			<par id="P4_35">
+				<audio src="EC-05181-008.wav" clipBegin="0:04:03.341" clipEnd="0:04:08.085"/>
+			</par>
+			<par id="source_70">
+				<audio src="EC-05181-008.wav" clipBegin="0:04:08.085" clipEnd="0:17:43.951"/>
+			</par>
+			<par id="P4_36">
+				<audio src="EC-05181-008.wav" clipBegin="0:17:43.951" clipEnd="0:17:47.921"/>
+			</par>
+			<par id="source_71">
+				<audio src="EC-05181-008.wav" clipBegin="0:17:47.921" clipEnd="0:20:42.388"/>
+			</par>
+			<par id="P4_37">
+				<audio src="EC-05181-008.wav" clipBegin="0:20:42.388" clipEnd="0:20:47.625"/>
+			</par>
+			<par id="source_72">
+				<audio src="EC-05181-008.wav" clipBegin="0:20:47.625" clipEnd="0:35:14.655"/>
+			</par>
+			<par id="P4_38">
+				<audio src="EC-05181-008.wav" clipBegin="0:35:14.655" clipEnd="0:35:18.254"/>
+			</par>
+			<seq id="source_73">
+				<audio src="EC-05181-008.wav" clipBegin="0:35:18.254" clipEnd="0:44:35.938"/>
+				<audio src="EC-05181-008.wav" clipBegin="0:44:38.793" clipEnd="0:44:38.857"/>
+				<audio src="EC-05181-009.wav" clipBegin="0:00:07.402" clipEnd="0:00:57.023"/>
+			</seq>
+			<par id="pagenum_26" customTest="pagenum">
+				<audio src="EC-05181-009.wav" clipBegin="0:00:57.023" clipEnd="0:00:58.272"/>
+			</par>
+			<par id="source_74">
+				<audio src="EC-05181-009.wav" clipBegin="0:00:58.272" clipEnd="0:07:35.293"/>
+			</par>
+			<par id="pagenum_27" customTest="pagenum">
+				<audio src="EC-05181-009.wav" clipBegin="0:07:35.293" clipEnd="0:07:36.887"/>
+			</par>
+			<par id="P3_6">
+				<audio src="EC-05181-009.wav" clipBegin="0:07:36.925" clipEnd="0:07:40.508"/>
+			</par>
+			<par id="source_75">
+				<audio src="EC-05181-009.wav" clipBegin="0:07:40.508" clipEnd="0:08:37.464"/>
+			</par>
+			<par id="P4_39">
+				<audio src="EC-05181-009.wav" clipBegin="0:08:37.464" clipEnd="0:08:40.052"/>
+			</par>
+			<par id="source_76">
+				<audio src="EC-05181-009.wav" clipBegin="0:08:40.052" clipEnd="0:11:56.402"/>
+			</par>
+			<par id="P4_40">
+				<audio src="EC-05181-009.wav" clipBegin="0:11:56.402" clipEnd="0:11:58.902"/>
+			</par>
+			<par id="source_77">
+				<audio src="EC-05181-009.wav" clipBegin="0:11:58.902" clipEnd="0:20:06.892"/>
+			</par>
+			<par id="P4_41">
+				<audio src="EC-05181-009.wav" clipBegin="0:20:06.892" clipEnd="0:20:08.813"/>
+			</par>
+			<par id="source_78">
+				<audio src="EC-05181-009.wav" clipBegin="0:20:08.813" clipEnd="0:23:02.370"/>
+			</par>
+			<par id="P4_42">
+				<audio src="EC-05181-009.wav" clipBegin="0:23:02.370" clipEnd="0:23:06.142"/>
+			</par>
+			<par id="source_79">
+				<audio src="EC-05181-009.wav" clipBegin="0:23:06.142" clipEnd="0:30:54.109"/>
+			</par>
+			<par id="P4_43">
+				<audio src="EC-05181-009.wav" clipBegin="0:30:54.109" clipEnd="0:30:56.637"/>
+			</par>
+			<par id="source_80">
+				<audio src="EC-05181-009.wav" clipBegin="0:30:56.637" clipEnd="0:33:52.737"/>
+			</par>
+			<par id="P4_44">
+				<audio src="EC-05181-009.wav" clipBegin="0:33:52.737" clipEnd="0:33:53.672"/>
+			</par>
+			<par id="source_81">
+				<audio src="EC-05181-009.wav" clipBegin="0:33:53.672" clipEnd="0:37:59.990"/>
+			</par>
+			<par id="P4_45">
+				<audio src="EC-05181-009.wav" clipBegin="0:37:59.990" clipEnd="0:38:03.407"/>
+			</par>
+			<seq id="source_82">
+				<audio src="EC-05181-009.wav" clipBegin="0:38:03.407" clipEnd="0:44:57.443"/>
+				<audio src="EC-05181-009.wav" clipBegin="0:45:00.531" clipEnd="0:45:00.591"/>
+				<audio src="EC-05181-010.wav" clipBegin="0:00:08.467" clipEnd="0:22:18.567"/>
+			</seq>
+			<par id="P4_46">
+				<audio src="EC-05181-010.wav" clipBegin="0:22:18.567" clipEnd="0:22:21.216"/>
+			</par>
+			<par id="source_83">
+				<audio src="EC-05181-010.wav" clipBegin="0:22:21.216" clipEnd="0:28:57.773"/>
+			</par>
+			<par id="P4_47">
+				<audio src="EC-05181-010.wav" clipBegin="0:28:57.773" clipEnd="0:29:00.631"/>
+			</par>
+			<par id="source_84">
+				<audio src="EC-05181-010.wav" clipBegin="0:29:00.631" clipEnd="0:31:45.132"/>
+			</par>
+			<par id="P4_48">
+				<audio src="EC-05181-010.wav" clipBegin="0:31:45.132" clipEnd="0:31:48.447"/>
+			</par>
+			<par id="source_85">
+				<audio src="EC-05181-010.wav" clipBegin="0:31:48.447" clipEnd="0:38:42.695"/>
+			</par>
+			<par id="P4_49">
+				<audio src="EC-05181-010.wav" clipBegin="0:38:42.695" clipEnd="0:38:46.441"/>
+			</par>
+			<par id="source_86">
+				<audio src="EC-05181-010.wav" clipBegin="0:38:46.441" clipEnd="0:44:46.960"/>
+			</par>
+			<par id="pagenum_28" customTest="pagenum">
+				<audio src="EC-05181-010.wav" clipBegin="0:44:46.960" clipEnd="0:44:48.373"/>
+			</par>
+			<seq id="source_87">
+				<audio src="EC-05181-010.wav" clipBegin="0:44:48.373" clipEnd="0:44:48.834"/>
+				<audio src="EC-05181-010.wav" clipBegin="0:44:51.255" clipEnd="0:44:51.317"/>
+				<audio src="EC-05181-011.wav" clipBegin="0:00:08.667" clipEnd="0:03:20.724"/>
+			</seq>
+			<par id="P4_50">
+				<audio src="EC-05181-011.wav" clipBegin="0:03:20.724" clipEnd="0:03:22.772"/>
+			</par>
+			<par id="source_88">
+				<audio src="EC-05181-011.wav" clipBegin="0:03:22.772" clipEnd="0:07:02.871"/>
+			</par>
+			<par id="P4_51">
+				<audio src="EC-05181-011.wav" clipBegin="0:07:02.871" clipEnd="0:07:06.138"/>
+			</par>
+			<par id="source_89">
+				<audio src="EC-05181-011.wav" clipBegin="0:07:06.138" clipEnd="0:10:54.391"/>
+			</par>
+			<par id="P4_52">
+				<audio src="EC-05181-011.wav" clipBegin="0:10:54.391" clipEnd="0:10:57.077"/>
+			</par>
+			<par id="source_90">
+				<audio src="EC-05181-011.wav" clipBegin="0:10:57.077" clipEnd="0:14:08.896"/>
+			</par>
+			<par id="P4_53">
+				<audio src="EC-05181-011.wav" clipBegin="0:14:08.896" clipEnd="0:14:10.842"/>
+			</par>
+			<par id="source_91">
+				<audio src="EC-05181-011.wav" clipBegin="0:14:10.842" clipEnd="0:19:00.149"/>
+			</par>
+			<par id="P4_54">
+				<audio src="EC-05181-011.wav" clipBegin="0:19:00.149" clipEnd="0:19:03.542"/>
+			</par>
+			<par id="source_92">
+				<audio src="EC-05181-011.wav" clipBegin="0:19:03.542" clipEnd="0:20:08.689"/>
+			</par>
+			<par id="pagenum_29" customTest="pagenum">
+				<audio src="EC-05181-011.wav" clipBegin="0:20:08.689" clipEnd="0:20:09.812"/>
+			</par>
+			<par id="P4_55">
+				<audio src="EC-05181-011.wav" clipBegin="0:20:09.841" clipEnd="0:20:10.656"/>
+			</par>
+			<par id="source_93">
+				<audio src="EC-05181-011.wav" clipBegin="0:20:10.656" clipEnd="0:30:38.027"/>
+			</par>
+			<par id="P4_56">
+				<audio src="EC-05181-011.wav" clipBegin="0:30:38.027" clipEnd="0:30:40.065"/>
+			</par>
+			<seq id="source_94">
+				<audio src="EC-05181-011.wav" clipBegin="0:30:40.065" clipEnd="0:45:00.564"/>
+				<audio src="EC-05181-011.wav" clipBegin="0:45:02.752" clipEnd="0:45:02.811"/>
+				<audio src="EC-05181-012.wav" clipBegin="0:00:08.579" clipEnd="0:02:37.465"/>
+			</seq>
+			<par id="P2_3">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:37.465" clipEnd="0:02:41.227"/>
+			</par>
+			<par id="source_95">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:41.227" clipEnd="0:02:43.120"/>
+			</par>
+			<par id="pagenum_30" customTest="pagenum">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:43.120" clipEnd="0:02:44.423"/>
+			</par>
+			<par id="P3_7">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:44.423" clipEnd="0:02:51.864"/>
+			</par>
+			<par id="source_96">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:51.864" clipEnd="0:02:52.162"/>
+			</par>
+			<par id="P4_57">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:52.162" clipEnd="0:02:54.307"/>
+			</par>
+			<par id="source_97">
+				<audio src="EC-05181-012.wav" clipBegin="0:02:54.307" clipEnd="0:07:55.550"/>
+			</par>
+			<par id="P4_58">
+				<audio src="EC-05181-012.wav" clipBegin="0:07:55.550" clipEnd="0:07:58.496"/>
+			</par>
+			<par id="source_98">
+				<audio src="EC-05181-012.wav" clipBegin="0:07:58.496" clipEnd="0:10:49.086"/>
+			</par>
+			<par id="P4_59">
+				<audio src="EC-05181-012.wav" clipBegin="0:10:49.086" clipEnd="0:10:51.539"/>
+			</par>
+			<par id="source_99">
+				<audio src="EC-05181-012.wav" clipBegin="0:10:51.539" clipEnd="0:13:59.192"/>
+			</par>
+			<par id="P4_60">
+				<audio src="EC-05181-012.wav" clipBegin="0:13:59.192" clipEnd="0:14:01.847"/>
+			</par>
+			<par id="source_100">
+				<audio src="EC-05181-012.wav" clipBegin="0:14:01.847" clipEnd="0:24:36.281"/>
+			</par>
+			<par id="P4_61">
+				<audio src="EC-05181-012.wav" clipBegin="0:24:36.281" clipEnd="0:24:38.497"/>
+			</par>
+			<par id="source_101">
+				<audio src="EC-05181-012.wav" clipBegin="0:24:38.497" clipEnd="0:27:56.221"/>
+			</par>
+			<par id="P4_62">
+				<audio src="EC-05181-012.wav" clipBegin="0:27:56.221" clipEnd="0:28:05.751"/>
+			</par>
+			<par id="source_102">
+				<audio src="EC-05181-012.wav" clipBegin="0:28:05.751" clipEnd="0:29:13.755"/>
+			</par>
+			<par id="P4_63">
+				<audio src="EC-05181-012.wav" clipBegin="0:29:13.755" clipEnd="0:29:16.050"/>
+			</par>
+			<par id="source_103">
+				<audio src="EC-05181-012.wav" clipBegin="0:29:16.050" clipEnd="0:35:21.352"/>
+			</par>
+			<par id="P4_64">
+				<audio src="EC-05181-012.wav" clipBegin="0:35:21.352" clipEnd="0:35:24.765"/>
+			</par>
+			<par id="source_104">
+				<audio src="EC-05181-012.wav" clipBegin="0:35:24.765" clipEnd="0:38:49.437"/>
+			</par>
+			<par id="P4_65">
+				<audio src="EC-05181-012.wav" clipBegin="0:38:49.437" clipEnd="0:38:53.354"/>
+			</par>
+			<par id="source_105">
+				<audio src="EC-05181-012.wav" clipBegin="0:38:53.354" clipEnd="0:45:00.026"/>
+			</par>
+			<par id="P4_66">
+				<audio src="EC-05181-012.wav" clipBegin="0:45:00.026" clipEnd="0:45:02.485"/>
+			</par>
+			<seq id="source_106">
+				<audio src="EC-05181-012.wav" clipBegin="0:45:05.936" clipEnd="0:45:05.998"/>
+				<audio src="EC-05181-013.wav" clipBegin="0:00:08.602" clipEnd="0:00:55.413"/>
+			</seq>
+			<par id="pagenum_31" customTest="pagenum">
+				<audio src="EC-05181-013.wav" clipBegin="0:00:55.413" clipEnd="0:00:56.627"/>
+			</par>
+			<par id="source_107">
+				<audio src="EC-05181-013.wav" clipBegin="0:00:56.627" clipEnd="0:14:55.181"/>
+			</par>
+			<par id="P4_67">
+				<audio src="EC-05181-013.wav" clipBegin="0:14:55.181" clipEnd="0:14:56.615"/>
+			</par>
+			<par id="source_108">
+				<audio src="EC-05181-013.wav" clipBegin="0:14:56.615" clipEnd="0:21:42.948"/>
+			</par>
+			<par id="P4_68">
+				<audio src="EC-05181-013.wav" clipBegin="0:21:42.948" clipEnd="0:21:45.747"/>
+			</par>
+			<par id="source_109">
+				<audio src="EC-05181-013.wav" clipBegin="0:21:45.747" clipEnd="0:28:20.138"/>
+			</par>
+			<par id="P4_69">
+				<audio src="EC-05181-013.wav" clipBegin="0:28:20.138" clipEnd="0:28:24.680"/>
+			</par>
+			<par id="source_110">
+				<audio src="EC-05181-013.wav" clipBegin="0:28:24.680" clipEnd="0:32:00.492"/>
+			</par>
+			<par id="P4_70">
+				<audio src="EC-05181-013.wav" clipBegin="0:32:00.492" clipEnd="0:32:02.454"/>
+			</par>
+			<par id="source_111">
+				<audio src="EC-05181-013.wav" clipBegin="0:32:02.454" clipEnd="0:40:58.122"/>
+			</par>
+			<par id="P4_71">
+				<audio src="EC-05181-013.wav" clipBegin="0:40:58.122" clipEnd="0:41:02.708"/>
+			</par>
+			<seq id="source_112">
+				<audio src="EC-05181-013.wav" clipBegin="0:41:02.708" clipEnd="0:45:05.056"/>
+				<audio src="EC-05181-013.wav" clipBegin="0:45:07.770" clipEnd="0:45:07.826"/>
+				<audio src="EC-05181-014.wav" clipBegin="0:00:08.808" clipEnd="0:16:57.670"/>
+			</seq>
+			<par id="pagenum_32" customTest="pagenum">
+				<audio src="EC-05181-014.wav" clipBegin="0:16:57.670" clipEnd="0:16:58.814"/>
+			</par>
+			<par id="source_113">
+				<audio src="EC-05181-014.wav" clipBegin="0:16:58.814" clipEnd="0:16:58.937"/>
+			</par>
+			<par id="P4_72">
+				<audio src="EC-05181-014.wav" clipBegin="0:16:58.937" clipEnd="0:17:00.257"/>
+			</par>
+			<par id="source_114">
+				<audio src="EC-05181-014.wav" clipBegin="0:17:00.257" clipEnd="0:20:46.315"/>
+			</par>
+			<par id="pagenum_33" customTest="pagenum">
+				<audio src="EC-05181-014.wav" clipBegin="0:20:46.315" clipEnd="0:20:47.810"/>
+			</par>
+			<par id="P3_8">
+				<audio src="EC-05181-014.wav" clipBegin="0:20:47.833" clipEnd="0:20:52.826"/>
+			</par>
+			<par id="source_115">
+				<audio src="EC-05181-014.wav" clipBegin="0:20:52.826" clipEnd="0:20:53.135"/>
+			</par>
+			<par id="P4_73">
+				<audio src="EC-05181-014.wav" clipBegin="0:20:53.135" clipEnd="0:20:56.469"/>
+			</par>
+			<par id="source_116">
+				<audio src="EC-05181-014.wav" clipBegin="0:20:56.469" clipEnd="0:28:21.061"/>
+			</par>
+			<par id="P4_74">
+				<audio src="EC-05181-014.wav" clipBegin="0:28:21.061" clipEnd="0:28:22.253"/>
+			</par>
+			<par id="source_117">
+				<audio src="EC-05181-014.wav" clipBegin="0:28:22.253" clipEnd="0:31:55.060"/>
+			</par>
+			<par id="P4_75">
+				<audio src="EC-05181-014.wav" clipBegin="0:31:55.060" clipEnd="0:31:56.296"/>
+			</par>
+			<par id="source_118">
+				<audio src="EC-05181-014.wav" clipBegin="0:31:56.296" clipEnd="0:34:10.780"/>
+			</par>
+			<par id="P4_76">
+				<audio src="EC-05181-014.wav" clipBegin="0:34:10.780" clipEnd="0:34:12.434"/>
+			</par>
+			<par id="source_119">
+				<audio src="EC-05181-014.wav" clipBegin="0:34:12.434" clipEnd="0:38:38.980"/>
+			</par>
+			<par id="P4_77">
+				<audio src="EC-05181-014.wav" clipBegin="0:38:38.980" clipEnd="0:38:41.115"/>
+			</par>
+			<par id="source_120">
+				<audio src="EC-05181-014.wav" clipBegin="0:38:41.115" clipEnd="0:40:38.190"/>
+			</par>
+			<par id="P4_78">
+				<audio src="EC-05181-014.wav" clipBegin="0:40:38.190" clipEnd="0:40:41.411"/>
+			</par>
+			<seq id="source_121">
+				<audio src="EC-05181-014.wav" clipBegin="0:40:41.411" clipEnd="0:45:03.064"/>
+				<audio src="EC-05181-014.wav" clipBegin="0:45:05.430" clipEnd="0:45:05.475"/>
+				<audio src="EC-05181-015.wav" clipBegin="0:00:08.983" clipEnd="0:03:00.776"/>
+				<audio src="EC-05181-015.wav" clipBegin="0:03:01.042" clipEnd="0:04:08.162"/>
+				<audio src="EC-05181-015.wav" clipBegin="0:04:08.375" clipEnd="0:05:34.181"/>
+			</seq>
+			<par id="P4_79">
+				<audio src="EC-05181-015.wav" clipBegin="0:05:34.181" clipEnd="0:05:37.670"/>
+			</par>
+			<par id="source_122">
+				<audio src="EC-05181-015.wav" clipBegin="0:05:37.670" clipEnd="0:10:52.851"/>
+			</par>
+			<par id="P4_80">
+				<audio src="EC-05181-015.wav" clipBegin="0:10:52.851" clipEnd="0:10:55.034"/>
+			</par>
+			<par id="source_123">
+				<audio src="EC-05181-015.wav" clipBegin="0:10:55.034" clipEnd="0:15:44.603"/>
+			</par>
+			<par id="P4_81">
+				<audio src="EC-05181-015.wav" clipBegin="0:15:44.603" clipEnd="0:15:47.036"/>
+			</par>
+			<par id="source_124">
+				<audio src="EC-05181-015.wav" clipBegin="0:15:47.036" clipEnd="0:35:23.210"/>
+			</par>
+			<par id="P4_82">
+				<audio src="EC-05181-015.wav" clipBegin="0:35:23.210" clipEnd="0:35:25.369"/>
+			</par>
+			<par id="source_125">
+				<audio src="EC-05181-015.wav" clipBegin="0:35:25.369" clipEnd="0:40:12.093"/>
+			</par>
+			<par id="P4_83">
+				<audio src="EC-05181-015.wav" clipBegin="0:40:12.093" clipEnd="0:40:13.230"/>
+			</par>
+			<par id="source_126">
+				<audio src="EC-05181-015.wav" clipBegin="0:40:13.230" clipEnd="0:41:55.070"/>
+			</par>
+			<par id="P4_84">
+				<audio src="EC-05181-015.wav" clipBegin="0:41:55.070" clipEnd="0:41:56.910"/>
+			</par>
+			<seq id="source_127">
+				<audio src="EC-05181-015.wav" clipBegin="0:41:56.910" clipEnd="0:44:49.795"/>
+				<audio src="EC-05181-015.wav" clipBegin="0:44:52.028" clipEnd="0:44:52.075"/>
+				<audio src="EC-05181-016.wav" clipBegin="0:00:08.732" clipEnd="0:05:42.895"/>
+			</seq>
+			<par id="P4_85">
+				<audio src="EC-05181-016.wav" clipBegin="0:05:42.895" clipEnd="0:05:44.891"/>
+			</par>
+			<par id="source_128">
+				<audio src="EC-05181-016.wav" clipBegin="0:05:44.891" clipEnd="0:19:27.960"/>
+			</par>
+			<par id="P4_86">
+				<audio src="EC-05181-016.wav" clipBegin="0:19:27.960" clipEnd="0:19:30.037"/>
+			</par>
+			<par id="source_129">
+				<audio src="EC-05181-016.wav" clipBegin="0:19:30.037" clipEnd="0:34:55.415"/>
+			</par>
+			<par id="P4_87">
+				<audio src="EC-05181-016.wav" clipBegin="0:34:55.415" clipEnd="0:34:56.784"/>
+			</par>
+			<par id="source_130">
+				<audio src="EC-05181-016.wav" clipBegin="0:34:56.784" clipEnd="0:42:26.765"/>
+			</par>
+			<par id="P4_88">
+				<audio src="EC-05181-016.wav" clipBegin="0:42:26.765" clipEnd="0:42:28.499"/>
+			</par>
+			<seq id="source_131">
+				<audio src="EC-05181-016.wav" clipBegin="0:42:28.499" clipEnd="0:44:51.993"/>
+				<audio src="EC-05181-016.wav" clipBegin="0:44:54.391" clipEnd="0:44:54.452"/>
+				<audio src="EC-05181-017.wav" clipBegin="0:00:09.116" clipEnd="0:00:47.906"/>
+			</seq>
+			<par id="pagenum_34" customTest="pagenum">
+				<audio src="EC-05181-017.wav" clipBegin="0:00:47.906" clipEnd="0:00:49.601"/>
+			</par>
+			<par id="source_132">
+				<audio src="EC-05181-017.wav" clipBegin="0:00:49.601" clipEnd="0:00:49.734"/>
+			</par>
+			<par id="P23_1">
+				<audio src="EC-05181-017.wav" clipBegin="0:00:49.734" clipEnd="0:00:50.429"/>
+			</par>
+			<par id="source_133">
+				<audio src="EC-05181-017.wav" clipBegin="0:00:50.429" clipEnd="0:07:04.179"/>
+			</par>
+			<par id="P2_4">
+				<audio src="EC-05181-017.wav" clipBegin="0:07:04.179" clipEnd="0:07:06.420"/>
+			</par>
+			<par id="source_134">
+				<audio src="EC-05181-017.wav" clipBegin="0:07:06.420" clipEnd="0:07:07.058"/>
+			</par>
+			<par id="P31_1">
+				<audio src="EC-05181-017.wav" clipBegin="0:07:07.058" clipEnd="0:07:13.159"/>
+			</par>
+			<par id="source_135">
+				<audio src="EC-05181-017.wav" clipBegin="0:07:13.159" clipEnd="0:08:30.036"/>
+			</par>
+			<par id="P3_9">
+				<audio src="EC-05181-017.wav" clipBegin="0:08:30.036" clipEnd="0:08:30.817"/>
+			</par>
+			<par id="source_136">
+				<audio src="EC-05181-017.wav" clipBegin="0:08:30.817" clipEnd="0:08:30.957"/>
+			</par>
+			<par id="P4_89">
+				<audio src="EC-05181-017.wav" clipBegin="0:08:30.957" clipEnd="0:08:35.168"/>
+			</par>
+			<par id="source_137">
+				<audio src="EC-05181-017.wav" clipBegin="0:08:35.168" clipEnd="0:17:55.030"/>
+			</par>
+			<par id="P4_90">
+				<audio src="EC-05181-017.wav" clipBegin="0:17:55.030" clipEnd="0:17:57.190"/>
+			</par>
+			<par id="source_138">
+				<audio src="EC-05181-017.wav" clipBegin="0:17:57.190" clipEnd="0:19:53.918"/>
+			</par>
+			<par id="P5_1">
+				<audio src="EC-05181-017.wav" clipBegin="0:19:53.918" clipEnd="0:19:55.142"/>
+			</par>
+			<par id="source_139">
+				<audio src="EC-05181-017.wav" clipBegin="0:19:55.142" clipEnd="0:22:22.215"/>
+			</par>
+			<par id="P5_2">
+				<audio src="EC-05181-017.wav" clipBegin="0:22:22.215" clipEnd="0:22:23.524"/>
+			</par>
+			<par id="source_140">
+				<audio src="EC-05181-017.wav" clipBegin="0:22:23.524" clipEnd="0:28:23.069"/>
+			</par>
+			<par id="P5_3">
+				<audio src="EC-05181-017.wav" clipBegin="0:28:23.069" clipEnd="0:28:28.226"/>
+			</par>
+			<par id="source_141">
+				<audio src="EC-05181-017.wav" clipBegin="0:28:28.226" clipEnd="0:30:32.456"/>
+			</par>
+			<par id="P4_91">
+				<audio src="EC-05181-017.wav" clipBegin="0:30:32.456" clipEnd="0:30:33.414"/>
+			</par>
+			<par id="source_142">
+				<audio src="EC-05181-017.wav" clipBegin="0:30:33.414" clipEnd="0:30:33.468"/>
+			</par>
+			<par id="P5_4">
+				<audio src="EC-05181-017.wav" clipBegin="0:30:33.468" clipEnd="0:30:35.074"/>
+			</par>
+			<par id="source_143">
+				<audio src="EC-05181-017.wav" clipBegin="0:30:35.074" clipEnd="0:32:15.207"/>
+			</par>
+			<par id="P5_5">
+				<audio src="EC-05181-017.wav" clipBegin="0:32:15.207" clipEnd="0:32:16.401"/>
+			</par>
+			<par id="source_144">
+				<audio src="EC-05181-017.wav" clipBegin="0:32:16.401" clipEnd="0:35:36.778"/>
+			</par>
+			<par id="P5_6">
+				<audio src="EC-05181-017.wav" clipBegin="0:35:36.778" clipEnd="0:35:38.384"/>
+			</par>
+			<par id="source_145">
+				<audio src="EC-05181-017.wav" clipBegin="0:35:38.384" clipEnd="0:39:37.206"/>
+			</par>
+			<par id="P5_7">
+				<audio src="EC-05181-017.wav" clipBegin="0:39:37.206" clipEnd="0:39:38.569"/>
+			</par>
+			<par id="source_146">
+				<audio src="EC-05181-017.wav" clipBegin="0:39:38.569" clipEnd="0:41:58.934"/>
+			</par>
+			<par id="P4_92">
+				<audio src="EC-05181-017.wav" clipBegin="0:41:58.934" clipEnd="0:41:59.531"/>
+			</par>
+			<par id="source_147">
+				<audio src="EC-05181-017.wav" clipBegin="0:41:59.531" clipEnd="0:41:59.573"/>
+			</par>
+			<par id="P5_8">
+				<audio src="EC-05181-017.wav" clipBegin="0:41:59.573" clipEnd="0:42:00.774"/>
+			</par>
+			<seq id="source_148">
+				<audio src="EC-05181-017.wav" clipBegin="0:42:00.774" clipEnd="0:44:53.453"/>
+				<audio src="EC-05181-017.wav" clipBegin="0:44:55.884" clipEnd="0:44:55.941"/>
+				<audio src="EC-05181-018.wav" clipBegin="0:00:08.939" clipEnd="0:00:08.982"/>
+			</seq>
+			<par id="pagenum_35" customTest="pagenum">
+				<audio src="EC-05181-018.wav" clipBegin="0:00:08.982" clipEnd="0:00:10.178"/>
+			</par>
+			<par id="source_149">
+				<audio src="EC-05181-018.wav" clipBegin="0:00:10.178" clipEnd="0:05:08.346"/>
+			</par>
+			<par id="P5_9">
+				<audio src="EC-05181-018.wav" clipBegin="0:05:08.346" clipEnd="0:05:09.895"/>
+			</par>
+			<par id="source_150">
+				<audio src="EC-05181-018.wav" clipBegin="0:05:09.895" clipEnd="0:08:04.599"/>
+			</par>
+			<par id="P5_10">
+				<audio src="EC-05181-018.wav" clipBegin="0:08:04.599" clipEnd="0:08:05.800"/>
+			</par>
+			<par id="source_151">
+				<audio src="EC-05181-018.wav" clipBegin="0:08:05.800" clipEnd="0:11:40.818"/>
+			</par>
+			<par id="P4_93">
+				<audio src="EC-05181-018.wav" clipBegin="0:11:40.818" clipEnd="0:11:41.550"/>
+			</par>
+			<par id="source_152">
+				<audio src="EC-05181-018.wav" clipBegin="0:11:41.550" clipEnd="0:11:41.779"/>
+			</par>
+			<par id="P5_11">
+				<audio src="EC-05181-018.wav" clipBegin="0:11:41.779" clipEnd="0:11:43.235"/>
+			</par>
+			<par id="source_153">
+				<audio src="EC-05181-018.wav" clipBegin="0:11:43.235" clipEnd="0:34:24.297"/>
+			</par>
+			<par id="P5_12">
+				<audio src="EC-05181-018.wav" clipBegin="0:34:24.297" clipEnd="0:34:25.707"/>
+			</par>
+			<par id="source_154">
+				<audio src="EC-05181-018.wav" clipBegin="0:34:25.707" clipEnd="0:36:14.098"/>
+			</par>
+			<par id="P5_13">
+				<audio src="EC-05181-018.wav" clipBegin="0:36:14.098" clipEnd="0:36:16.514"/>
+			</par>
+			<seq id="source_155">
+				<audio src="EC-05181-018.wav" clipBegin="0:36:16.514" clipEnd="0:44:59.165"/>
+				<audio src="EC-05181-018.wav" clipBegin="0:45:01.485" clipEnd="0:45:01.531"/>
+				<audio src="EC-05181-019.wav" clipBegin="0:01:11.787" clipEnd="0:10:43.185"/>
+			</seq>
+			<par id="P5_14">
+				<audio src="EC-05181-019.wav" clipBegin="0:10:43.185" clipEnd="0:10:45.124"/>
+			</par>
+			<par id="source_156">
+				<audio src="EC-05181-019.wav" clipBegin="0:10:45.124" clipEnd="0:10:58.418"/>
+			</par>
+			<par id="pagenum_36" customTest="pagenum">
+				<audio src="EC-05181-019.wav" clipBegin="0:10:58.418" clipEnd="0:10:59.431"/>
+			</par>
+			<par id="source_157">
+				<audio src="EC-05181-019.wav" clipBegin="0:10:59.431" clipEnd="0:14:06.213"/>
+			</par>
+			<par id="pagenum_37" customTest="pagenum">
+				<audio src="EC-05181-019.wav" clipBegin="0:14:06.213" clipEnd="0:14:07.561"/>
+			</par>
+			<par id="P31_2">
+				<audio src="EC-05181-019.wav" clipBegin="0:14:07.561" clipEnd="0:14:11.831"/>
+			</par>
+			<par id="source_158">
+				<audio src="EC-05181-019.wav" clipBegin="0:14:11.831" clipEnd="0:15:14.442"/>
+			</par>
+			<par id="P4_94">
+				<audio src="EC-05181-019.wav" clipBegin="0:15:14.442" clipEnd="0:15:16.300"/>
+			</par>
+			<par id="source_159">
+				<audio src="EC-05181-019.wav" clipBegin="0:15:16.300" clipEnd="0:19:35.768"/>
+			</par>
+			<par id="P5_15">
+				<audio src="EC-05181-019.wav" clipBegin="0:19:35.768" clipEnd="0:19:37.203"/>
+			</par>
+			<par id="source_160">
+				<audio src="EC-05181-019.wav" clipBegin="0:19:37.203" clipEnd="0:22:25.978"/>
+			</par>
+			<par id="pagenum_38" customTest="pagenum">
+				<audio src="EC-05181-019.wav" clipBegin="0:22:25.978" clipEnd="0:22:27.675"/>
+			</par>
+			<par id="source_161">
+				<audio src="EC-05181-019.wav" clipBegin="0:22:27.675" clipEnd="0:22:27.895"/>
+			</par>
+			<par id="P5_16">
+				<audio src="EC-05181-019.wav" clipBegin="0:22:27.895" clipEnd="0:22:29.298"/>
+			</par>
+			<par id="source_162">
+				<audio src="EC-05181-019.wav" clipBegin="0:22:29.298" clipEnd="0:27:08.313"/>
+			</par>
+			<par id="P5_17">
+				<audio src="EC-05181-019.wav" clipBegin="0:27:08.313" clipEnd="0:27:12.828"/>
+			</par>
+			<par id="source_163">
+				<audio src="EC-05181-019.wav" clipBegin="0:27:12.828" clipEnd="0:45:31.637"/>
+			</par>
+			<par id="pagenum_39" customTest="pagenum">
+				<audio src="EC-05181-019.wav" clipBegin="0:45:31.637" clipEnd="0:45:32.610"/>
+			</par>
+			<par id="source_164">
+				<audio src="EC-05181-019.wav" clipBegin="0:45:32.610" clipEnd="0:45:33.047"/>
+			</par>
+			<par id="P5_18">
+				<audio src="EC-05181-019.wav" clipBegin="0:45:33.047" clipEnd="0:45:34.103"/>
+			</par>
+			<seq id="source_165">
+				<audio src="EC-05181-019.wav" clipBegin="0:45:34.103" clipEnd="0:46:03.868"/>
+				<audio src="EC-05181-019.wav" clipBegin="0:47:27.230" clipEnd="0:47:27.294"/>
+				<audio src="EC-05181-020.wav" clipBegin="0:00:08.570" clipEnd="0:00:37.164"/>
+			</seq>
+			<par id="P5_19">
+				<audio src="EC-05181-020.wav" clipBegin="0:00:37.164" clipEnd="0:00:39.037"/>
+			</par>
+			<par id="source_166">
+				<audio src="EC-05181-020.wav" clipBegin="0:00:39.037" clipEnd="0:03:17.155"/>
+			</par>
+			<par id="P4_95">
+				<audio src="EC-05181-020.wav" clipBegin="0:03:17.155" clipEnd="0:03:19.026"/>
+			</par>
+			<par id="P5_20">
+				<audio src="EC-05181-020.wav" clipBegin="0:03:19.046" clipEnd="0:03:21.035"/>
+			</par>
+			<par id="source_167">
+				<audio src="EC-05181-020.wav" clipBegin="0:03:21.035" clipEnd="0:08:55.822"/>
+			</par>
+			<par id="P5_21">
+				<audio src="EC-05181-020.wav" clipBegin="0:08:55.822" clipEnd="0:08:57.468"/>
+			</par>
+			<par id="source_168">
+				<audio src="EC-05181-020.wav" clipBegin="0:08:57.468" clipEnd="0:11:45.667"/>
+			</par>
+			<par id="P5_22">
+				<audio src="EC-05181-020.wav" clipBegin="0:11:45.667" clipEnd="0:11:47.856"/>
+			</par>
+			<par id="source_169">
+				<audio src="EC-05181-020.wav" clipBegin="0:11:47.856" clipEnd="0:15:12.199"/>
+			</par>
+			<par id="P5_23">
+				<audio src="EC-05181-020.wav" clipBegin="0:15:12.199" clipEnd="0:15:13.783"/>
+			</par>
+			<par id="source_170">
+				<audio src="EC-05181-020.wav" clipBegin="0:15:13.783" clipEnd="0:16:39.009"/>
+			</par>
+			<par id="P5_24">
+				<audio src="EC-05181-020.wav" clipBegin="0:16:39.009" clipEnd="0:16:40.487"/>
+			</par>
+			<par id="source_171">
+				<audio src="EC-05181-020.wav" clipBegin="0:16:40.487" clipEnd="0:17:23.064"/>
+			</par>
+			<par id="P5_25">
+				<audio src="EC-05181-020.wav" clipBegin="0:17:23.064" clipEnd="0:17:24.620"/>
+			</par>
+			<par id="source_172">
+				<audio src="EC-05181-020.wav" clipBegin="0:17:24.620" clipEnd="0:18:02.613"/>
+			</par>
+			<par id="P5_26">
+				<audio src="EC-05181-020.wav" clipBegin="0:18:02.613" clipEnd="0:18:05.273"/>
+			</par>
+			<par id="source_173">
+				<audio src="EC-05181-020.wav" clipBegin="0:18:05.273" clipEnd="0:18:54.403"/>
+			</par>
+			<par id="pagenum_40" customTest="pagenum">
+				<audio src="EC-05181-020.wav" clipBegin="0:18:54.403" clipEnd="0:18:55.652"/>
+			</par>
+			<par id="P31_3">
+				<audio src="EC-05181-020.wav" clipBegin="0:18:55.652" clipEnd="0:19:01.350"/>
+			</par>
+			<par id="source_174">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:01.350" clipEnd="0:19:01.699"/>
+			</par>
+			<par id="P5_27">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:01.699" clipEnd="0:19:04.117"/>
+			</par>
+			<par id="source_175">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:04.117" clipEnd="0:19:17.419"/>
+			</par>
+			<par id="P5_28">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:17.419" clipEnd="0:19:19.310"/>
+			</par>
+			<par id="source_176">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:19.310" clipEnd="0:19:29.238"/>
+			</par>
+			<par id="P5_29">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:29.238" clipEnd="0:19:31.581"/>
+			</par>
+			<par id="source_177">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:31.581" clipEnd="0:19:45.684"/>
+			</par>
+			<par id="P5_30">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:45.684" clipEnd="0:19:48.525"/>
+			</par>
+			<par id="source_178">
+				<audio src="EC-05181-020.wav" clipBegin="0:19:48.525" clipEnd="0:20:39.192"/>
+			</par>
+			<par id="pagenum_41" customTest="pagenum">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:39.192" clipEnd="0:20:40.296"/>
+			</par>
+			<par id="source_179">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:40.296" clipEnd="0:20:49.528"/>
+			</par>
+			<par id="P5_31">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:49.528" clipEnd="0:20:52.477"/>
+			</par>
+			<par id="source_180">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:52.477" clipEnd="0:20:57.008"/>
+			</par>
+			<par id="P5_32">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:57.008" clipEnd="0:20:58.998"/>
+			</par>
+			<par id="source_181">
+				<audio src="EC-05181-020.wav" clipBegin="0:20:58.998" clipEnd="0:21:13.819"/>
+			</par>
+			<par id="P4_96">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:13.819" clipEnd="0:21:18.523"/>
+			</par>
+			<par id="source_182">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:18.523" clipEnd="0:21:18.827"/>
+			</par>
+			<par id="P5_33">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:18.827" clipEnd="0:21:20.998"/>
+			</par>
+			<par id="source_183">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:20.998" clipEnd="0:21:31.388"/>
+			</par>
+			<par id="P5_34">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:31.388" clipEnd="0:21:34.246"/>
+			</par>
+			<par id="source_184">
+				<audio src="EC-05181-020.wav" clipBegin="0:21:34.246" clipEnd="0:22:51.451"/>
+			</par>
+			<par id="P5_35">
+				<audio src="EC-05181-020.wav" clipBegin="0:22:51.451" clipEnd="0:22:53.459"/>
+			</par>
+			<par id="source_185">
+				<audio src="EC-05181-020.wav" clipBegin="0:22:53.459" clipEnd="0:22:59.270"/>
+			</par>
+			<par id="P4_97">
+				<audio src="EC-05181-020.wav" clipBegin="0:22:59.270" clipEnd="0:23:04.780"/>
+			</par>
+			<par id="source_186">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:04.780" clipEnd="0:23:06.190"/>
+			</par>
+			<par id="P5_36">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:06.190" clipEnd="0:23:08.251"/>
+			</par>
+			<par id="source_187">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:08.251" clipEnd="0:23:35.973"/>
+			</par>
+			<par id="P5_37">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:35.973" clipEnd="0:23:38.694"/>
+			</par>
+			<par id="source_188">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:38.694" clipEnd="0:23:51.725"/>
+			</par>
+			<par id="P5_38">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:51.725" clipEnd="0:23:53.927"/>
+			</par>
+			<par id="source_189">
+				<audio src="EC-05181-020.wav" clipBegin="0:23:53.927" clipEnd="0:24:19.156"/>
+			</par>
+			<par id="P5_39">
+				<audio src="EC-05181-020.wav" clipBegin="0:24:19.156" clipEnd="0:24:20.584"/>
+			</par>
+			<par id="source_190">
+				<audio src="EC-05181-020.wav" clipBegin="0:24:20.584" clipEnd="0:24:45.193"/>
+			</par>
+			<par id="P5_40">
+				<audio src="EC-05181-020.wav" clipBegin="0:24:45.193" clipEnd="0:24:46.242"/>
+			</par>
+			<par id="source_191">
+				<audio src="EC-05181-020.wav" clipBegin="0:24:46.242" clipEnd="0:25:00.460"/>
+			</par>
+			<par id="P5_41">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:00.460" clipEnd="0:25:03.569"/>
+			</par>
+			<par id="source_192">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:03.569" clipEnd="0:25:18.059"/>
+			</par>
+			<par id="P5_42">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:18.059" clipEnd="0:25:19.686"/>
+			</par>
+			<par id="source_193">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:19.686" clipEnd="0:25:40.026"/>
+			</par>
+			<par id="P5_43">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:40.026" clipEnd="0:25:41.274"/>
+			</par>
+			<par id="source_194">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:41.274" clipEnd="0:25:56.324"/>
+			</par>
+			<par id="P5_44">
+				<audio src="EC-05181-020.wav" clipBegin="0:25:56.324" clipEnd="0:26:00.772"/>
+			</par>
+			<par id="source_195">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:00.772" clipEnd="0:26:13.892"/>
+			</par>
+			<par id="P5_45">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:13.892" clipEnd="0:26:15.031"/>
+			</par>
+			<par id="source_196">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:15.031" clipEnd="0:26:31.437"/>
+			</par>
+			<par id="P5_46">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:31.437" clipEnd="0:26:34.167"/>
+			</par>
+			<par id="source_197">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:34.167" clipEnd="0:26:45.690"/>
+			</par>
+			<par id="P5_47">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:45.690" clipEnd="0:26:47.191"/>
+			</par>
+			<par id="source_198">
+				<audio src="EC-05181-020.wav" clipBegin="0:26:47.191" clipEnd="0:27:05.164"/>
+			</par>
+			<par id="P5_48">
+				<audio src="EC-05181-020.wav" clipBegin="0:27:05.164" clipEnd="0:27:06.719"/>
+			</par>
+			<par id="source_199">
+				<audio src="EC-05181-020.wav" clipBegin="0:27:06.719" clipEnd="0:27:21.520"/>
+			</par>
+			<par id="pagenum_42" customTest="pagenum">
+				<audio src="EC-05181-020.wav" clipBegin="0:27:21.520" clipEnd="0:27:23.276"/>
+			</par>
+			<par id="P31_4">
+				<audio src="EC-05181-020.wav" clipBegin="0:27:23.276" clipEnd="0:27:26.949"/>
+			</par>
+			<seq id="source_200">
+				<audio src="EC-05181-020.wav" clipBegin="0:27:26.949" clipEnd="0:44:51.459"/>
+				<audio src="EC-05181-020.wav" clipBegin="0:44:53.947" clipEnd="0:44:54.008"/>
+				<audio src="EC-05181-021.wav" clipBegin="0:00:10.351" clipEnd="0:01:45.097"/>
+			</seq>
+			<par id="pagenum_43" customTest="pagenum">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:45.097" clipEnd="0:01:46.326"/>
+			</par>
+			<par id="source_201">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:46.326" clipEnd="0:01:46.464"/>
+			</par>
+			<par id="P31_5">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:46.464" clipEnd="0:01:49.801"/>
+			</par>
+			<par id="source_202">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:49.801" clipEnd="0:01:50.057"/>
+			</par>
+			<par id="P32_1">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:50.057" clipEnd="0:01:51.821"/>
+			</par>
+			<par id="source_203">
+				<audio src="EC-05181-021.wav" clipBegin="0:01:51.821" clipEnd="0:10:32.710"/>
+			</par>
+			<par id="pagenum_44" customTest="pagenum">
+				<audio src="EC-05181-021.wav" clipBegin="0:10:32.710" clipEnd="0:10:34.111"/>
+			</par>
+			<par id="source_204">
+				<audio src="EC-05181-021.wav" clipBegin="0:10:34.111" clipEnd="0:10:34.828"/>
+			</par>
+			<par id="P32_2">
+				<audio src="EC-05181-021.wav" clipBegin="0:10:34.828" clipEnd="0:10:36.501"/>
+			</par>
+			<par id="source_205">
+				<audio src="EC-05181-021.wav" clipBegin="0:10:36.501" clipEnd="0:17:51.840"/>
+			</par>
+			<par id="P32_3">
+				<audio src="EC-05181-021.wav" clipBegin="0:17:51.840" clipEnd="0:17:53.178"/>
+			</par>
+			<par id="source_206">
+				<audio src="EC-05181-021.wav" clipBegin="0:17:53.178" clipEnd="0:19:21.501"/>
+			</par>
+			<par id="pagenum_45" customTest="pagenum">
+				<audio src="EC-05181-021.wav" clipBegin="0:19:21.501" clipEnd="0:19:22.910"/>
+			</par>
+			<seq id="source_207">
+				<audio src="EC-05181-021.wav" clipBegin="0:19:22.910" clipEnd="0:45:02.887"/>
+				<audio src="EC-05181-021.wav" clipBegin="0:45:05.886" clipEnd="0:45:05.946"/>
+				<audio src="EC-05181-022.wav" clipBegin="0:00:08.658" clipEnd="0:15:40.376"/>
+			</seq>
+			<par id="pagenum_46" customTest="pagenum">
+				<audio src="EC-05181-022.wav" clipBegin="0:15:40.376" clipEnd="0:15:41.823"/>
+			</par>
+			<par id="source_208">
+				<audio src="EC-05181-022.wav" clipBegin="0:15:41.823" clipEnd="0:17:42.084"/>
+			</par>
+			<par id="P32_4">
+				<audio src="EC-05181-022.wav" clipBegin="0:17:42.084" clipEnd="0:17:43.531"/>
+			</par>
+			<par id="source_209">
+				<audio src="EC-05181-022.wav" clipBegin="0:17:43.531" clipEnd="0:18:11.308"/>
+			</par>
+			<par id="pagenum_47" customTest="pagenum">
+				<audio src="EC-05181-022.wav" clipBegin="0:18:11.308" clipEnd="0:18:12.483"/>
+			</par>
+			<par id="source_210">
+				<audio src="EC-05181-022.wav" clipBegin="0:18:12.483" clipEnd="0:22:57.777"/>
+			</par>
+			<par id="P32_5">
+				<audio src="EC-05181-022.wav" clipBegin="0:22:57.777" clipEnd="0:22:59.393"/>
+			</par>
+			<par id="source_211">
+				<audio src="EC-05181-022.wav" clipBegin="0:22:59.393" clipEnd="0:26:16.804"/>
+			</par>
+			<par id="P32_6">
+				<audio src="EC-05181-022.wav" clipBegin="0:26:16.804" clipEnd="0:26:18.682"/>
+			</par>
+			<par id="source_212">
+				<audio src="EC-05181-022.wav" clipBegin="0:26:18.682" clipEnd="0:29:40.785"/>
+			</par>
+			<par id="P32_7">
+				<audio src="EC-05181-022.wav" clipBegin="0:29:40.785" clipEnd="0:29:42.011"/>
+			</par>
+			<par id="source_213">
+				<audio src="EC-05181-022.wav" clipBegin="0:29:42.011" clipEnd="0:44:20.826"/>
+			</par>
+			<par id="P32_8">
+				<audio src="EC-05181-022.wav" clipBegin="0:44:20.826" clipEnd="0:44:22.027"/>
+			</par>
+			<seq id="source_214">
+				<audio src="EC-05181-022.wav" clipBegin="0:44:22.027" clipEnd="0:45:08.090"/>
+				<audio src="EC-05181-022.wav" clipBegin="0:45:10.479" clipEnd="0:45:10.543"/>
+				<audio src="EC-05181-023.wav" clipBegin="0:00:09.357" clipEnd="0:05:50.590"/>
+			</seq>
+			<par id="P32_9">
+				<audio src="EC-05181-023.wav" clipBegin="0:05:50.590" clipEnd="0:05:52.277"/>
+			</par>
+			<par id="source_215">
+				<audio src="EC-05181-023.wav" clipBegin="0:05:52.277" clipEnd="0:14:19.065"/>
+			</par>
+			<par id="P32_10">
+				<audio src="EC-05181-023.wav" clipBegin="0:14:19.065" clipEnd="0:14:20.621"/>
+			</par>
+			<par id="source_216">
+				<audio src="EC-05181-023.wav" clipBegin="0:14:20.621" clipEnd="0:18:35.660"/>
+			</par>
+			<par id="P32_11">
+				<audio src="EC-05181-023.wav" clipBegin="0:18:35.660" clipEnd="0:18:36.818"/>
+			</par>
+			<par id="source_217">
+				<audio src="EC-05181-023.wav" clipBegin="0:18:36.818" clipEnd="0:20:35.430"/>
+			</par>
+			<par id="P32_12">
+				<audio src="EC-05181-023.wav" clipBegin="0:20:35.430" clipEnd="0:20:36.762"/>
+			</par>
+			<par id="source_218">
+				<audio src="EC-05181-023.wav" clipBegin="0:20:36.762" clipEnd="0:23:39.566"/>
+			</par>
+			<par id="P32_13">
+				<audio src="EC-05181-023.wav" clipBegin="0:23:39.566" clipEnd="0:23:40.963"/>
+			</par>
+			<par id="source_219">
+				<audio src="EC-05181-023.wav" clipBegin="0:23:40.963" clipEnd="0:27:15.638"/>
+			</par>
+			<par id="P32_14">
+				<audio src="EC-05181-023.wav" clipBegin="0:27:15.638" clipEnd="0:27:17.329"/>
+			</par>
+			<par id="source_220">
+				<audio src="EC-05181-023.wav" clipBegin="0:27:17.329" clipEnd="0:32:02.413"/>
+			</par>
+			<par id="P32_15">
+				<audio src="EC-05181-023.wav" clipBegin="0:32:02.413" clipEnd="0:32:04.546"/>
+			</par>
+			<par id="source_221">
+				<audio src="EC-05181-023.wav" clipBegin="0:32:04.546" clipEnd="0:42:20.320"/>
+			</par>
+			<par id="P32_16">
+				<audio src="EC-05181-023.wav" clipBegin="0:42:20.320" clipEnd="0:42:22.447"/>
+			</par>
+			<seq id="source_222">
+				<audio src="EC-05181-023.wav" clipBegin="0:42:22.447" clipEnd="0:44:58.020"/>
+				<audio src="EC-05181-023.wav" clipBegin="0:45:01.160" clipEnd="0:45:01.217"/>
+				<audio src="EC-05181-024.wav" clipBegin="0:00:08.773" clipEnd="0:01:01.006"/>
+			</seq>
+			<par id="P32_17">
+				<audio src="EC-05181-024.wav" clipBegin="0:01:01.006" clipEnd="0:01:02.326"/>
+			</par>
+			<par id="source_223">
+				<audio src="EC-05181-024.wav" clipBegin="0:01:02.326" clipEnd="0:02:38.698"/>
+			</par>
+			<par id="P32_18">
+				<audio src="EC-05181-024.wav" clipBegin="0:02:38.698" clipEnd="0:02:40.038"/>
+			</par>
+			<par id="source_224">
+				<audio src="EC-05181-024.wav" clipBegin="0:02:40.038" clipEnd="0:08:45.597"/>
+			</par>
+			<par id="pagenum_48" customTest="pagenum">
+				<audio src="EC-05181-024.wav" clipBegin="0:08:45.597" clipEnd="0:08:47.537"/>
+			</par>
+			<par id="source_225">
+				<audio src="EC-05181-024.wav" clipBegin="0:08:47.537" clipEnd="0:08:47.712"/>
+			</par>
+			<par id="P32_19">
+				<audio src="EC-05181-024.wav" clipBegin="0:08:47.712" clipEnd="0:08:49.341"/>
+			</par>
+			<seq id="source_226">
+				<audio src="EC-05181-024.wav" clipBegin="0:08:49.341" clipEnd="0:11:53.202"/>
+				<audio src="EC-05181-024.wav" clipBegin="0:11:54.061" clipEnd="0:11:55.061"/>
+			</seq>
+			<par id="P19_1">
+				<audio src="EC-05181-024.wav" clipBegin="0:11:55.061" clipEnd="0:11:55.946"/>
+			</par>
+			<seq id="source_227">
+				<audio src="EC-05181-024.wav" clipBegin="0:11:55.946" clipEnd="0:15:57.265"/>
+				<audio src="EC-05181-024.wav" clipBegin="0:16:41.525" clipEnd="0:16:41.586"/>
+				<audio src="EC-05181-025.wav" clipBegin="0:01:20.455" clipEnd="0:01:20.502"/>
+			</seq>
+			<par id="P19_2">
+				<audio src="EC-05181-025.wav" clipBegin="0:01:20.502" clipEnd="0:01:22.994"/>
+			</par>
+			<par id="source_228">
+				<audio src="EC-05181-025.wav" clipBegin="0:01:22.994" clipEnd="0:03:17.154"/>
+			</par>
+			<par id="P35_1">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:17.154" clipEnd="0:03:17.796"/>
+			</par>
+			<par id="source_229">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:17.796" clipEnd="0:03:17.996"/>
+			</par>
+			<par id="P20_2">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:17.996" clipEnd="0:03:18.955"/>
+			</par>
+			<par id="source_230">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:18.955" clipEnd="0:03:19.258"/>
+			</par>
+			<par id="P35_2">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:19.258" clipEnd="0:03:20.271"/>
+			</par>
+			<par id="source_231">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:20.271" clipEnd="0:03:41.204"/>
+			</par>
+			<par id="P35_3">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:41.204" clipEnd="0:03:42.055"/>
+			</par>
+			<par id="source_232">
+				<audio src="EC-05181-025.wav" clipBegin="0:03:42.055" clipEnd="0:04:40.526"/>
+			</par>
+			<par id="P35_4">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:40.526" clipEnd="0:04:41.413"/>
+			</par>
+			<par id="source_233">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:41.413" clipEnd="0:04:52.130"/>
+			</par>
+			<par id="P35_5">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:52.130" clipEnd="0:04:52.872"/>
+			</par>
+			<par id="source_234">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:52.872" clipEnd="0:04:55.145"/>
+			</par>
+			<par id="P35_6">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:55.145" clipEnd="0:04:56.013"/>
+			</par>
+			<par id="source_235">
+				<audio src="EC-05181-025.wav" clipBegin="0:04:56.013" clipEnd="0:05:16.004"/>
+			</par>
+			<par id="P35_7">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:16.004" clipEnd="0:05:16.628"/>
+			</par>
+			<par id="source_236">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:16.628" clipEnd="0:05:18.903"/>
+			</par>
+			<par id="P35_8">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:18.903" clipEnd="0:05:19.781"/>
+			</par>
+			<par id="source_237">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:19.781" clipEnd="0:05:25.020"/>
+			</par>
+			<par id="P35_9">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:25.020" clipEnd="0:05:25.771"/>
+			</par>
+			<par id="source_238">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:25.771" clipEnd="0:05:30.003"/>
+			</par>
+			<par id="P3_10">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:30.003" clipEnd="0:05:31.045"/>
+			</par>
+			<par id="source_239">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:31.045" clipEnd="0:05:34.782"/>
+			</par>
+			<par id="P35_10">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:34.782" clipEnd="0:05:35.579"/>
+			</par>
+			<par id="source_240">
+				<audio src="EC-05181-025.wav" clipBegin="0:05:35.579" clipEnd="0:06:00.495"/>
+			</par>
+			<par id="P35_11">
+				<audio src="EC-05181-025.wav" clipBegin="0:06:00.495" clipEnd="0:06:01.527"/>
+			</par>
+			<par id="source_241">
+				<audio src="EC-05181-025.wav" clipBegin="0:06:01.527" clipEnd="0:07:26.190"/>
+			</par>
+			<par id="P35_12">
+				<audio src="EC-05181-025.wav" clipBegin="0:07:26.190" clipEnd="0:07:26.497"/>
+			</par>
+			<par id="source_242">
+				<audio src="EC-05181-025.wav" clipBegin="0:07:26.497" clipEnd="0:07:26.742"/>
+			</par>
+			<par id="P35_13">
+				<audio src="EC-05181-025.wav" clipBegin="0:07:26.742" clipEnd="0:07:27.131"/>
+			</par>
+			<par id="source_243">
+				<audio src="EC-05181-025.wav" clipBegin="0:07:27.131" clipEnd="0:08:01.882"/>
+			</par>
+			<par id="P35_14">
+				<audio src="EC-05181-025.wav" clipBegin="0:08:01.882" clipEnd="0:08:02.787"/>
+			</par>
+			<par id="source_244">
+				<audio src="EC-05181-025.wav" clipBegin="0:08:02.787" clipEnd="0:08:30.247"/>
+			</par>
+			<par id="P35_15">
+				<audio src="EC-05181-025.wav" clipBegin="0:08:30.247" clipEnd="0:08:31.260"/>
+			</par>
+			<par id="source_245">
+				<audio src="EC-05181-025.wav" clipBegin="0:08:31.260" clipEnd="0:09:48.721"/>
+			</par>
+			<par id="P35_16">
+				<audio src="EC-05181-025.wav" clipBegin="0:09:48.721" clipEnd="0:09:49.698"/>
+			</par>
+			<par id="source_246">
+				<audio src="EC-05181-025.wav" clipBegin="0:09:49.698" clipEnd="0:10:14.640"/>
+			</par>
+			<par id="P29_1">
+				<audio src="EC-05181-025.wav" clipBegin="0:10:14.640" clipEnd="0:10:15.689"/>
+			</par>
+			<par id="source_247">
+				<audio src="EC-05181-025.wav" clipBegin="0:10:15.689" clipEnd="0:10:38.416"/>
+			</par>
+			<par id="P35_17">
+				<audio src="EC-05181-025.wav" clipBegin="0:10:38.416" clipEnd="0:10:39.176"/>
+			</par>
+			<par id="source_248">
+				<audio src="EC-05181-025.wav" clipBegin="0:10:39.176" clipEnd="0:12:16.283"/>
+			</par>
+			<par id="P35_18">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:16.283" clipEnd="0:12:17.405"/>
+			</par>
+			<par id="source_249">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:17.405" clipEnd="0:12:30.875"/>
+			</par>
+			<par id="P35_19">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:30.875" clipEnd="0:12:31.925"/>
+			</par>
+			<par id="source_250">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:31.925" clipEnd="0:12:38.902"/>
+			</par>
+			<par id="P35_20">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:38.902" clipEnd="0:12:39.916"/>
+			</par>
+			<par id="source_251">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:39.916" clipEnd="0:12:43.784"/>
+			</par>
+			<par id="P35_21">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:43.784" clipEnd="0:12:44.816"/>
+			</par>
+			<par id="source_252">
+				<audio src="EC-05181-025.wav" clipBegin="0:12:44.816" clipEnd="0:14:40.414"/>
+			</par>
+			<par id="P35_22">
+				<audio src="EC-05181-025.wav" clipBegin="0:14:40.414" clipEnd="0:14:41.383"/>
+			</par>
+			<par id="source_253">
+				<audio src="EC-05181-025.wav" clipBegin="0:14:41.383" clipEnd="0:15:51.254"/>
+			</par>
+			<par id="P3_11">
+				<audio src="EC-05181-025.wav" clipBegin="0:15:51.254" clipEnd="0:15:52.068"/>
+			</par>
+			<par id="source_254">
+				<audio src="EC-05181-025.wav" clipBegin="0:15:52.068" clipEnd="0:15:53.894"/>
+			</par>
+			<par id="P35_23">
+				<audio src="EC-05181-025.wav" clipBegin="0:15:53.894" clipEnd="0:15:54.763"/>
+			</par>
+			<par id="source_255">
+				<audio src="EC-05181-025.wav" clipBegin="0:15:54.763" clipEnd="0:17:00.694"/>
+			</par>
+			<par id="P35_24">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:00.694" clipEnd="0:17:01.618"/>
+			</par>
+			<par id="source_256">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:01.618" clipEnd="0:17:19.154"/>
+			</par>
+			<par id="P35_25">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:19.154" clipEnd="0:17:19.897"/>
+			</par>
+			<par id="source_257">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:19.897" clipEnd="0:17:34.593"/>
+			</par>
+			<par id="P35_26">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:34.593" clipEnd="0:17:35.279"/>
+			</par>
+			<par id="source_258">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:35.279" clipEnd="0:17:45.512"/>
+			</par>
+			<par id="P35_27">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:45.512" clipEnd="0:17:46.233"/>
+			</par>
+			<par id="source_259">
+				<audio src="EC-05181-025.wav" clipBegin="0:17:46.233" clipEnd="0:18:49.837"/>
+			</par>
+			<par id="P35_28">
+				<audio src="EC-05181-025.wav" clipBegin="0:18:49.837" clipEnd="0:18:50.593"/>
+			</par>
+			<par id="source_260">
+				<audio src="EC-05181-025.wav" clipBegin="0:18:50.593" clipEnd="0:19:47.154"/>
+			</par>
+			<par id="P35_29">
+				<audio src="EC-05181-025.wav" clipBegin="0:19:47.154" clipEnd="0:19:47.959"/>
+			</par>
+			<par id="source_261">
+				<audio src="EC-05181-025.wav" clipBegin="0:19:47.959" clipEnd="0:20:28.150"/>
+			</par>
+			<par id="P35_30">
+				<audio src="EC-05181-025.wav" clipBegin="0:20:28.150" clipEnd="0:20:28.837"/>
+			</par>
+			<par id="source_262">
+				<audio src="EC-05181-025.wav" clipBegin="0:20:28.837" clipEnd="0:21:26.417"/>
+			</par>
+			<par id="P35_31">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:26.417" clipEnd="0:21:27.132"/>
+			</par>
+			<par id="source_263">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:27.132" clipEnd="0:21:35.404"/>
+			</par>
+			<par id="P35_32">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:35.404" clipEnd="0:21:36.076"/>
+			</par>
+			<par id="source_264">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:36.076" clipEnd="0:21:41.537"/>
+			</par>
+			<par id="P35_33">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:41.537" clipEnd="0:21:42.399"/>
+			</par>
+			<par id="source_265">
+				<audio src="EC-05181-025.wav" clipBegin="0:21:42.399" clipEnd="0:22:13.755"/>
+			</par>
+			<par id="P35_34">
+				<audio src="EC-05181-025.wav" clipBegin="0:22:13.755" clipEnd="0:22:14.553"/>
+			</par>
+			<par id="source_266">
+				<audio src="EC-05181-025.wav" clipBegin="0:22:14.553" clipEnd="0:22:28.917"/>
+			</par>
+			<par id="P35_35">
+				<audio src="EC-05181-025.wav" clipBegin="0:22:28.917" clipEnd="0:22:29.491"/>
+			</par>
+			<par id="source_267">
+				<audio src="EC-05181-025.wav" clipBegin="0:22:29.491" clipEnd="0:23:04.338"/>
+			</par>
+			<par id="P35_36">
+				<audio src="EC-05181-025.wav" clipBegin="0:23:04.338" clipEnd="0:23:04.969"/>
+			</par>
+			<par id="source_268">
+				<audio src="EC-05181-025.wav" clipBegin="0:23:04.969" clipEnd="0:24:42.520"/>
+			</par>
+			<par id="P3_12">
+				<audio src="EC-05181-025.wav" clipBegin="0:24:42.520" clipEnd="0:24:43.437"/>
+			</par>
+			<par id="source_269">
+				<audio src="EC-05181-025.wav" clipBegin="0:24:43.437" clipEnd="0:24:49.565"/>
+			</par>
+			<par id="P35_37">
+				<audio src="EC-05181-025.wav" clipBegin="0:24:49.565" clipEnd="0:24:50.286"/>
+			</par>
+			<par id="source_270">
+				<audio src="EC-05181-025.wav" clipBegin="0:24:50.286" clipEnd="0:25:22.274"/>
+			</par>
+			<par id="P35_38">
+				<audio src="EC-05181-025.wav" clipBegin="0:25:22.274" clipEnd="0:25:22.960"/>
+			</par>
+			<par id="source_271">
+				<audio src="EC-05181-025.wav" clipBegin="0:25:22.960" clipEnd="0:25:40.788"/>
+			</par>
+			<par id="P35_39">
+				<audio src="EC-05181-025.wav" clipBegin="0:25:40.788" clipEnd="0:25:41.482"/>
+			</par>
+			<par id="source_272">
+				<audio src="EC-05181-025.wav" clipBegin="0:25:41.482" clipEnd="0:26:11.934"/>
+			</par>
+			<par id="P35_40">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:11.934" clipEnd="0:26:12.697"/>
+			</par>
+			<par id="source_273">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:12.697" clipEnd="0:26:29.982"/>
+			</par>
+			<par id="P35_41">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:29.982" clipEnd="0:26:30.696"/>
+			</par>
+			<par id="source_274">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:30.696" clipEnd="0:26:50.536"/>
+			</par>
+			<par id="P35_42">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:50.536" clipEnd="0:26:51.320"/>
+			</par>
+			<par id="source_275">
+				<audio src="EC-05181-025.wav" clipBegin="0:26:51.320" clipEnd="0:27:42.419"/>
+			</par>
+			<par id="P35_43">
+				<audio src="EC-05181-025.wav" clipBegin="0:27:42.419" clipEnd="0:27:43.203"/>
+			</par>
+			<par id="source_276">
+				<audio src="EC-05181-025.wav" clipBegin="0:27:43.203" clipEnd="0:28:03.984"/>
+			</par>
+			<par id="P35_44">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:03.984" clipEnd="0:28:04.685"/>
+			</par>
+			<par id="source_277">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:04.685" clipEnd="0:28:19.066"/>
+			</par>
+			<par id="P35_45">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:19.066" clipEnd="0:28:19.636"/>
+			</par>
+			<par id="source_278">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:19.636" clipEnd="0:28:26.500"/>
+			</par>
+			<par id="P35_46">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:26.500" clipEnd="0:28:27.305"/>
+			</par>
+			<par id="source_279">
+				<audio src="EC-05181-025.wav" clipBegin="0:28:27.305" clipEnd="0:29:12.737"/>
+			</par>
+			<par id="P35_47">
+				<audio src="EC-05181-025.wav" clipBegin="0:29:12.737" clipEnd="0:29:13.411"/>
+			</par>
+			<par id="source_280">
+				<audio src="EC-05181-025.wav" clipBegin="0:29:13.411" clipEnd="0:29:32.882"/>
+			</par>
+			<par id="P35_48">
+				<audio src="EC-05181-025.wav" clipBegin="0:29:32.882" clipEnd="0:29:33.660"/>
+			</par>
+			<par id="source_281">
+				<audio src="EC-05181-025.wav" clipBegin="0:29:33.660" clipEnd="0:30:36.713"/>
+			</par>
+			<par id="P35_49">
+				<audio src="EC-05181-025.wav" clipBegin="0:30:36.713" clipEnd="0:30:37.699"/>
+			</par>
+			<par id="source_282">
+				<audio src="EC-05181-025.wav" clipBegin="0:30:37.699" clipEnd="0:31:03.353"/>
+			</par>
+			<par id="P35_50">
+				<audio src="EC-05181-025.wav" clipBegin="0:31:03.353" clipEnd="0:31:04.339"/>
+			</par>
+			<par id="source_283">
+				<audio src="EC-05181-025.wav" clipBegin="0:31:04.339" clipEnd="0:31:45.382"/>
+			</par>
+			<par id="P35_51">
+				<audio src="EC-05181-025.wav" clipBegin="0:31:45.382" clipEnd="0:31:46.304"/>
+			</par>
+			<par id="source_284">
+				<audio src="EC-05181-025.wav" clipBegin="0:31:46.304" clipEnd="0:32:53.058"/>
+			</par>
+			<par id="P35_52">
+				<audio src="EC-05181-025.wav" clipBegin="0:32:53.058" clipEnd="0:32:54.162"/>
+			</par>
+			<par id="source_285">
+				<audio src="EC-05181-025.wav" clipBegin="0:32:54.162" clipEnd="0:33:07.524"/>
+			</par>
+			<par id="P35_53">
+				<audio src="EC-05181-025.wav" clipBegin="0:33:07.524" clipEnd="0:33:08.556"/>
+			</par>
+			<par id="source_286">
+				<audio src="EC-05181-025.wav" clipBegin="0:33:08.556" clipEnd="0:33:35.017"/>
+			</par>
+			<par id="P35_54">
+				<audio src="EC-05181-025.wav" clipBegin="0:33:35.017" clipEnd="0:33:35.904"/>
+			</par>
+			<par id="source_287">
+				<audio src="EC-05181-025.wav" clipBegin="0:33:35.904" clipEnd="0:33:59.065"/>
+			</par>
+			<par id="P35_55">
+				<audio src="EC-05181-025.wav" clipBegin="0:33:59.065" clipEnd="0:34:00.205"/>
+			</par>
+			<par id="source_288">
+				<audio src="EC-05181-025.wav" clipBegin="0:34:00.205" clipEnd="0:34:40.164"/>
+			</par>
+			<par id="P35_56">
+				<audio src="EC-05181-025.wav" clipBegin="0:34:40.164" clipEnd="0:34:40.996"/>
+			</par>
+			<par id="source_289">
+				<audio src="EC-05181-025.wav" clipBegin="0:34:40.996" clipEnd="0:35:37.850"/>
+			</par>
+			<par id="P3_13">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:37.850" clipEnd="0:35:38.846"/>
+			</par>
+			<par id="source_290">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:38.846" clipEnd="0:35:44.471"/>
+			</par>
+			<par id="P35_57">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:44.471" clipEnd="0:35:45.222"/>
+			</par>
+			<par id="source_291">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:45.222" clipEnd="0:35:51.493"/>
+			</par>
+			<par id="P35_58">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:51.493" clipEnd="0:35:52.226"/>
+			</par>
+			<par id="source_292">
+				<audio src="EC-05181-025.wav" clipBegin="0:35:52.226" clipEnd="0:36:00.371"/>
+			</par>
+			<par id="P35_59">
+				<audio src="EC-05181-025.wav" clipBegin="0:36:00.371" clipEnd="0:36:01.095"/>
+			</par>
+			<par id="source_293">
+				<audio src="EC-05181-025.wav" clipBegin="0:36:01.095" clipEnd="0:36:32.460"/>
+			</par>
+			<par id="P35_60">
+				<audio src="EC-05181-025.wav" clipBegin="0:36:32.460" clipEnd="0:36:33.184"/>
+			</par>
+			<par id="source_294">
+				<audio src="EC-05181-025.wav" clipBegin="0:36:33.184" clipEnd="0:37:02.381"/>
+			</par>
+			<par id="P35_61">
+				<audio src="EC-05181-025.wav" clipBegin="0:37:02.381" clipEnd="0:37:03.114"/>
+			</par>
+			<par id="source_295">
+				<audio src="EC-05181-025.wav" clipBegin="0:37:03.114" clipEnd="0:37:06.873"/>
+			</par>
+			<par id="P35_62">
+				<audio src="EC-05181-025.wav" clipBegin="0:37:06.873" clipEnd="0:37:07.678"/>
+			</par>
+			<par id="source_296">
+				<audio src="EC-05181-025.wav" clipBegin="0:37:07.678" clipEnd="0:38:15.200"/>
+			</par>
+			<par id="P35_63">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:15.200" clipEnd="0:38:16.023"/>
+			</par>
+			<par id="source_297">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:16.023" clipEnd="0:38:22.073"/>
+			</par>
+			<par id="P35_64">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:22.073" clipEnd="0:38:22.824"/>
+			</par>
+			<par id="source_298">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:22.824" clipEnd="0:38:33.643"/>
+			</par>
+			<par id="P35_65">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:33.643" clipEnd="0:38:34.209"/>
+			</par>
+			<par id="source_299">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:34.209" clipEnd="0:38:39.899"/>
+			</par>
+			<par id="P35_66">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:39.899" clipEnd="0:38:41.057"/>
+			</par>
+			<par id="source_300">
+				<audio src="EC-05181-025.wav" clipBegin="0:38:41.057" clipEnd="0:39:01.720"/>
+			</par>
+			<par id="P35_67">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:01.720" clipEnd="0:39:02.516"/>
+			</par>
+			<par id="source_301">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:02.516" clipEnd="0:39:23.132"/>
+			</par>
+			<par id="P35_68">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:23.132" clipEnd="0:39:23.910"/>
+			</par>
+			<par id="source_302">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:23.910" clipEnd="0:39:33.838"/>
+			</par>
+			<par id="P35_69">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:33.838" clipEnd="0:39:34.852"/>
+			</par>
+			<par id="source_303">
+				<audio src="EC-05181-025.wav" clipBegin="0:39:34.852" clipEnd="0:41:02.777"/>
+			</par>
+			<par id="P35_70">
+				<audio src="EC-05181-025.wav" clipBegin="0:41:02.777" clipEnd="0:41:03.772"/>
+			</par>
+			<par id="source_304">
+				<audio src="EC-05181-025.wav" clipBegin="0:41:03.772" clipEnd="0:41:28.902"/>
+			</par>
+			<par id="P35_71">
+				<audio src="EC-05181-025.wav" clipBegin="0:41:28.902" clipEnd="0:41:29.774"/>
+			</par>
+			<par id="source_305">
+				<audio src="EC-05181-025.wav" clipBegin="0:41:29.774" clipEnd="0:42:29.921"/>
+			</par>
+			<par id="P3_14">
+				<audio src="EC-05181-025.wav" clipBegin="0:42:29.921" clipEnd="0:42:30.817"/>
+			</par>
+			<par id="source_306">
+				<audio src="EC-05181-025.wav" clipBegin="0:42:30.817" clipEnd="0:42:32.134"/>
+			</par>
+			<par id="P35_72">
+				<audio src="EC-05181-025.wav" clipBegin="0:42:32.134" clipEnd="0:42:32.912"/>
+			</par>
+			<par id="source_307">
+				<audio src="EC-05181-025.wav" clipBegin="0:42:32.912" clipEnd="0:45:13.850"/>
+			</par>
+			<par id="P35_73">
+				<audio src="EC-05181-025.wav" clipBegin="0:45:13.850" clipEnd="0:45:14.583"/>
+			</par>
+			<par id="source_308">
+				<audio src="EC-05181-025.wav" clipBegin="0:45:14.583" clipEnd="0:45:23.206"/>
+			</par>
+			<par id="P35_74">
+				<audio src="EC-05181-025.wav" clipBegin="0:45:23.206" clipEnd="0:45:24.025"/>
+			</par>
+			<seq id="source_309">
+				<audio src="EC-05181-025.wav" clipBegin="0:45:24.025" clipEnd="0:46:13.606"/>
+				<audio src="EC-05181-025.wav" clipBegin="0:49:31.829" clipEnd="0:49:31.872"/>
+				<audio src="EC-05181-026.wav" clipBegin="0:00:10.608" clipEnd="0:00:36.284"/>
+			</seq>
+			<par id="P35_75">
+				<audio src="EC-05181-026.wav" clipBegin="0:00:36.284" clipEnd="0:00:36.890"/>
+			</par>
+			<par id="source_310">
+				<audio src="EC-05181-026.wav" clipBegin="0:00:36.890" clipEnd="0:00:44.027"/>
+			</par>
+			<par id="P35_76">
+				<audio src="EC-05181-026.wav" clipBegin="0:00:44.027" clipEnd="0:00:44.809"/>
+			</par>
+			<par id="source_311">
+				<audio src="EC-05181-026.wav" clipBegin="0:00:44.809" clipEnd="0:01:29.626"/>
+			</par>
+			<par id="P35_77">
+				<audio src="EC-05181-026.wav" clipBegin="0:01:29.626" clipEnd="0:01:30.333"/>
+			</par>
+			<par id="source_312">
+				<audio src="EC-05181-026.wav" clipBegin="0:01:30.333" clipEnd="0:02:47.284"/>
+			</par>
+			<par id="P35_78">
+				<audio src="EC-05181-026.wav" clipBegin="0:02:47.284" clipEnd="0:02:48.029"/>
+			</par>
+			<par id="source_313">
+				<audio src="EC-05181-026.wav" clipBegin="0:02:48.029" clipEnd="0:04:21.438"/>
+			</par>
+			<par id="P35_79">
+				<audio src="EC-05181-026.wav" clipBegin="0:04:21.438" clipEnd="0:04:21.962"/>
+			</par>
+			<par id="source_314">
+				<audio src="EC-05181-026.wav" clipBegin="0:04:21.962" clipEnd="0:04:48.701"/>
+			</par>
+			<par id="P35_80">
+				<audio src="EC-05181-026.wav" clipBegin="0:04:48.701" clipEnd="0:04:49.308"/>
+			</par>
+			<par id="source_315">
+				<audio src="EC-05181-026.wav" clipBegin="0:04:49.308" clipEnd="0:05:19.369"/>
+			</par>
+			<par id="P35_81">
+				<audio src="EC-05181-026.wav" clipBegin="0:05:19.369" clipEnd="0:05:20.079"/>
+			</par>
+			<par id="source_316">
+				<audio src="EC-05181-026.wav" clipBegin="0:05:20.079" clipEnd="0:05:38.135"/>
+			</par>
+			<par id="P35_82">
+				<audio src="EC-05181-026.wav" clipBegin="0:05:38.135" clipEnd="0:05:38.940"/>
+			</par>
+			<par id="source_317">
+				<audio src="EC-05181-026.wav" clipBegin="0:05:38.940" clipEnd="0:06:00.772"/>
+			</par>
+			<par id="P35_83">
+				<audio src="EC-05181-026.wav" clipBegin="0:06:00.772" clipEnd="0:06:01.523"/>
+			</par>
+			<par id="source_318">
+				<audio src="EC-05181-026.wav" clipBegin="0:06:01.523" clipEnd="0:06:46.891"/>
+			</par>
+			<par id="P35_84">
+				<audio src="EC-05181-026.wav" clipBegin="0:06:46.891" clipEnd="0:06:47.859"/>
+			</par>
+			<par id="source_319">
+				<audio src="EC-05181-026.wav" clipBegin="0:06:47.859" clipEnd="0:09:04.645"/>
+			</par>
+			<par id="P35_85">
+				<audio src="EC-05181-026.wav" clipBegin="0:09:04.645" clipEnd="0:09:05.690"/>
+			</par>
+			<par id="source_320">
+				<audio src="EC-05181-026.wav" clipBegin="0:09:05.690" clipEnd="0:09:46.519"/>
+			</par>
+			<par id="P35_86">
+				<audio src="EC-05181-026.wav" clipBegin="0:09:46.519" clipEnd="0:09:47.423"/>
+			</par>
+			<par id="source_321">
+				<audio src="EC-05181-026.wav" clipBegin="0:09:47.423" clipEnd="0:11:01.362"/>
+			</par>
+			<par id="P35_87">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:01.362" clipEnd="0:11:02.276"/>
+			</par>
+			<par id="source_322">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:02.276" clipEnd="0:11:10.739"/>
+			</par>
+			<par id="P35_88">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:10.739" clipEnd="0:11:11.789"/>
+			</par>
+			<par id="source_323">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:11.789" clipEnd="0:11:24.493"/>
+			</par>
+			<par id="P35_89">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:24.493" clipEnd="0:11:25.289"/>
+			</par>
+			<par id="source_324">
+				<audio src="EC-05181-026.wav" clipBegin="0:11:25.289" clipEnd="0:13:03.208"/>
+			</par>
+			<par id="P35_90">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:03.208" clipEnd="0:13:04.176"/>
+			</par>
+			<par id="source_325">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:04.176" clipEnd="0:13:30.416"/>
+			</par>
+			<par id="P35_91">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:30.416" clipEnd="0:13:31.015"/>
+			</par>
+			<par id="source_326">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:31.015" clipEnd="0:13:36.007"/>
+			</par>
+			<par id="P35_92">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:36.007" clipEnd="0:13:36.850"/>
+			</par>
+			<par id="source_327">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:36.850" clipEnd="0:13:41.616"/>
+			</par>
+			<par id="P35_93">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:41.616" clipEnd="0:13:42.387"/>
+			</par>
+			<par id="source_328">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:42.387" clipEnd="0:13:47.069"/>
+			</par>
+			<par id="P35_94">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:47.069" clipEnd="0:13:48.040"/>
+			</par>
+			<par id="source_329">
+				<audio src="EC-05181-026.wav" clipBegin="0:13:48.040" clipEnd="0:14:07.064"/>
+			</par>
+			<par id="P35_95">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:07.064" clipEnd="0:14:08.014"/>
+			</par>
+			<par id="source_330">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:08.014" clipEnd="0:14:18.267"/>
+			</par>
+			<par id="P35_96">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:18.267" clipEnd="0:14:19.167"/>
+			</par>
+			<par id="source_331">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:19.167" clipEnd="0:14:31.874"/>
+			</par>
+			<par id="P35_97">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:31.874" clipEnd="0:14:32.932"/>
+			</par>
+			<par id="source_332">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:32.932" clipEnd="0:14:49.816"/>
+			</par>
+			<par id="P35_98">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:49.816" clipEnd="0:14:50.728"/>
+			</par>
+			<par id="source_333">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:50.728" clipEnd="0:14:55.252"/>
+			</par>
+			<par id="P35_99">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:55.252" clipEnd="0:14:56.070"/>
+			</par>
+			<par id="source_334">
+				<audio src="EC-05181-026.wav" clipBegin="0:14:56.070" clipEnd="0:15:12.183"/>
+			</par>
+			<par id="P35_100">
+				<audio src="EC-05181-026.wav" clipBegin="0:15:12.183" clipEnd="0:15:12.987"/>
+			</par>
+			<par id="source_335">
+				<audio src="EC-05181-026.wav" clipBegin="0:15:12.987" clipEnd="0:15:56.576"/>
+			</par>
+			<par id="P35_101">
+				<audio src="EC-05181-026.wav" clipBegin="0:15:56.576" clipEnd="0:15:57.417"/>
+			</par>
+			<par id="source_336">
+				<audio src="EC-05181-026.wav" clipBegin="0:15:57.417" clipEnd="0:16:43.841"/>
+			</par>
+			<par id="P35_102">
+				<audio src="EC-05181-026.wav" clipBegin="0:16:43.841" clipEnd="0:16:44.980"/>
+			</par>
+			<par id="source_337">
+				<audio src="EC-05181-026.wav" clipBegin="0:16:44.980" clipEnd="0:17:28.346"/>
+			</par>
+			<par id="P35_103">
+				<audio src="EC-05181-026.wav" clipBegin="0:17:28.346" clipEnd="0:17:29.368"/>
+			</par>
+			<par id="source_338">
+				<audio src="EC-05181-026.wav" clipBegin="0:17:29.368" clipEnd="0:18:45.104"/>
+			</par>
+			<par id="P35_104">
+				<audio src="EC-05181-026.wav" clipBegin="0:18:45.104" clipEnd="0:18:46.207"/>
+			</par>
+			<par id="source_339">
+				<audio src="EC-05181-026.wav" clipBegin="0:18:46.207" clipEnd="0:19:09.575"/>
+			</par>
+			<par id="P35_105">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:09.575" clipEnd="0:19:10.547"/>
+			</par>
+			<par id="source_340">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:10.547" clipEnd="0:19:30.352"/>
+			</par>
+			<par id="P3_15">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:30.352" clipEnd="0:19:31.328"/>
+			</par>
+			<par id="source_341">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:31.328" clipEnd="0:19:33.639"/>
+			</par>
+			<par id="P35_106">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:33.639" clipEnd="0:19:34.430"/>
+			</par>
+			<par id="source_342">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:34.430" clipEnd="0:19:40.914"/>
+			</par>
+			<par id="P35_107">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:40.914" clipEnd="0:19:41.553"/>
+			</par>
+			<par id="source_343">
+				<audio src="EC-05181-026.wav" clipBegin="0:19:41.553" clipEnd="0:21:14.205"/>
+			</par>
+			<par id="P35_108">
+				<audio src="EC-05181-026.wav" clipBegin="0:21:14.205" clipEnd="0:21:14.919"/>
+			</par>
+			<par id="source_344">
+				<audio src="EC-05181-026.wav" clipBegin="0:21:14.919" clipEnd="0:22:53.023"/>
+			</par>
+			<par id="P35_109">
+				<audio src="EC-05181-026.wav" clipBegin="0:22:53.023" clipEnd="0:22:53.623"/>
+			</par>
+			<par id="source_345">
+				<audio src="EC-05181-026.wav" clipBegin="0:22:53.623" clipEnd="0:23:00.632"/>
+			</par>
+			<par id="P35_110">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:00.632" clipEnd="0:23:01.342"/>
+			</par>
+			<par id="source_346">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:01.342" clipEnd="0:23:19.544"/>
+			</par>
+			<par id="P35_111">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:19.544" clipEnd="0:23:20.213"/>
+			</par>
+			<par id="source_347">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:20.213" clipEnd="0:23:30.382"/>
+			</par>
+			<par id="P35_112">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:30.382" clipEnd="0:23:31.105"/>
+			</par>
+			<par id="source_348">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:31.105" clipEnd="0:23:39.603"/>
+			</par>
+			<par id="P35_113">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:39.603" clipEnd="0:23:40.186"/>
+			</par>
+			<par id="source_349">
+				<audio src="EC-05181-026.wav" clipBegin="0:23:40.186" clipEnd="0:24:10.864"/>
+			</par>
+			<par id="P35_114">
+				<audio src="EC-05181-026.wav" clipBegin="0:24:10.864" clipEnd="0:24:11.642"/>
+			</par>
+			<par id="source_350">
+				<audio src="EC-05181-026.wav" clipBegin="0:24:11.642" clipEnd="0:25:11.266"/>
+			</par>
+			<par id="P35_115">
+				<audio src="EC-05181-026.wav" clipBegin="0:25:11.266" clipEnd="0:25:11.972"/>
+			</par>
+			<par id="source_351">
+				<audio src="EC-05181-026.wav" clipBegin="0:25:11.972" clipEnd="0:26:31.711"/>
+			</par>
+			<par id="P35_116">
+				<audio src="EC-05181-026.wav" clipBegin="0:26:31.711" clipEnd="0:26:32.502"/>
+			</par>
+			<par id="source_352">
+				<audio src="EC-05181-026.wav" clipBegin="0:26:32.502" clipEnd="0:27:07.552"/>
+			</par>
+			<par id="P35_117">
+				<audio src="EC-05181-026.wav" clipBegin="0:27:07.552" clipEnd="0:27:08.275"/>
+			</par>
+			<par id="source_353">
+				<audio src="EC-05181-026.wav" clipBegin="0:27:08.275" clipEnd="0:28:15.254"/>
+			</par>
+			<par id="P35_118">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:15.254" clipEnd="0:28:16.258"/>
+			</par>
+			<par id="source_354">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:16.258" clipEnd="0:28:28.645"/>
+			</par>
+			<par id="P35_119">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:28.645" clipEnd="0:28:29.620"/>
+			</par>
+			<par id="source_355">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:29.620" clipEnd="0:28:39.330"/>
+			</par>
+			<par id="P35_120">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:39.330" clipEnd="0:28:40.262"/>
+			</par>
+			<par id="source_356">
+				<audio src="EC-05181-026.wav" clipBegin="0:28:40.262" clipEnd="0:29:03.849"/>
+			</par>
+			<par id="P35_121">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:03.849" clipEnd="0:29:04.789"/>
+			</par>
+			<par id="source_357">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:04.789" clipEnd="0:29:29.697"/>
+			</par>
+			<par id="P35_122">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:29.697" clipEnd="0:29:30.714"/>
+			</par>
+			<par id="source_358">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:30.714" clipEnd="0:29:51.547"/>
+			</par>
+			<par id="P35_123">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:51.547" clipEnd="0:29:52.469"/>
+			</par>
+			<par id="source_359">
+				<audio src="EC-05181-026.wav" clipBegin="0:29:52.469" clipEnd="0:30:40.722"/>
+			</par>
+			<par id="P35_124">
+				<audio src="EC-05181-026.wav" clipBegin="0:30:40.722" clipEnd="0:30:41.658"/>
+			</par>
+			<par id="source_360">
+				<audio src="EC-05181-026.wav" clipBegin="0:30:41.658" clipEnd="0:30:45.503"/>
+			</par>
+			<par id="P35_125">
+				<audio src="EC-05181-026.wav" clipBegin="0:30:45.503" clipEnd="0:30:46.121"/>
+			</par>
+			<par id="source_361">
+				<audio src="EC-05181-026.wav" clipBegin="0:30:46.121" clipEnd="0:31:15.518"/>
+			</par>
+			<par id="P35_126">
+				<audio src="EC-05181-026.wav" clipBegin="0:31:15.518" clipEnd="0:31:16.296"/>
+			</par>
+			<par id="source_362">
+				<audio src="EC-05181-026.wav" clipBegin="0:31:16.296" clipEnd="0:31:27.086"/>
+			</par>
+			<par id="P35_127">
+				<audio src="EC-05181-026.wav" clipBegin="0:31:27.086" clipEnd="0:31:28.081"/>
+			</par>
+			<par id="source_363">
+				<audio src="EC-05181-026.wav" clipBegin="0:31:28.081" clipEnd="0:32:56.359"/>
+			</par>
+			<par id="P35_128">
+				<audio src="EC-05181-026.wav" clipBegin="0:32:56.359" clipEnd="0:32:57.281"/>
+			</par>
+			<par id="source_364">
+				<audio src="EC-05181-026.wav" clipBegin="0:32:57.281" clipEnd="0:33:18.681"/>
+			</par>
+			<par id="P35_129">
+				<audio src="EC-05181-026.wav" clipBegin="0:33:18.681" clipEnd="0:33:19.644"/>
+			</par>
+			<par id="source_365">
+				<audio src="EC-05181-026.wav" clipBegin="0:33:19.644" clipEnd="0:33:23.666"/>
+			</par>
+			<par id="P35_130">
+				<audio src="EC-05181-026.wav" clipBegin="0:33:23.666" clipEnd="0:33:24.823"/>
+			</par>
+			<par id="source_366">
+				<audio src="EC-05181-026.wav" clipBegin="0:33:24.823" clipEnd="0:34:46.798"/>
+			</par>
+			<par id="P35_131">
+				<audio src="EC-05181-026.wav" clipBegin="0:34:46.798" clipEnd="0:34:47.890"/>
+			</par>
+			<par id="source_367">
+				<audio src="EC-05181-026.wav" clipBegin="0:34:47.890" clipEnd="0:35:14.376"/>
+			</par>
+			<par id="P35_132">
+				<audio src="EC-05181-026.wav" clipBegin="0:35:14.376" clipEnd="0:35:15.451"/>
+			</par>
+			<par id="source_368">
+				<audio src="EC-05181-026.wav" clipBegin="0:35:15.451" clipEnd="0:35:39.516"/>
+			</par>
+			<par id="P35_133">
+				<audio src="EC-05181-026.wav" clipBegin="0:35:39.516" clipEnd="0:35:40.523"/>
+			</par>
+			<par id="source_369">
+				<audio src="EC-05181-026.wav" clipBegin="0:35:40.523" clipEnd="0:36:03.530"/>
+			</par>
+			<par id="P35_134">
+				<audio src="EC-05181-026.wav" clipBegin="0:36:03.530" clipEnd="0:36:04.569"/>
+			</par>
+			<par id="source_370">
+				<audio src="EC-05181-026.wav" clipBegin="0:36:04.569" clipEnd="0:36:36.076"/>
+			</par>
+			<par id="P35_135">
+				<audio src="EC-05181-026.wav" clipBegin="0:36:36.076" clipEnd="0:36:36.876"/>
+			</par>
+			<par id="source_371">
+				<audio src="EC-05181-026.wav" clipBegin="0:36:36.876" clipEnd="0:37:23.385"/>
+			</par>
+			<par id="P35_136">
+				<audio src="EC-05181-026.wav" clipBegin="0:37:23.385" clipEnd="0:37:24.151"/>
+			</par>
+			<par id="source_372">
+				<audio src="EC-05181-026.wav" clipBegin="0:37:24.151" clipEnd="0:37:45.255"/>
+			</par>
+			<par id="P35_137">
+				<audio src="EC-05181-026.wav" clipBegin="0:37:45.255" clipEnd="0:37:46.321"/>
+			</par>
+			<par id="source_373">
+				<audio src="EC-05181-026.wav" clipBegin="0:37:46.321" clipEnd="0:38:32.311"/>
+			</par>
+			<par id="P35_138">
+				<audio src="EC-05181-026.wav" clipBegin="0:38:32.311" clipEnd="0:38:33.355"/>
+			</par>
+			<par id="source_374">
+				<audio src="EC-05181-026.wav" clipBegin="0:38:33.355" clipEnd="0:39:14.526"/>
+			</par>
+			<par id="P35_139">
+				<audio src="EC-05181-026.wav" clipBegin="0:39:14.526" clipEnd="0:39:15.546"/>
+			</par>
+			<par id="source_375">
+				<audio src="EC-05181-026.wav" clipBegin="0:39:15.546" clipEnd="0:39:55.601"/>
+			</par>
+			<par id="P35_140">
+				<audio src="EC-05181-026.wav" clipBegin="0:39:55.601" clipEnd="0:39:56.675"/>
+			</par>
+			<par id="source_376">
+				<audio src="EC-05181-026.wav" clipBegin="0:39:56.675" clipEnd="0:42:20.524"/>
+			</par>
+			<par id="P35_141">
+				<audio src="EC-05181-026.wav" clipBegin="0:42:20.524" clipEnd="0:42:21.672"/>
+			</par>
+			<par id="source_377">
+				<audio src="EC-05181-026.wav" clipBegin="0:42:21.672" clipEnd="0:43:56.626"/>
+			</par>
+			<par id="P35_142">
+				<audio src="EC-05181-026.wav" clipBegin="0:43:56.626" clipEnd="0:43:57.735"/>
+			</par>
+			<par id="source_378">
+				<audio src="EC-05181-026.wav" clipBegin="0:43:57.735" clipEnd="0:44:34.522"/>
+			</par>
+			<par id="P35_143">
+				<audio src="EC-05181-026.wav" clipBegin="0:44:34.522" clipEnd="0:44:35.510"/>
+			</par>
+			<seq id="source_379">
+				<audio src="EC-05181-026.wav" clipBegin="0:44:35.510" clipEnd="0:45:04.638"/>
+				<audio src="EC-05181-026.wav" clipBegin="0:45:07.043" clipEnd="0:45:07.095"/>
+				<audio src="EC-05181-027.wav" clipBegin="0:00:10.681" clipEnd="0:01:12.762"/>
+				<audio src="EC-05181-027.wav" clipBegin="0:01:12.863" clipEnd="0:01:12.903"/>
+			</seq>
+			<par id="P35_144">
+				<audio src="EC-05181-027.wav" clipBegin="0:01:12.903" clipEnd="0:01:13.984"/>
+			</par>
+			<par id="source_380">
+				<audio src="EC-05181-027.wav" clipBegin="0:01:13.984" clipEnd="0:02:37.365"/>
+			</par>
+			<par id="P35_145">
+				<audio src="EC-05181-027.wav" clipBegin="0:02:37.365" clipEnd="0:02:38.102"/>
+			</par>
+			<par id="source_381">
+				<audio src="EC-05181-027.wav" clipBegin="0:02:38.102" clipEnd="0:03:39.998"/>
+			</par>
+			<par id="P35_146">
+				<audio src="EC-05181-027.wav" clipBegin="0:03:39.998" clipEnd="0:03:40.674"/>
+			</par>
+			<par id="source_382">
+				<audio src="EC-05181-027.wav" clipBegin="0:03:40.674" clipEnd="0:04:00.192"/>
+			</par>
+			<par id="P35_147">
+				<audio src="EC-05181-027.wav" clipBegin="0:04:00.192" clipEnd="0:04:01.422"/>
+			</par>
+			<par id="source_383">
+				<audio src="EC-05181-027.wav" clipBegin="0:04:01.422" clipEnd="0:05:21.638"/>
+			</par>
+			<par id="P35_148">
+				<audio src="EC-05181-027.wav" clipBegin="0:05:21.638" clipEnd="0:05:22.804"/>
+			</par>
+			<par id="source_384">
+				<audio src="EC-05181-027.wav" clipBegin="0:05:22.804" clipEnd="0:05:41.427"/>
+			</par>
+			<par id="P35_149">
+				<audio src="EC-05181-027.wav" clipBegin="0:05:41.427" clipEnd="0:05:42.458"/>
+			</par>
+			<par id="source_385">
+				<audio src="EC-05181-027.wav" clipBegin="0:05:42.458" clipEnd="0:06:08.527"/>
+			</par>
+			<par id="P35_150">
+				<audio src="EC-05181-027.wav" clipBegin="0:06:08.527" clipEnd="0:06:09.712"/>
+			</par>
+			<par id="source_386">
+				<audio src="EC-05181-027.wav" clipBegin="0:06:09.712" clipEnd="0:08:20.617"/>
+			</par>
+			<par id="P3_16">
+				<audio src="EC-05181-027.wav" clipBegin="0:08:20.617" clipEnd="0:08:21.671"/>
+			</par>
+			<par id="source_387">
+				<audio src="EC-05181-027.wav" clipBegin="0:08:21.671" clipEnd="0:08:25.689"/>
+			</par>
+			<par id="P35_151">
+				<audio src="EC-05181-027.wav" clipBegin="0:08:25.689" clipEnd="0:08:26.539"/>
+			</par>
+			<par id="source_388">
+				<audio src="EC-05181-027.wav" clipBegin="0:08:26.539" clipEnd="0:09:05.455"/>
+			</par>
+			<par id="P35_152">
+				<audio src="EC-05181-027.wav" clipBegin="0:09:05.455" clipEnd="0:09:06.255"/>
+			</par>
+			<par id="source_389">
+				<audio src="EC-05181-027.wav" clipBegin="0:09:06.255" clipEnd="0:09:59.236"/>
+			</par>
+			<par id="P35_153">
+				<audio src="EC-05181-027.wav" clipBegin="0:09:59.236" clipEnd="0:09:59.933"/>
+			</par>
+			<par id="source_390">
+				<audio src="EC-05181-027.wav" clipBegin="0:09:59.933" clipEnd="0:10:08.932"/>
+			</par>
+			<par id="P35_154">
+				<audio src="EC-05181-027.wav" clipBegin="0:10:08.932" clipEnd="0:10:09.679"/>
+			</par>
+			<par id="source_391">
+				<audio src="EC-05181-027.wav" clipBegin="0:10:09.679" clipEnd="0:10:49.442"/>
+			</par>
+			<par id="P35_155">
+				<audio src="EC-05181-027.wav" clipBegin="0:10:49.442" clipEnd="0:10:50.270"/>
+			</par>
+			<par id="source_392">
+				<audio src="EC-05181-027.wav" clipBegin="0:10:50.270" clipEnd="0:11:08.265"/>
+			</par>
+			<par id="P35_156">
+				<audio src="EC-05181-027.wav" clipBegin="0:11:08.265" clipEnd="0:11:09.156"/>
+			</par>
+			<seq id="source_393">
+				<audio src="EC-05181-027.wav" clipBegin="0:11:09.156" clipEnd="0:11:20.865"/>
+				<audio src="EC-05181-027.wav" clipBegin="0:11:20.922" clipEnd="0:11:53.837"/>
+			</seq>
+			<par id="P35_157">
+				<audio src="EC-05181-027.wav" clipBegin="0:11:53.837" clipEnd="0:11:54.632"/>
+			</par>
+			<par id="source_394">
+				<audio src="EC-05181-027.wav" clipBegin="0:11:54.632" clipEnd="0:12:17.137"/>
+			</par>
+			<par id="P35_158">
+				<audio src="EC-05181-027.wav" clipBegin="0:12:17.137" clipEnd="0:12:17.906"/>
+			</par>
+			<par id="source_395">
+				<audio src="EC-05181-027.wav" clipBegin="0:12:17.906" clipEnd="0:13:55.594"/>
+			</par>
+			<par id="P35_159">
+				<audio src="EC-05181-027.wav" clipBegin="0:13:55.594" clipEnd="0:13:56.422"/>
+			</par>
+			<par id="source_396">
+				<audio src="EC-05181-027.wav" clipBegin="0:13:56.422" clipEnd="0:14:33.990"/>
+			</par>
+			<par id="P35_160">
+				<audio src="EC-05181-027.wav" clipBegin="0:14:33.990" clipEnd="0:14:34.741"/>
+			</par>
+			<par id="source_397">
+				<audio src="EC-05181-027.wav" clipBegin="0:14:34.741" clipEnd="0:16:08.289"/>
+			</par>
+			<par id="P35_161">
+				<audio src="EC-05181-027.wav" clipBegin="0:16:08.289" clipEnd="0:16:09.271"/>
+			</par>
+			<par id="source_398">
+				<audio src="EC-05181-027.wav" clipBegin="0:16:09.271" clipEnd="0:19:46.999"/>
+			</par>
+			<par id="P35_162">
+				<audio src="EC-05181-027.wav" clipBegin="0:19:46.999" clipEnd="0:19:47.976"/>
+			</par>
+			<par id="source_399">
+				<audio src="EC-05181-027.wav" clipBegin="0:19:47.976" clipEnd="0:21:12.909"/>
+			</par>
+			<par id="P35_163">
+				<audio src="EC-05181-027.wav" clipBegin="0:21:12.909" clipEnd="0:21:14.026"/>
+			</par>
+			<par id="source_400">
+				<audio src="EC-05181-027.wav" clipBegin="0:21:14.026" clipEnd="0:24:17.178"/>
+			</par>
+			<par id="P35_164">
+				<audio src="EC-05181-027.wav" clipBegin="0:24:17.178" clipEnd="0:24:18.077"/>
+			</par>
+			<par id="source_401">
+				<audio src="EC-05181-027.wav" clipBegin="0:24:18.077" clipEnd="0:24:46.926"/>
+			</par>
+			<par id="P35_165">
+				<audio src="EC-05181-027.wav" clipBegin="0:24:46.926" clipEnd="0:24:47.949"/>
+			</par>
+			<par id="source_402">
+				<audio src="EC-05181-027.wav" clipBegin="0:24:47.949" clipEnd="0:25:36.205"/>
+			</par>
+			<par id="P35_166">
+				<audio src="EC-05181-027.wav" clipBegin="0:25:36.205" clipEnd="0:25:37.232"/>
+			</par>
+			<par id="source_403">
+				<audio src="EC-05181-027.wav" clipBegin="0:25:37.232" clipEnd="0:25:44.308"/>
+			</par>
+			<par id="P35_167">
+				<audio src="EC-05181-027.wav" clipBegin="0:25:44.308" clipEnd="0:25:45.384"/>
+			</par>
+			<par id="source_404">
+				<audio src="EC-05181-027.wav" clipBegin="0:25:45.384" clipEnd="0:26:17.307"/>
+			</par>
+			<par id="P35_168">
+				<audio src="EC-05181-027.wav" clipBegin="0:26:17.307" clipEnd="0:26:18.306"/>
+			</par>
+			<par id="source_405">
+				<audio src="EC-05181-027.wav" clipBegin="0:26:18.306" clipEnd="0:26:58.259"/>
+			</par>
+			<par id="P35_169">
+				<audio src="EC-05181-027.wav" clipBegin="0:26:58.259" clipEnd="0:26:59.380"/>
+			</par>
+			<par id="source_406">
+				<audio src="EC-05181-027.wav" clipBegin="0:26:59.380" clipEnd="0:27:33.466"/>
+			</par>
+			<par id="P35_170">
+				<audio src="EC-05181-027.wav" clipBegin="0:27:33.466" clipEnd="0:27:34.389"/>
+			</par>
+			<par id="source_407">
+				<audio src="EC-05181-027.wav" clipBegin="0:27:34.389" clipEnd="0:27:58.046"/>
+			</par>
+			<par id="P35_171">
+				<audio src="EC-05181-027.wav" clipBegin="0:27:58.046" clipEnd="0:27:59.019"/>
+			</par>
+			<par id="source_408">
+				<audio src="EC-05181-027.wav" clipBegin="0:27:59.019" clipEnd="0:28:34.771"/>
+			</par>
+			<par id="P3_17">
+				<audio src="EC-05181-027.wav" clipBegin="0:28:34.771" clipEnd="0:28:35.670"/>
+			</par>
+			<par id="source_409">
+				<audio src="EC-05181-027.wav" clipBegin="0:28:35.670" clipEnd="0:28:38.794"/>
+			</par>
+			<par id="P35_172">
+				<audio src="EC-05181-027.wav" clipBegin="0:28:38.794" clipEnd="0:28:39.605"/>
+			</par>
+			<par id="source_410">
+				<audio src="EC-05181-027.wav" clipBegin="0:28:39.605" clipEnd="0:29:43.140"/>
+			</par>
+			<par id="P35_173">
+				<audio src="EC-05181-027.wav" clipBegin="0:29:43.140" clipEnd="0:29:43.814"/>
+			</par>
+			<par id="source_411">
+				<audio src="EC-05181-027.wav" clipBegin="0:29:43.814" clipEnd="0:30:22.794"/>
+			</par>
+			<par id="P35_174">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:22.794" clipEnd="0:30:23.631"/>
+			</par>
+			<par id="source_412">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:23.631" clipEnd="0:30:31.812"/>
+			</par>
+			<par id="P35_175">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:31.812" clipEnd="0:30:32.553"/>
+			</par>
+			<par id="source_413">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:32.553" clipEnd="0:30:41.886"/>
+			</par>
+			<par id="P35_176">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:41.886" clipEnd="0:30:42.677"/>
+			</par>
+			<par id="source_414">
+				<audio src="EC-05181-027.wav" clipBegin="0:30:42.677" clipEnd="0:34:59.989"/>
+			</par>
+			<par id="P35_177">
+				<audio src="EC-05181-027.wav" clipBegin="0:34:59.989" clipEnd="0:35:00.781"/>
+			</par>
+			<par id="source_415">
+				<audio src="EC-05181-027.wav" clipBegin="0:35:00.781" clipEnd="0:35:34.547"/>
+			</par>
+			<par id="P35_178">
+				<audio src="EC-05181-027.wav" clipBegin="0:35:34.547" clipEnd="0:35:35.438"/>
+			</par>
+			<par id="source_416">
+				<audio src="EC-05181-027.wav" clipBegin="0:35:35.438" clipEnd="0:36:59.493"/>
+			</par>
+			<par id="P35_179">
+				<audio src="EC-05181-027.wav" clipBegin="0:36:59.493" clipEnd="0:37:00.203"/>
+			</par>
+			<par id="source_417">
+				<audio src="EC-05181-027.wav" clipBegin="0:37:00.203" clipEnd="0:38:32.312"/>
+			</par>
+			<par id="P35_180">
+				<audio src="EC-05181-027.wav" clipBegin="0:38:32.312" clipEnd="0:38:33.123"/>
+			</par>
+			<par id="source_418">
+				<audio src="EC-05181-027.wav" clipBegin="0:38:33.123" clipEnd="0:39:29.933"/>
+			</par>
+			<par id="P35_181">
+				<audio src="EC-05181-027.wav" clipBegin="0:39:29.933" clipEnd="0:39:30.698"/>
+			</par>
+			<par id="source_419">
+				<audio src="EC-05181-027.wav" clipBegin="0:39:30.698" clipEnd="0:39:55.751"/>
+			</par>
+			<par id="P35_182">
+				<audio src="EC-05181-027.wav" clipBegin="0:39:55.751" clipEnd="0:39:56.569"/>
+			</par>
+			<par id="source_420">
+				<audio src="EC-05181-027.wav" clipBegin="0:39:56.569" clipEnd="0:40:21.436"/>
+			</par>
+			<par id="P35_183">
+				<audio src="EC-05181-027.wav" clipBegin="0:40:21.436" clipEnd="0:40:22.240"/>
+			</par>
+			<par id="source_421">
+				<audio src="EC-05181-027.wav" clipBegin="0:40:22.240" clipEnd="0:41:03.210"/>
+			</par>
+			<par id="P35_184">
+				<audio src="EC-05181-027.wav" clipBegin="0:41:03.210" clipEnd="0:41:04.245"/>
+			</par>
+			<par id="source_422">
+				<audio src="EC-05181-027.wav" clipBegin="0:41:04.245" clipEnd="0:41:27.741"/>
+			</par>
+			<par id="P35_185">
+				<audio src="EC-05181-027.wav" clipBegin="0:41:27.741" clipEnd="0:41:28.721"/>
+			</par>
+			<par id="source_423">
+				<audio src="EC-05181-027.wav" clipBegin="0:41:28.721" clipEnd="0:42:52.576"/>
+			</par>
+			<par id="P35_186">
+				<audio src="EC-05181-027.wav" clipBegin="0:42:52.576" clipEnd="0:42:53.557"/>
+			</par>
+			<par id="source_424">
+				<audio src="EC-05181-027.wav" clipBegin="0:42:53.557" clipEnd="0:43:17.312"/>
+			</par>
+			<par id="P35_187">
+				<audio src="EC-05181-027.wav" clipBegin="0:43:17.312" clipEnd="0:43:18.424"/>
+			</par>
+			<seq id="source_425">
+				<audio src="EC-05181-027.wav" clipBegin="0:43:18.424" clipEnd="0:45:10.555"/>
+				<audio src="EC-05181-027.wav" clipBegin="0:45:13.397" clipEnd="0:45:13.443"/>
+			</seq>
+			<par id="P35_188">
+				<audio src="EC-05181-028.wav" clipBegin="0:00:09.272" clipEnd="0:00:10.393"/>
+			</par>
+			<par id="source_426">
+				<audio src="EC-05181-028.wav" clipBegin="0:00:10.393" clipEnd="0:00:19.366"/>
+			</par>
+			<par id="P35_189">
+				<audio src="EC-05181-028.wav" clipBegin="0:00:19.366" clipEnd="0:00:20.270"/>
+			</par>
+			<par id="source_427">
+				<audio src="EC-05181-028.wav" clipBegin="0:00:20.270" clipEnd="0:01:09.906"/>
+			</par>
+			<par id="P35_190">
+				<audio src="EC-05181-028.wav" clipBegin="0:01:09.906" clipEnd="0:01:10.924"/>
+			</par>
+			<par id="source_428">
+				<audio src="EC-05181-028.wav" clipBegin="0:01:10.924" clipEnd="0:03:44.847"/>
+			</par>
+			<par id="P35_191">
+				<audio src="EC-05181-028.wav" clipBegin="0:03:44.847" clipEnd="0:03:45.715"/>
+			</par>
+			<par id="source_429">
+				<audio src="EC-05181-028.wav" clipBegin="0:03:45.715" clipEnd="0:04:41.369"/>
+			</par>
+			<par id="P35_192">
+				<audio src="EC-05181-028.wav" clipBegin="0:04:41.369" clipEnd="0:04:42.337"/>
+			</par>
+			<par id="source_430">
+				<audio src="EC-05181-028.wav" clipBegin="0:04:42.337" clipEnd="0:06:52.602"/>
+			</par>
+			<par id="P35_193">
+				<audio src="EC-05181-028.wav" clipBegin="0:06:52.602" clipEnd="0:06:53.679"/>
+			</par>
+			<par id="source_431">
+				<audio src="EC-05181-028.wav" clipBegin="0:06:53.679" clipEnd="0:07:45.222"/>
+			</par>
+			<par id="P35_194">
+				<audio src="EC-05181-028.wav" clipBegin="0:07:45.222" clipEnd="0:07:46.232"/>
+			</par>
+			<par id="source_432">
+				<audio src="EC-05181-028.wav" clipBegin="0:07:46.232" clipEnd="0:08:57.212"/>
+			</par>
+			<par id="P35_195">
+				<audio src="EC-05181-028.wav" clipBegin="0:08:57.212" clipEnd="0:08:58.243"/>
+			</par>
+			<par id="source_433">
+				<audio src="EC-05181-028.wav" clipBegin="0:08:58.243" clipEnd="0:09:23.442"/>
+			</par>
+			<par id="P35_196">
+				<audio src="EC-05181-028.wav" clipBegin="0:09:23.442" clipEnd="0:09:24.528"/>
+			</par>
+			<par id="source_434">
+				<audio src="EC-05181-028.wav" clipBegin="0:09:24.528" clipEnd="0:10:40.261"/>
+			</par>
+			<par id="P31_6">
+				<audio src="EC-05181-028.wav" clipBegin="0:10:40.261" clipEnd="0:10:41.341"/>
+			</par>
+			<par id="source_435">
+				<audio src="EC-05181-028.wav" clipBegin="0:10:41.341" clipEnd="0:10:44.943"/>
+			</par>
+			<par id="P35_197">
+				<audio src="EC-05181-028.wav" clipBegin="0:10:44.943" clipEnd="0:10:45.602"/>
+			</par>
+			<par id="source_436">
+				<audio src="EC-05181-028.wav" clipBegin="0:10:45.602" clipEnd="0:11:17.582"/>
+			</par>
+			<par id="P35_198">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:17.582" clipEnd="0:11:18.184"/>
+			</par>
+			<par id="source_437">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:18.184" clipEnd="0:11:28.233"/>
+			</par>
+			<par id="P35_199">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:28.233" clipEnd="0:11:28.640"/>
+			</par>
+			<par id="source_438">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:28.640" clipEnd="0:11:43.251"/>
+			</par>
+			<par id="P35_200">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:43.251" clipEnd="0:11:43.945"/>
+			</par>
+			<par id="source_439">
+				<audio src="EC-05181-028.wav" clipBegin="0:11:43.945" clipEnd="0:12:19.989"/>
+			</par>
+			<par id="P35_201">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:19.989" clipEnd="0:12:20.656"/>
+			</par>
+			<par id="source_440">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:20.656" clipEnd="0:12:38.437"/>
+			</par>
+			<par id="P35_202">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:38.437" clipEnd="0:12:39.205"/>
+			</par>
+			<par id="source_441">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:39.205" clipEnd="0:12:47.240"/>
+			</par>
+			<par id="P35_203">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:47.240" clipEnd="0:12:47.998"/>
+			</par>
+			<par id="source_442">
+				<audio src="EC-05181-028.wav" clipBegin="0:12:47.998" clipEnd="0:13:00.738"/>
+			</par>
+			<par id="P35_204">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:00.738" clipEnd="0:13:01.444"/>
+			</par>
+			<par id="source_443">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:01.444" clipEnd="0:13:18.561"/>
+			</par>
+			<par id="P35_205">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:18.561" clipEnd="0:13:19.330"/>
+			</par>
+			<par id="source_444">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:19.330" clipEnd="0:13:49.492"/>
+			</par>
+			<par id="P35_206">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:49.492" clipEnd="0:13:50.469"/>
+			</par>
+			<par id="source_445">
+				<audio src="EC-05181-028.wav" clipBegin="0:13:50.469" clipEnd="0:14:48.206"/>
+			</par>
+			<par id="P35_207">
+				<audio src="EC-05181-028.wav" clipBegin="0:14:48.206" clipEnd="0:14:49.029"/>
+			</par>
+			<par id="source_446">
+				<audio src="EC-05181-028.wav" clipBegin="0:14:49.029" clipEnd="0:15:16.995"/>
+			</par>
+			<par id="P35_208">
+				<audio src="EC-05181-028.wav" clipBegin="0:15:16.995" clipEnd="0:15:17.800"/>
+			</par>
+			<par id="source_447">
+				<audio src="EC-05181-028.wav" clipBegin="0:15:17.800" clipEnd="0:15:49.106"/>
+			</par>
+			<par id="P35_209">
+				<audio src="EC-05181-028.wav" clipBegin="0:15:49.106" clipEnd="0:15:50.087"/>
+			</par>
+			<par id="source_448">
+				<audio src="EC-05181-028.wav" clipBegin="0:15:50.087" clipEnd="0:17:41.937"/>
+			</par>
+			<par id="P35_210">
+				<audio src="EC-05181-028.wav" clipBegin="0:17:41.937" clipEnd="0:17:42.950"/>
+			</par>
+			<par id="source_449">
+				<audio src="EC-05181-028.wav" clipBegin="0:17:42.950" clipEnd="0:17:53.103"/>
+			</par>
+			<par id="P35_211">
+				<audio src="EC-05181-028.wav" clipBegin="0:17:53.103" clipEnd="0:17:54.030"/>
+			</par>
+			<par id="source_450">
+				<audio src="EC-05181-028.wav" clipBegin="0:17:54.030" clipEnd="0:19:59.139"/>
+			</par>
+			<par id="P35_212">
+				<audio src="EC-05181-028.wav" clipBegin="0:19:59.139" clipEnd="0:20:00.233"/>
+			</par>
+			<par id="source_451">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:00.233" clipEnd="0:20:14.263"/>
+			</par>
+			<par id="P31_7">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:14.263" clipEnd="0:20:15.348"/>
+			</par>
+			<par id="source_452">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:15.348" clipEnd="0:20:18.436"/>
+			</par>
+			<par id="P35_213">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:18.436" clipEnd="0:20:19.155"/>
+			</par>
+			<par id="source_453">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:19.155" clipEnd="0:20:28.074"/>
+			</par>
+			<par id="P35_214">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:28.074" clipEnd="0:20:28.700"/>
+			</par>
+			<par id="source_454">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:28.700" clipEnd="0:20:39.275"/>
+			</par>
+			<par id="P35_215">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:39.275" clipEnd="0:20:40.034"/>
+			</par>
+			<par id="source_455">
+				<audio src="EC-05181-028.wav" clipBegin="0:20:40.034" clipEnd="0:21:30.435"/>
+			</par>
+			<par id="P35_216">
+				<audio src="EC-05181-028.wav" clipBegin="0:21:30.435" clipEnd="0:21:31.206"/>
+			</par>
+			<par id="source_456">
+				<audio src="EC-05181-028.wav" clipBegin="0:21:31.206" clipEnd="0:22:31.160"/>
+			</par>
+			<par id="P35_217">
+				<audio src="EC-05181-028.wav" clipBegin="0:22:31.160" clipEnd="0:22:31.974"/>
+			</par>
+			<par id="source_457">
+				<audio src="EC-05181-028.wav" clipBegin="0:22:31.974" clipEnd="0:23:40.961"/>
+			</par>
+			<par id="P35_218">
+				<audio src="EC-05181-028.wav" clipBegin="0:23:40.961" clipEnd="0:23:41.716"/>
+			</par>
+			<par id="source_458">
+				<audio src="EC-05181-028.wav" clipBegin="0:23:41.716" clipEnd="0:23:55.921"/>
+			</par>
+			<par id="P35_219">
+				<audio src="EC-05181-028.wav" clipBegin="0:23:55.921" clipEnd="0:23:56.681"/>
+			</par>
+			<par id="source_459">
+				<audio src="EC-05181-028.wav" clipBegin="0:23:56.681" clipEnd="0:24:17.189"/>
+			</par>
+			<par id="P35_220">
+				<audio src="EC-05181-028.wav" clipBegin="0:24:17.189" clipEnd="0:24:18.005"/>
+			</par>
+			<par id="source_460">
+				<audio src="EC-05181-028.wav" clipBegin="0:24:18.005" clipEnd="0:24:45.231"/>
+			</par>
+			<par id="P35_221">
+				<audio src="EC-05181-028.wav" clipBegin="0:24:45.231" clipEnd="0:24:46.016"/>
+			</par>
+			<par id="source_461">
+				<audio src="EC-05181-028.wav" clipBegin="0:24:46.016" clipEnd="0:25:08.936"/>
+			</par>
+			<par id="P35_222">
+				<audio src="EC-05181-028.wav" clipBegin="0:25:08.936" clipEnd="0:25:09.632"/>
+			</par>
+			<par id="source_462">
+				<audio src="EC-05181-028.wav" clipBegin="0:25:09.632" clipEnd="0:25:47.864"/>
+			</par>
+			<par id="P35_223">
+				<audio src="EC-05181-028.wav" clipBegin="0:25:47.864" clipEnd="0:25:48.721"/>
+			</par>
+			<par id="source_463">
+				<audio src="EC-05181-028.wav" clipBegin="0:25:48.721" clipEnd="0:26:19.608"/>
+			</par>
+			<par id="P35_224">
+				<audio src="EC-05181-028.wav" clipBegin="0:26:19.608" clipEnd="0:26:20.568"/>
+			</par>
+			<par id="source_464">
+				<audio src="EC-05181-028.wav" clipBegin="0:26:20.568" clipEnd="0:26:33.363"/>
+			</par>
+			<par id="P35_225">
+				<audio src="EC-05181-028.wav" clipBegin="0:26:33.363" clipEnd="0:26:34.330"/>
+			</par>
+			<par id="source_465">
+				<audio src="EC-05181-028.wav" clipBegin="0:26:34.330" clipEnd="0:28:27.045"/>
+			</par>
+			<par id="P35_226">
+				<audio src="EC-05181-028.wav" clipBegin="0:28:27.045" clipEnd="0:28:28.112"/>
+			</par>
+			<par id="source_466">
+				<audio src="EC-05181-028.wav" clipBegin="0:28:28.112" clipEnd="0:29:42.856"/>
+			</par>
+			<par id="P35_227">
+				<audio src="EC-05181-028.wav" clipBegin="0:29:42.856" clipEnd="0:29:43.801"/>
+			</par>
+			<par id="source_467">
+				<audio src="EC-05181-028.wav" clipBegin="0:29:43.801" clipEnd="0:30:34.798"/>
+			</par>
+			<par id="P35_228">
+				<audio src="EC-05181-028.wav" clipBegin="0:30:34.798" clipEnd="0:30:35.354"/>
+			</par>
+			<par id="source_468">
+				<audio src="EC-05181-028.wav" clipBegin="0:30:35.354" clipEnd="0:31:47.236"/>
+			</par>
+			<par id="P35_229">
+				<audio src="EC-05181-028.wav" clipBegin="0:31:47.236" clipEnd="0:31:48.244"/>
+			</par>
+			<par id="source_469">
+				<audio src="EC-05181-028.wav" clipBegin="0:31:48.244" clipEnd="0:32:06.496"/>
+			</par>
+			<par id="P35_230">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:06.496" clipEnd="0:32:07.369"/>
+			</par>
+			<par id="source_470">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:07.369" clipEnd="0:32:46.523"/>
+			</par>
+			<par id="P31_8">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:46.523" clipEnd="0:32:47.779"/>
+			</par>
+			<par id="source_471">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:47.779" clipEnd="0:32:50.672"/>
+			</par>
+			<par id="P35_231">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:50.672" clipEnd="0:32:51.318"/>
+			</par>
+			<par id="source_472">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:51.318" clipEnd="0:32:55.527"/>
+			</par>
+			<par id="P35_232">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:55.527" clipEnd="0:32:56.091"/>
+			</par>
+			<par id="source_473">
+				<audio src="EC-05181-028.wav" clipBegin="0:32:56.091" clipEnd="0:33:02.739"/>
+			</par>
+			<par id="P35_233">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:02.739" clipEnd="0:33:03.362"/>
+			</par>
+			<par id="source_474">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:03.362" clipEnd="0:33:07.352"/>
+			</par>
+			<par id="P35_234">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:07.352" clipEnd="0:33:08.024"/>
+			</par>
+			<par id="source_475">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:08.024" clipEnd="0:33:15.483"/>
+			</par>
+			<par id="P35_235">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:15.483" clipEnd="0:33:16.152"/>
+			</par>
+			<par id="source_476">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:16.152" clipEnd="0:33:21.190"/>
+			</par>
+			<par id="P35_236">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:21.190" clipEnd="0:33:21.917"/>
+			</par>
+			<par id="source_477">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:21.917" clipEnd="0:33:38.117"/>
+			</par>
+			<par id="P35_237">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:38.117" clipEnd="0:33:38.731"/>
+			</par>
+			<par id="source_478">
+				<audio src="EC-05181-028.wav" clipBegin="0:33:38.731" clipEnd="0:34:07.250"/>
+			</par>
+			<par id="P35_238">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:07.250" clipEnd="0:34:07.820"/>
+			</par>
+			<par id="source_479">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:07.820" clipEnd="0:34:18.297"/>
+			</par>
+			<par id="P35_239">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:18.297" clipEnd="0:34:19.100"/>
+			</par>
+			<par id="source_480">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:19.100" clipEnd="0:34:26.977"/>
+			</par>
+			<par id="P35_240">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:26.977" clipEnd="0:34:27.811"/>
+			</par>
+			<par id="source_481">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:27.811" clipEnd="0:34:37.653"/>
+			</par>
+			<par id="P35_241">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:37.653" clipEnd="0:34:38.388"/>
+			</par>
+			<par id="source_482">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:38.388" clipEnd="0:34:49.372"/>
+			</par>
+			<par id="P35_242">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:49.372" clipEnd="0:34:50.254"/>
+			</par>
+			<seq id="source_483">
+				<audio src="EC-05181-028.wav" clipBegin="0:34:50.254" clipEnd="0:35:13.421"/>
+				<audio src="EC-05181-028.wav" clipBegin="0:35:13.715" clipEnd="0:35:13.784"/>
+			</seq>
+			<par id="P35_243">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:13.784" clipEnd="0:35:14.765"/>
+			</par>
+			<par id="source_484">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:14.765" clipEnd="0:35:34.680"/>
+			</par>
+			<par id="P35_244">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:34.680" clipEnd="0:35:35.584"/>
+			</par>
+			<par id="source_485">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:35.584" clipEnd="0:35:51.373"/>
+			</par>
+			<par id="P35_245">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:51.373" clipEnd="0:35:52.303"/>
+			</par>
+			<par id="source_486">
+				<audio src="EC-05181-028.wav" clipBegin="0:35:52.303" clipEnd="0:36:05.798"/>
+			</par>
+			<par id="P35_246">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:05.798" clipEnd="0:36:06.789"/>
+			</par>
+			<par id="source_487">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:06.789" clipEnd="0:36:21.016"/>
+			</par>
+			<par id="P35_247">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:21.016" clipEnd="0:36:22.022"/>
+			</par>
+			<par id="source_488">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:22.022" clipEnd="0:36:35.079"/>
+			</par>
+			<par id="P35_248">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:35.079" clipEnd="0:36:35.948"/>
+			</par>
+			<par id="source_489">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:35.948" clipEnd="0:36:48.748"/>
+			</par>
+			<par id="P35_249">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:48.748" clipEnd="0:36:49.706"/>
+			</par>
+			<par id="source_490">
+				<audio src="EC-05181-028.wav" clipBegin="0:36:49.706" clipEnd="0:37:05.791"/>
+			</par>
+			<par id="P35_250">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:05.791" clipEnd="0:37:06.721"/>
+			</par>
+			<par id="source_491">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:06.721" clipEnd="0:37:26.228"/>
+			</par>
+			<par id="P35_251">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:26.228" clipEnd="0:37:27.116"/>
+			</par>
+			<par id="source_492">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:27.116" clipEnd="0:37:32.765"/>
+			</par>
+			<par id="P35_252">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:32.765" clipEnd="0:37:33.707"/>
+			</par>
+			<par id="source_493">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:33.707" clipEnd="0:37:54.164"/>
+			</par>
+			<par id="P31_9">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:54.164" clipEnd="0:37:55.244"/>
+			</par>
+			<par id="source_494">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:55.244" clipEnd="0:37:57.322"/>
+			</par>
+			<par id="P35_253">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:57.322" clipEnd="0:37:58.015"/>
+			</par>
+			<par id="source_495">
+				<audio src="EC-05181-028.wav" clipBegin="0:37:58.015" clipEnd="0:38:20.241"/>
+			</par>
+			<par id="P35_254">
+				<audio src="EC-05181-028.wav" clipBegin="0:38:20.241" clipEnd="0:38:20.885"/>
+			</par>
+			<par id="source_496">
+				<audio src="EC-05181-028.wav" clipBegin="0:38:20.885" clipEnd="0:38:51.596"/>
+			</par>
+			<par id="P35_255">
+				<audio src="EC-05181-028.wav" clipBegin="0:38:51.596" clipEnd="0:38:52.251"/>
+			</par>
+			<par id="source_497">
+				<audio src="EC-05181-028.wav" clipBegin="0:38:52.251" clipEnd="0:39:19.181"/>
+			</par>
+			<par id="P35_256">
+				<audio src="EC-05181-028.wav" clipBegin="0:39:19.181" clipEnd="0:39:19.849"/>
+			</par>
+			<par id="source_498">
+				<audio src="EC-05181-028.wav" clipBegin="0:39:19.849" clipEnd="0:39:43.196"/>
+			</par>
+			<par id="P35_257">
+				<audio src="EC-05181-028.wav" clipBegin="0:39:43.196" clipEnd="0:39:43.890"/>
+			</par>
+			<par id="source_499">
+				<audio src="EC-05181-028.wav" clipBegin="0:39:43.890" clipEnd="0:40:17.627"/>
+			</par>
+			<par id="P35_258">
+				<audio src="EC-05181-028.wav" clipBegin="0:40:17.627" clipEnd="0:40:18.467"/>
+			</par>
+			<par id="source_500">
+				<audio src="EC-05181-028.wav" clipBegin="0:40:18.467" clipEnd="0:40:56.543"/>
+			</par>
+			<par id="P35_259">
+				<audio src="EC-05181-028.wav" clipBegin="0:40:56.543" clipEnd="0:40:57.272"/>
+			</par>
+			<par id="source_501">
+				<audio src="EC-05181-028.wav" clipBegin="0:40:57.272" clipEnd="0:41:43.525"/>
+			</par>
+			<par id="P35_260">
+				<audio src="EC-05181-028.wav" clipBegin="0:41:43.525" clipEnd="0:41:44.321"/>
+			</par>
+			<par id="source_502">
+				<audio src="EC-05181-028.wav" clipBegin="0:41:44.321" clipEnd="0:43:04.373"/>
+			</par>
+			<par id="P35_261">
+				<audio src="EC-05181-028.wav" clipBegin="0:43:04.373" clipEnd="0:43:05.335"/>
+			</par>
+			<par id="source_503">
+				<audio src="EC-05181-028.wav" clipBegin="0:43:05.335" clipEnd="0:43:57.390"/>
+			</par>
+			<par id="P35_262">
+				<audio src="EC-05181-028.wav" clipBegin="0:43:57.390" clipEnd="0:43:58.141"/>
+			</par>
+			<seq id="source_504">
+				<audio src="EC-05181-028.wav" clipBegin="0:43:58.141" clipEnd="0:45:00.805"/>
+				<audio src="EC-05181-028.wav" clipBegin="0:45:04.013" clipEnd="0:45:04.065"/>
+				<audio src="EC-05181-029.wav" clipBegin="0:00:09.342" clipEnd="0:00:09.827"/>
+			</seq>
+			<par id="P35_263">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:09.827" clipEnd="0:00:10.732"/>
+			</par>
+			<par id="source_505">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:10.732" clipEnd="0:00:23.733"/>
+			</par>
+			<par id="P35_264">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:23.733" clipEnd="0:00:24.395"/>
+			</par>
+			<par id="source_506">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:24.395" clipEnd="0:00:29.802"/>
+			</par>
+			<par id="P35_265">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:29.802" clipEnd="0:00:30.800"/>
+			</par>
+			<par id="source_507">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:30.800" clipEnd="0:00:35.805"/>
+			</par>
+			<par id="P35_266">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:35.805" clipEnd="0:00:36.680"/>
+			</par>
+			<par id="source_508">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:36.680" clipEnd="0:00:40.966"/>
+			</par>
+			<par id="P35_267">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:40.966" clipEnd="0:00:41.816"/>
+			</par>
+			<par id="source_509">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:41.816" clipEnd="0:00:57.478"/>
+			</par>
+			<par id="P35_268">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:57.478" clipEnd="0:00:58.367"/>
+			</par>
+			<par id="source_510">
+				<audio src="EC-05181-029.wav" clipBegin="0:00:58.367" clipEnd="0:01:45.378"/>
+			</par>
+			<par id="P35_269">
+				<audio src="EC-05181-029.wav" clipBegin="0:01:45.378" clipEnd="0:01:46.373"/>
+			</par>
+			<par id="source_511">
+				<audio src="EC-05181-029.wav" clipBegin="0:01:46.373" clipEnd="0:02:14.603"/>
+			</par>
+			<par id="P35_270">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:14.603" clipEnd="0:02:15.413"/>
+			</par>
+			<par id="source_512">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:15.413" clipEnd="0:02:32.730"/>
+			</par>
+			<par id="P35_271">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:32.730" clipEnd="0:02:33.744"/>
+			</par>
+			<par id="source_513">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:33.744" clipEnd="0:02:37.698"/>
+			</par>
+			<par id="P35_272">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:37.698" clipEnd="0:02:38.299"/>
+			</par>
+			<par id="source_514">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:38.299" clipEnd="0:02:45.546"/>
+			</par>
+			<par id="P35_273">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:45.546" clipEnd="0:02:46.365"/>
+			</par>
+			<par id="source_515">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:46.365" clipEnd="0:02:55.848"/>
+			</par>
+			<par id="P35_274">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:55.848" clipEnd="0:02:56.915"/>
+			</par>
+			<par id="source_516">
+				<audio src="EC-05181-029.wav" clipBegin="0:02:56.915" clipEnd="0:03:50.434"/>
+			</par>
+			<par id="P35_275">
+				<audio src="EC-05181-029.wav" clipBegin="0:03:50.434" clipEnd="0:03:51.492"/>
+			</par>
+			<par id="source_517">
+				<audio src="EC-05181-029.wav" clipBegin="0:03:51.492" clipEnd="0:03:59.217"/>
+			</par>
+			<par id="P35_276">
+				<audio src="EC-05181-029.wav" clipBegin="0:03:59.217" clipEnd="0:04:00.298"/>
+			</par>
+			<par id="source_518">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:00.298" clipEnd="0:04:06.796"/>
+			</par>
+			<par id="P35_277">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:06.796" clipEnd="0:04:07.764"/>
+			</par>
+			<par id="source_519">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:07.764" clipEnd="0:04:14.030"/>
+			</par>
+			<par id="P35_278">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:14.030" clipEnd="0:04:15.084"/>
+			</par>
+			<par id="source_520">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:15.084" clipEnd="0:04:44.442"/>
+			</par>
+			<par id="P34_1">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:44.442" clipEnd="0:04:45.665"/>
+			</par>
+			<par id="P4_98">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:45.694" clipEnd="0:04:46.786"/>
+			</par>
+			<par id="source_521">
+				<audio src="EC-05181-029.wav" clipBegin="0:04:46.786" clipEnd="0:15:06.950"/>
+			</par>
+			<par id="P4_99">
+				<audio src="EC-05181-029.wav" clipBegin="0:15:06.950" clipEnd="0:15:09.122"/>
+			</par>
+			<par id="source_522">
+				<audio src="EC-05181-029.wav" clipBegin="0:15:09.122" clipEnd="0:38:34.372"/>
+			</par>
+			<par id="P4_100">
+				<audio src="EC-05181-029.wav" clipBegin="0:38:34.372" clipEnd="0:38:36.486"/>
+			</par>
+			<par id="source_523">
+				<audio src="EC-05181-029.wav" clipBegin="0:38:36.486" clipEnd="0:39:30.825"/>
+			</par>
+			<par id="P4_101">
+				<audio src="EC-05181-029.wav" clipBegin="0:39:30.825" clipEnd="0:39:31.882"/>
+			</par>
+			<par id="source_524">
+				<audio src="EC-05181-029.wav" clipBegin="0:39:31.882" clipEnd="0:40:29.751"/>
+			</par>
+			<par id="P15_1">
+				<audio src="EC-05181-029.wav" clipBegin="0:40:29.751" clipEnd="0:40:30.471"/>
+			</par>
+			<par id="source_525">
+				<audio src="EC-05181-029.wav" clipBegin="0:40:42.671" clipEnd="0:41:04.809"/>
+			</par>
+		</seq>
+	</body>
+</smil>

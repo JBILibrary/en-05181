@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil v1.1.0//EN" "dtbsmil110.dtd">
+<smil>
+	<head>
+		<meta content="00:00:00" name="dtb:totalElapsedTime"/>
+		<meta content="us-jbi-en-05181" name="dtb:uid"/>
+	</head>
+	<body>
+		<par id="notice_1">
+			<audio clipBegin="00:00" clipEnd="00:08.00" src="protected.mp3"/>
+		</par>
+	</body>
+</smil>

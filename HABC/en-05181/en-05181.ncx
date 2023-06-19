@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx v1.1.0//EN" "ncx110.dtd">
+<ncx lang="en" version="1.1.0">
+	<head>
+		<meta content="us-jbi-en-05181" name="dtb:uid"/>
+		<meta content="0" name="dtb:pageNormal"/>
+		<meta content="0" name="dtb:pageSpecial"/>
+		<meta content="0" name="dtb:pageFront"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="nls-eng, UltraEdit" name="dtb:generator"/>
+	</head>
+	<docTitle>
+		<text>Sephardim in the 20th Century America: In search of unity</text>
+		<audio clipBegin="0:00:00.000" clipEnd="0:00:03.957" src="en-05181hdgs.3gp" type="audio/3gpp"/>
+	</docTitle>
+	<docAuthor>
+		<text>Joseph M. Papo</text>
+		<audio clipBegin="0:00:03.957" clipEnd="0:00:05.409" src="en-05181hdgs.3gp" type="audio/3gpp"/>
+	</docAuthor>
+	<navMap>
+		<navPoint class="notice" id="notice_0001">
+			<navLabel>
+				<text>Protected content notice</text>
+				<audio clipBegin="00:00:00" clipEnd="00:00:07" src="protected.mp3"/>
+			</navLabel>
+			<content src="pdtb_protected.smil#notice_1"/>
+		</navPoint>
+	</navMap>
+</ncx>
