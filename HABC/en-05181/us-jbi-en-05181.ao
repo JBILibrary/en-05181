@@ -1,25 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BookAuthorization xmlns="http://www.daisy.org/DRM/2005/BookAuthorization" xmlns:dba="http://www.daisy.org/DRM/2005/BookAuthorization" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:odrld="http://odrl.net/1.1/ODRL-DD" xmlns:odrlx="http://odrl.net/1.1/ODRL-EX" xmlns:xe="http://www.w3.org/2001/04/xmlenc#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.daisy.org/DRM/2005/BookAuthorization AuthObj.xsd">
-  <!-- Issuer = Issuer identification -->
-  <Issuer uid="DAISY.us-nls">National Library Service for the Blind and Physically Handicapped</Issuer>
-  <!-- Book = container for book identification data -->
-  <Book uid="us-jbi-en-05181"/>
-  <!-- rights = A container for rights expression (plaintext only) -->
-  <odrlx:rights>
-    <odrlx:agreement>
-      <odrlx:asset>
-        <odrlx:context>
-          <odrld:uid>us-jbi-en-05181</odrld:uid>
-        </odrlx:context>
-      </odrlx:asset>
-      <odrlx:permission>
-        <odrld:play/>
-      </odrlx:permission>
-    </odrlx:agreement>
-  </odrlx:rights>
-  <Keys>
-    <ds:KeyInfo>
-     <ds:KeyName>DAISY.us-nls.ntwk-1</ds:KeyName>
-    </ds:KeyInfo>
-  <ContentKey media="text"><xe:EncryptedKey><xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/><xe:CipherData><xe:CipherValue>JMCaOLQOaoOUgdXS0+oLLtCtblssGwDDWy1xIReAhahhSKnUc3PG2wDVyXNGb/pGQsEisx41ajIiuncX6IOB2fGDa5AeXww5U8NyinnRZXAxwD/DrGdLiDR0ySFL552TsTiGNr5M38NfQYx9WCKjqoeKAsGiD4shLai8G376jh4=</xe:CipherValue></xe:CipherData><xe:CarriedKeyName>DAISY.us-jbi-en-05181text</xe:CarriedKeyName></xe:EncryptedKey></ContentKey><ContentKey media="audio"><xe:EncryptedKey><xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/><xe:CipherData><xe:CipherValue>FZIlZ2d54WL7VnIZ9U1u8aIspyvMSZ5+Cqiw76qEQc1rRIsiFtskbpf20tsqZbsFGpdLKQBG49ROXzEo3teBsMGgsvjQ0OF5YrvwIaGRmOQU7vFKSqTZNKBGUhodzt3aogNz9QNKmA3xzEBENCKQD0rCYxsRGOBr3hkgqpumQS8=</xe:CipherValue></xe:CipherData><xe:CarriedKeyName>DAISY.us-jbi-en-05181audio</xe:CarriedKeyName></xe:EncryptedKey></ContentKey><EncryptedRights><xe:EncryptedKey><xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/><xe:CipherData><xe:CipherValue>vqihC7eXPT7Wfb3YSQnuUF/H3ZjkBfIN+FGyZ709T0ZcVXkZZ031ZQsUNi2CldlxxisUUs0FCJGE6yGl0mTWiq9sedtdG3nkI4iofL1Y6h8+0cbyXnUlkP3TC83WRDoqNTEWmvfTPZn1qUFNxo3fAraUbeEJwoK3Wl7K0FxJwdE=</xe:CipherValue></xe:CipherData></xe:EncryptedKey><EncryptedData><EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes128-cbc"/><CipherData><CipherValue>dT8hV3U0PvmnLZln7G+ihVfm5NGsPUe4oDZEaKAfEGqF2NNZdsljs9GmH2Tmj7U0SZ5sEguuzs89q5Nl8borGx4lYkXUj6Vdq/J94NARQrsauKQuY5DPdIx7QQWYcB0NNrg+F1NQi5HD8t4n9UHO6gAGkfDCtP+o8b4asjzmFTr82zXgEbAVcCVs2MuRQRZqgngOT5l3Uz7dXN6NvJoj09N0862gJbp4lKHr31ZwAwiXx+kwU5MP+ZRvuFG/J3duXzjqqYo30eNNin/inrR3MUwX+T8KY939rrSP287F9+CyYdhkxZLFjMWlpCy/cSyxBJsAuvIzhGGSrnV5dkHECAhXRK8X+O1VddN3SDNJrZkUV6MZQ12wSvUINBBY2fUmuzSquz66CAQtXgRGCdv76bnO9D+jJVZYzBIP9estrRLXEJSiWfVL4JMaG/CZciM67pNnG3RvZIs6/AlmVj4IVR9O6Oe59xsx8cUNAROWVhhJmHaCcBa8KgsAhJjFI45Os9Gp7XIQLTAAbLv7Np7LDoqWxOia241nnq4Ubj9AoWM=</CipherValue></CipherData></EncryptedData></EncryptedRights></Keys>
+	<!-- Issuer = Issuer identification -->
+	<Issuer uid="DAISY.us-nls">National Library Service for the Blind and Physically Handicapped</Issuer>
+	<!-- Book = container for book identification data -->
+	<Book uid="us-jbi-en-05181"/>
+	<!-- rights = A container for rights expression (plaintext only) -->
+	<odrlx:rights>
+		<odrlx:agreement>
+			<odrlx:asset>
+				<odrlx:context>
+					<odrld:uid>us-jbi-en-05181</odrld:uid>
+				</odrlx:context>
+			</odrlx:asset>
+			<odrlx:permission>
+				<odrld:play/>
+			</odrlx:permission>
+		</odrlx:agreement>
+	</odrlx:rights>
+	<Keys>
+		<ds:KeyInfo>
+			<ds:KeyName>DAISY.us-nls.ntwk-1</ds:KeyName>
+		</ds:KeyInfo>
+		<ContentKey media="text">
+			<xe:EncryptedKey>
+				<xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/>
+				<xe:CipherData>
+					<xe:CipherValue>JMCaOLQOaoOUgdXS0+oLLtCtblssGwDDWy1xIReAhahhSKnUc3PG2wDVyXNGb/pGQsEisx41ajIiuncX6IOB2fGDa5AeXww5U8NyinnRZXAxwD/DrGdLiDR0ySFL552TsTiGNr5M38NfQYx9WCKjqoeKAsGiD4shLai8G376jh4=</xe:CipherValue>
+				</xe:CipherData>
+				<xe:CarriedKeyName>DAISY.us-jbi-en-05181text</xe:CarriedKeyName>
+			</xe:EncryptedKey>
+		</ContentKey>
+		<ContentKey media="audio">
+			<xe:EncryptedKey>
+				<xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/>
+				<xe:CipherData>
+					<xe:CipherValue>FZIlZ2d54WL7VnIZ9U1u8aIspyvMSZ5+Cqiw76qEQc1rRIsiFtskbpf20tsqZbsFGpdLKQBG49ROXzEo3teBsMGgsvjQ0OF5YrvwIaGRmOQU7vFKSqTZNKBGUhodzt3aogNz9QNKmA3xzEBENCKQD0rCYxsRGOBr3hkgqpumQS8=</xe:CipherValue>
+				</xe:CipherData>
+				<xe:CarriedKeyName>DAISY.us-jbi-en-05181audio</xe:CarriedKeyName>
+			</xe:EncryptedKey>
+		</ContentKey>
+		<EncryptedRights>
+			<xe:EncryptedKey>
+				<xe:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#rsa-1_5"/>
+				<xe:CipherData>
+					<xe:CipherValue>vqihC7eXPT7Wfb3YSQnuUF/H3ZjkBfIN+FGyZ709T0ZcVXkZZ031ZQsUNi2CldlxxisUUs0FCJGE6yGl0mTWiq9sedtdG3nkI4iofL1Y6h8+0cbyXnUlkP3TC83WRDoqNTEWmvfTPZn1qUFNxo3fAraUbeEJwoK3Wl7K0FxJwdE=</xe:CipherValue>
+				</xe:CipherData>
+			</xe:EncryptedKey>
+			<EncryptedData>
+				<EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes128-cbc"/>
+				<CipherData>
+					<CipherValue>dT8hV3U0PvmnLZln7G+ihVfm5NGsPUe4oDZEaKAfEGqF2NNZdsljs9GmH2Tmj7U0SZ5sEguuzs89q5Nl8borGx4lYkXUj6Vdq/J94NARQrsauKQuY5DPdIx7QQWYcB0NNrg+F1NQi5HD8t4n9UHO6gAGkfDCtP+o8b4asjzmFTr82zXgEbAVcCVs2MuRQRZqgngOT5l3Uz7dXN6NvJoj09N0862gJbp4lKHr31ZwAwiXx+kwU5MP+ZRvuFG/J3duXzjqqYo30eNNin/inrR3MUwX+T8KY939rrSP287F9+CyYdhkxZLFjMWlpCy/cSyxBJsAuvIzhGGSrnV5dkHECAhXRK8X+O1VddN3SDNJrZkUV6MZQ12wSvUINBBY2fUmuzSquz66CAQtXgRGCdv76bnO9D+jJVZYzBIP9estrRLXEJSiWfVL4JMaG/CZciM67pNnG3RvZIs6/AlmVj4IVR9O6Oe59xsx8cUNAROWVhhJmHaCcBa8KgsAhJjFI45Os9Gp7XIQLTAAbLv7Np7LDoqWxOia241nnq4Ubj9AoWM=</CipherValue>
+				</CipherData>
+			</EncryptedData>
+		</EncryptedRights>
+	</Keys>
 </BookAuthorization>
